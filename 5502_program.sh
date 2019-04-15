@@ -164,7 +164,7 @@ cp section5/index.txt section6/indexStage.txt
 datamash -t: -s -g 1 collapse 2 < section6/indexStage.txt > section6/index.txt
 
 
-
+#Once the index is build in section 6 here is how you can search a for a word.
 #awk -v val='whereas' '$1 == val' index.txt
 
 

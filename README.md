@@ -4,6 +4,11 @@ Items you might need to install for this script to work
 1.catdoc
 2.datamash
 
+Once the index is build in section 6 here is how you can search a for a word.
+awk -v val='whereas' '$1 == val' index.txt
+
+
+--------------------------------------------------------------------------------------------------------------------
 Portfolio Construction Schedule – INFO 5502
 
 Format:
