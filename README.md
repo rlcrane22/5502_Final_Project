@@ -1,5 +1,9 @@
 # 5502_Final_Project
 
+Items you might need to install for this script to work
+1.catdoc
+2.datamash
+
 Portfolio Construction Schedule – INFO 5502
 
 Format:
