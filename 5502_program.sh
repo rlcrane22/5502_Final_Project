@@ -54,8 +54,15 @@ if [ -d "section3/ngramFiles" ]; then
 	rm -Rf "section3/ngramFiles"; 
 fi
 	mkdir "section3/ngramFiles"
+	
+if [ -d "files" ]; then 
+	rm -Rf "files"; 
+fi
+	mkdir "files"
 
 #All files must be in the files folder. For the first 3 sections we will loop over all files to be index.
+wget -r -l1 -np -nH --cut-dirs=4 -A pdf,doc,txt -q -P files/ http://129.120.58.147/INFO5502-Spring2019/class/dataset-1/Articles_pdf-2018-iConference/
+
 for file in files/*;
 do
 #Section 1 the files must be in the files directory or we will wget to download the files and move them to section 1 directory.------------------------------------------------
@@ -87,7 +94,7 @@ if [[ $file == *.txt ]]; then
 fi
 
 #clean and prep the file
-cat  "section2/files/$currFileName.txt" | tr '.' '\n' | sed $'s/[^[:print:]\t]//g' | tr '[:upper:]' '[:lower:]' |  sed 's/[0-9]*//g' | sed '/^[[:space:]]*$/d' | iconv -c | tr -d '[:punct:]' | sed -e "s/[^ a-zA-Z']//g" -e 's/ \+/ /' | awk '{$1=$1};1' | sed '/^$/d' | awk '{print $0,"\n|||"}' | tr " " "\n" | sed '/^$/d' > "section2/cleanFiles/$currFileName.txt"
+cat  "section2/files/$currFileName.txt" | tr '.' '\n' | sed $'s/[^[:print:]\t]//g' | tr '[:upper:]' '[:lower:]' |  sed 's/[0-9]*//g' | sed '/^[[:space:]]*$/d' | iconv -c -f utf-8 -t ascii | tr -d '[:punct:]' | sed -e "s/[^ a-zA-Z']//g" -e 's/ \+/ /' | awk '{$1=$1};1' | sed '/^$/d' | awk '{print $0,"\n|||"}' | tr " " "\n" | sed '/^$/d' > "section2/cleanFiles/$currFileName.txt"
 
 
 #Section 3 Create ngrams by punctuation.-----------------------------------------------------------------------------------------------------------------
@@ -161,7 +168,10 @@ done
 cp section5/index.txt section6/indexStage.txt
 
 #datamash is the process of merging all the file names that have the same index value.
-datamash -t: -s -g 1 collapse 2 < section6/indexStage.txt > section6/index.txt
+
+cat  section6/indexStage.txt | iconv -c -f utf-8 -t ascii > section6/indexStage2.txt
+
+datamash -t: -s -g 1 collapse 2 < section6/indexStage2.txt > section6/index.txt
 
 
 #Once the index is build in section 6 here is how you can search a for a word.
