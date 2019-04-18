@@ -1,0 +1,916 @@
+Indigenous Peoples’ Rights to Culture and Individual Rights to Access
+
+Kay Mathiesen
+
+School of Information Resources and Library Science
+
+University of Arizona
+
+Tucson, AZ 85719
+
+(520) 621-5219
+
+kmathies@email.arizona.edu
+
+
+
+ABSTRACT
+
+Using the methods of philosophical analysis and concepts from moral and
+political philosophy Indigenous Peoples’ human right to control access
+to their cultural information is defended. The concept of a “right”
+is delineated and different types of rights are differentiated. The
+method of an “overlapping consensus” is used. In attempting to
+articulate the moral foundation for Indigenous Peoples’ rights to
+culture, we can start with justifications for limiting access that are
+already widely accepted within our society.  These widely accepted
+justifications for controlling or limiting access to information include
+the claim that said information is (a) under copyright, (b) a trade or
+state secret, (c) harmful to some segment of society, or is (d) private
+or confidential.  The moral grounds for each of these limitations on
+free access is explored.  (a)-(c) are found to not provide an adequate
+ground for Indigenous People’s rights to control access to their
+culture.  The cultural rights of Indigenous Peoples are defended as a
+form of group privacy. Two possible moral dangers of this defense of
+indigenous peoples rights to culture are considered.  It is shown that
+on a properly nuanced understanding of the contours of the Indigenous
+Peoples’ rights to group privacy, they do not give rise to either of
+these dangers. 
+
+Topics
+
+Cultural information systems
+
+Information policy, ethics, and law
+
+Keywords
+
+Cultural property
+
+Indigenous
+
+Rights
+
+Privacy
+
+Intellectual Property
+
+Access to Information
+
+1. Introduction
+
+Non-Indigenous Americans belong to a national culture that has benefited
+from their past and ongoing oppression and destruction of Native
+American peoples and cultures. As such, we share, along with other
+colonial and majority populations, a collective responsibility to these
+peoples. Thus, non-native persons, organizations, and governments have
+good reasons to support any efforts on the part of native peoples to
+assert their rights.  One of the persisting harms done to indigenous
+peoples is the attempted destruction of their cultures. This attempted
+destruction has been two-fold.  First is the attempted forced
+assimilation of indigenous peoples into the culture of the colonizers.
+The second is the appropriation of that culture through unethical
+anthropological practices, as well as the collection and fetishization
+of native cultures as representations of the exotic, authentic,
+spiritual, or savage.
+
+In this context, the movements of Indigenous peoples around the world to
+reassert their connection to their cultural heritage are a positive
+sign.  This assertion has already affected the practice of archaeology,
+anthropology, and other disciplines that focus on researching indigenous
+peoples and cultures. Indigenous peoples’ continued efforts to get
+back control of their cultural heritage has and will continue to have
+important implications for those concerned with collecting, storing,
+organizing, and providing access to cultural information, e.g.,
+libraries, archives, and museums. 
+
+On September 13, 2007 the United Nations General Assembly adopted the
+Declaration on Rights of Indigenous Peoples (UNDRI) [1].  The UNDRI
+asserts group rights of cultural possession and control, which should be
+of central interest to those in the field of information.  According to
+Article 31 of the UNDRI, for example, Indigenous Peoples have rights to
+“maintain, control, protect and develop their intellectual property
+over…cultural heritage, traditional knowledge, and traditional
+cultural expressions.”   And, according to Article 15, Indigenous
+Peoples have the right to redress for or restitution of “cultural,
+intellectual, religious and spiritual property taken without their free,
+prior and informed consent or in violation of their laws, traditions and
+customs.”  These provisions express the ideals behind a world-wide
+movement by Indigenous Peoples to reclaim their cultural heritage [2],
+[3].
+
+The question for those interested in the preservation and free flow of
+information is how to balance the rights of indigenous peoples to
+culture with the rights of individuals to access information.  In order
+to determine where this balance might be we need a deeper understanding
+of the grounds of the rights of indigenous peoples over their cultural
+information.  Only if we understand the justification for and the
+function of these rights can we understand fully what they may
+reasonably demand of us.  Providing such a justification is the goal of
+this paper. 
+
+2. THE PROTOCOLS FOR Native American Archival Material AND RESTRICTIONS
+ON ACCESS
+
+Recently, a number of Native and Non-Native American Librarians and
+Archivists collaboratively drafted the “Protocols for Native American
+Archival Material” (PNAAM)[4].  PNAAM describes in detail what these
+professionals and community members consider the best practices in the
+handling of Native American archival materials housed in archives,
+libraries, museums, etc.  Materials covered by PNAAM include recordings
+and transcripts of such works as songs, chants, personal or family
+information, oral histories, community histories, "myths,” and
+folklore; Cartographic Materials of such things as sacred sites or
+areas, village sites, territories, use areas; and archaeological data,
+ethno-botanical materials, or genealogical data.  
+
+2.1 NAGPRA and Information Objects
+
+Discussions of indigenous cultural rights, particularly in the United
+States, cannot be understood without some familiarity with the Native
+American Grave Protection and Repatriation Act (NAGPRA).  NAGPRA, which
+was passed in 1990, requires the cataloguing and repatriation of Native
+American human remains, funerary objects, and objects of “cultural
+patrimony.”  According to the National NAGPRA Report so far, “there
+have been 360 Notices of Intent to Repatriate published…which account
+for 118,442 funerary objects, 3,585 sacred objects, 296 objects of
+cultural patrimony, and 768 sacred objects that are also cultural
+patrimony”[5]. 
+
+n group or culture itself, rather than property owned by an individual
+Native American, and which, therefore, cannot be alienated,
+appropriated, or conveyed by any individual regardless of whether or not
+the individual is a member of the Indian tribe or Native Hawaiian
+organization and such object shall have been considered inalienable by
+such Native American group at the time the object was separated from
+such group” [6].
+
+Some have argued that the cultural patrimony section of the law covers
+information objects, such as songs, descriptions or pictures of rituals,
+etc.  However, the language of it being “an object” implies that it
+does not cover information, which is not typically described as an
+“object.” We can make a distinction between an object—such as a
+manuscript describing a ritual, recording of a song, picture of a
+basket, and the information contained in that object.  Thus, even if
+NAGRPA covers the returning of the object, our question is whether it
+includes the “return” of control over the information contained in
+the object. Compare the rights I may have in a painting and the rights I
+have in any reproductions of that painting. If someone steals the
+painting from me, I have rights to have the painting returned, but I do
+not necessarily have any rights in reproductions. The right in
+reproductions may be with someone else, e.g., the artist, or it may be
+in the public domain.  While NAGPRA provides us with a model of how
+cataloguing and repatriation works, and thus, provides a guide for how
+such cataloging and repatriation might go for cultural information,
+NAGPRA itself does not presently provide a legal requirement for the
+cataloguing or repatriation of cultural information.   
+
+2.2 The Provisions of PNAAM 
+
+PNAAM is particularly laudable insofar as it tries to balance the rights
+and responsibilities of both tribes and non-tribal information stewards,
+by providing a list of best practices for both communities. It calls for
+the creation of relationships between the tribes and archives. Thus,
+anyone dealing with Native American archival materials must read and
+seriously consider PNAAM.  
+
+To give a sense of the suggestions in PNAAM it is worth quoting some of
+the recommendations at length.  With regard to removal or intentional
+non-preservation of information objects, PNAAM states that, “Some
+items, such as a photograph of a sacred ceremony, or object, or
+culturally sensitive documentation of a burial, should not be preserved
+forever or may need to be restricted or repatriated to the culturally
+affiliated group” [4]. With regard to restricted access, PNAAM states
+that archivists and others ought to, “Respect a community’s request
+to restrict access to and use of materials that describe and represent
+esoteric, ceremonial, or religious knowledge that is significant to the
+community” [4].  Clearly, although such material may be in the form of
+original documents in an archive, it may also be included in published
+works held by academic and public libraries.  Thus, the same reasoning
+that would lead to restricting access to archival materials which
+represents such knowledge would lead to restricting access to published
+works that represent such knowledge. 
+
+3. INTELLECTUAL FREEDOM AND THE INFORMATION PROFESSIONS
+
+A number of authors in both philosophy and LIS have argued that access
+to information is key to our capacity to enjoy our democratic and
+personal freedoms. Alfino and Pierce, for example, argue that,
+“information… in the context of guided inquiry…supports the
+development of personal autonomy and personal agency” [7]. Information
+Professionals, particularly in the U.S. context, see their profession as
+devoted to intellectual freedom and the public domain.  The American
+Library Association, for instance, proclaims that, "Intellectual Freedom
+is the right of every individual to both seek and receive information
+from all points of view without restriction. It provides for free access
+to all expressions of ideas through which any and all sides of a
+question, cause or movement may be explored. Intellectual freedom
+encompasses the freedom to hold, receive and disseminate ideas”
+[emphasis added] [9]. These values are also embedded in the United
+States Constitution.  The U.S. Supreme Court has held that access to
+information is a constitutional right.  “The right of freedom of
+speech and press includes not only the right to utter or to print, but
+the right to distribute, the right to receive, the right to read (Martin
+v. Struthers, 319 U.S. 141, 143 ) and freedom of inquiry, freedom of
+thought, and freedom to teach (see Wieman v. Updegraff, 344 U.S. 183,
+195 )” [8]. 
+
+This commitment makes any content-based restriction on access to
+information is suspect.  A possible case might make the possible
+concerns clearer.  Suppose, for example, that a student researching
+folklore wishes to access a recording of a traditional song held by a
+library or archive.  Perhaps he or she wishes to determine whether or
+how this story might be related to stories in other cultures.  Suppose
+that, after the library or archive consults with the tribe from which
+the story originated, the tribe wishes to deny access to anyone engaged
+in this sort of research.  Ought the library to restrict access? What
+would the Library Bill of Rights (LBR), for example, advise a librarian
+or other information professional to do? 
+
+According to Article three of the LBR, “Libraries should challenge
+censorship in the fulfillment of their responsibility to provide
+information and enlightenment” [9] It may appear that restricting
+access to information because a particular group does not want outsiders
+to know the information amounts to censorship. Even if such limitations
+are not “censorship” per se, they may still illegitimately infringe
+our rights to access information. Indeed, the LBR recognizes that there
+are a wide range of ways in which our rights of expression and access
+may be abridged and calls for resisting them.  According to Article four
+of the LBR, “Libraries should cooperate with all persons and groups
+concerned with resisting abridgment of free expression and free access
+to ideas.” [9]. And Article five of LBR seems to pose some serious
+problems for some of the best practices listed in PNAAM.  Furthermore,
+if groups wish to limit access to works based on the ethnic origin 
+(e.g., whether or not one is a tribal member), age, or gender of the
+patron, this may conflict with the requirement of the LBR that, “A
+person’s right to use a library should not be denied or abridged
+because of origin, age, background, or views” [9].                    
+      .        
+
+In order to answer our question of how to balance the rights of
+indigenous peoples to their culture with the rights of individuals to
+access information we need to have a deeper understanding of the grounds
+for these rights. Only if we understand the justification for and
+function of these rights can we understand fully what they demand of us
+and what they require.  Since the focus here is on the rights of
+indigenous peoples to control access to information and the rights of
+individuals to access information, it will be worthwhile to familiarize
+ourselves a bit with the literature on “rights.” 
+
+4. RIGHTS
+
+Both those who champion individual rights to access and use information
+and those who assert the rights of indigenous peoples over this
+information use the language of “rights.”  This is most clear in the
+the United Nations Declaration on the Rights of Indigenous Peoples, and
+the Library Bill of Rights.  However, it is also a powerful theme in
+PNAAM, which states, for example, that, “Libraries and archives must
+recognize that Native American communities have primary rights for all
+culturally sensitive materials that are culturally affiliated with
+them.  These rights apply to issues of collection, preservation,
+access, and use of or restrictions to these materials” [4] [emphasis
+added].   It will be useful, then, to briefly discuss what rights are,
+and more specifically how we should understand the rights claimed by
+those advocating access and those advocating the rights to control
+access and use of information.
+
+Typically when someone says that they have a right to x, they are
+referring to what the rights theorist W.H.  Hohfeld called “claim
+rights” [12].  If I have a claim right to read, for example, that
+means that others would have correlative duties that they ought to
+fulfill. If I have a claim right to read a book, then you may have some
+sort of duty to make the world such that I actually can effectively
+read. If you fail to do your duty, then you are “violating” my
+right. Your duty might be to not interfere. So, for example, in
+asserting my right to read, I may be saying that you have a duty to you
+refrain from criticizing me publicly for reading the book, turning off
+the lights so I can’t read the book, or to remove the book from the
+public library.  Or your duty may be to actual in some way assist me.
+So, for example, others may be obligated to fund public schools where I
+would be taught to read and public libraries that would stock this and
+other books.  Rights theorists typically call the right imposes for
+first sort of duty on others a negative (or liberty) right and the right
+that imposes for second sort of duty on others a positive (or welfare)
+right [13].  In other words, if I have a liberty right to read, then
+others are obligated to refrain from interfering with my reading. If I
+have a welfare right to read others are obligated to provide me the
+conditions necessary for reading.
+
+Below I will often talk about the “contours” of a right. It is worth
+saying a bit here about what I mean by that.  We often think of rights
+as simple—you have a right, or you don’t.  So, for example, if I
+have a property right to my car, then we might think of it as a sort of
+bubble around my car—I can do what I want with my car—dent it with a
+hammer, paint it bright pink, and others cannot do things to my car
+without my permission.  But rights are almost never so simple. There are
+all sorts of things that I am not allowed to do to or with my car—I
+cannot drive it 100 miles an hour on a city street, I cannot drive a car
+that pollutes, etc. Thus, my rights to my car do not form a sort of
+smooth circle around my car, but rather has contours of what I can and
+cannot do in relation to my car. 
+
+Consider my “right to read” again. We often say that we have a
+constitutional right to read what we wish—again it is as if there is a
+bubble of protection around our acts of reading that forbid others from
+interfering with them. But, this bubble is dented with all sorts of
+exceptions.  You do not have a constitutional right to read other’s
+private medical records, to read pirated copies of a work, to read
+documents that contain national secrets, or to read slanderous remarks
+about someone.  In all these cases the government is permitted to pass
+laws to restrict our access to such works.  Our rights to read have
+contours that are quite complex. Given this, the mere fact that one has
+a “right” with regard to x, does not answer the question as to
+whether one can do some particular thing with regard to x.  It will
+depend on the precise contours of the right in question.  In particular,
+exactly what actions does the right authorize? 
+
+With this account of rights at our disposal we can characterize what the
+potential conflict between claims of rights to culture and claims to
+freedom of access.  On the one hand, there is the view that indigenous
+peoples have a right to control access to cultural information. This
+means, that, if they wish, they may assert a right that, with regard to
+certain information, it be destroyed, all copies be returned to the
+group, or that, while the information objects may remain outside the
+direct physical control of the group, access this information should be
+restricted according to the wishes of the group.  Such a right would
+place a duty on others to refrain from accessing this information and
+may place a duty on the current “stewards” of the information to
+ensure that the rights of indigenous people with regard to this
+information are respected.  Since the rights of indigenous peoples place
+a duty on others not to access information in some cases, this means
+that outsiders would not be free to access such materials. 
+
+5. OVERLAPPING CONSENSUS
+
+Many have noted that indigenous peoples have unique perspectives on the
+world that provide an important alternative to western perspectives. As
+Ermine notes, western and indigenous peoples have, “disparate
+worldviews each formed and guided by distinct histories, knowledge
+traditions, values, interests, and social, economic, and political
+realities” [14]. Indeed, this difference is often cited as an
+important reason that such cultures ought to be protected and preserved.
+ However, the fact that indigenous peoples have unique world-views
+creates a special challenge to any theorist trying to provide a
+discussion of the reasons that might support their rights claims. 
+Indigenous peoples themselves may have unique beliefs about the world
+and their place in it that grounds their claims to various cultural
+rights. Non-indigenous peoples should recognize the importance that such
+beliefs have for indigenous peoples and, ideally, could learn new and
+possibly better ways of being in the world.  Nevertheless, if as a
+matter of fact non-indigenous peoples do not share these views, then the
+reasons that may be compelling for indigenous peoples will have no grip
+on non-indigenous peoples.
+
+John Rawls was the preeminent Political Philosopher of the late 20th and
+early 21st Century.  Rawls developed a theory of how principles of
+justice might be grounded and justified without appealing to what he
+called “controversial metaphysical commitments.”  Rawls argued that
+in a pluralistic society such as many of us live in, we cannot expect
+that people share the same values, metaphysical or spiritual
+perspectives, and beliefs [15].  He argued, however, that in such a
+society we can agree on shared principles, via an “overlapping
+consensus.” We can each support a principle from our own perspective,
+while understanding the perspectives of the others.  A simple example
+from the United States context will illustrate this.  Consider the idea
+of the separation of church and state.  Both religious and non-religious
+people can accept this principle as expressing the idea of the freedom
+of conscience.  However, the religious person may be committed to such a
+principle on the grounds that persons should come to God as a matter of
+individual conscience, which would be interfered with if the state in
+any way mandated a particular religion or religious instruction.  The
+atheist may be committed to such a principle on the grounds that
+religions are all equally false, but given that people are personally
+committed to them they should be free to indulge in their religious
+beliefs and practices as much as any other private club or activity. 
+The religious person and the atheist do not have to share robust
+world-views including spiritual, metaphysical, or moral beliefs in order
+to share a commitment to the principle of the separation of church and
+state.   
+
+It is worth noting that this view is not based on skepticism about
+whether there is moral or religious truth.  Rather, it is based on the
+philosophical and practical recognition that reasonable persons differ
+on such issues.  The fact that people differ is not based on the
+ignorance or perfidy of some.  Thoughtful and intelligent persons of
+good will can have very different views about the nature of the universe
+and the place of human beings in this universe.  In the rest of this
+paper, I try to find principles which can form the basis of an
+overlapping consensus of both indigenous and non-indigenous peoples. 
+
+6. JUSTIFICATIONS FOR LIMITING ACCESS TO INFORMATION
+
+As noted above rights are always complex. To say we have a right to free
+speech is not to say that we can say whatever we want or publish
+whatever we want. There are many limitations on free speech with which
+we are quite comfortable and familiar.  We often do not think of them as
+limitations, because we simply don’t think of certain activities as
+being covered by a right to free speech.  Here I am going to focus on
+the limitations standardly found in U.S. law.  We we can roughly
+categorize such rationales for limiting speech as the following:
+Copyright (or intellectual property more generally), Secrecy (including
+Government Secrecy and Trade Secrets), Harmful Material (including such
+things as Obscenity and Child Pornography), and Privacy. 
+
+6.1 Intellectual Property
+
+The most commonly given account of the basis of the putative right of
+indigenous peoples to control access to cultural information is
+intellectual property.  The rights of authors under copyright include
+the exclusive right to publish a work, to publicly display the work, to
+make copies of the work, and to create derivative works based on the
+original work [16].  If indigenous peoples hold copyright in their
+cultural information, then it would be prohibited for outsiders to
+reproduce cultural information, to display it, or to copy it.  So, for
+example, it would prohibit a person from placing a traditional song,
+image, or story on the internet without the prior permission of the
+tribe to whom this song, image, or story belongs.   
+
+The foundational idea of intellectual property is that authors have
+rights in their creations. And, in many cases the “author” of a work
+is not a single individual, but a group of individuals.  In such cases
+the copyright is often held by a collective entity of which these
+individuals are members. Think, for example, of the copyright that is
+held by the Disney Corporation. The works in question are often the
+creation of a large number of persons working together under the aegis
+of Disney. Similarly, traditional songs, stories, visual works, etc. are
+the creations of individual indigenous persons working together as
+members of a particular tribe.  Following the logic of intellectual
+property, indigenous peoples would have authorship rights in their
+culture, because it is their collective creation.  
+
+There are a number of ways in which copyright seems exactly suited to
+the sorts of rights that indigenous peoples claim in their cultural
+information.  However, there are a number of features of copyright, at
+least as it has been established in the U.S. constitution and law, that
+make it a poor fit as a paradigm for the rights that indigenous peoples
+have in relation to their cultural information.   
+
+First, the tradition of copyright in the anglo-american context has
+always been that it is time limited.  Indeed, originally copyright could
+only be held for 14 years with one possible extension [17].  Even now,
+while the period of copyright has been significantly extended, to life
+of the author plus 70 years, or for corporations 90 years after the
+publication of the work.  The idea behind these limitations is that the
+rights of authors to their cultural property must be balanced against
+the importance of the free flow of information characterized by the
+public domain.  Even if we argued that all cultural information should
+now be repatriated based on the argument that past publication of the
+works were forced rather than a genuine choice of the peoples in
+question, any future publication, public performance, etc. of the works
+would start the clock ticking.  Indigenous peoples would likely not be
+happy with the thought that if they in any way publicly share their
+culture they will lose rights over it in one hundred years.  They
+precisely do not conceive of their culture as something that can go into
+the public domain of the larger culture to be used as persons wish. 
+
+Second, in order for a work to qualify for copyright, it must be fixed
+in a “tangible form of expression” [16].  Thus, for cultures that
+have traditionally had strong oral traditions where works may not be
+written down, copyright would not cover such cultural information. 
+Indeed, as long as a work is oral and not written, the copyright would
+belong to the person or group who records or writes down a story or
+song, not to the person or group who originated the story or song. 
+
+Third, the rights of authors under copyright only cover the form of the
+expression, not the idea or story expressed.  With regard to a story,
+for example, it covers the actual words used to tell the story, not the
+form or type of story itself.  This is even more true for descriptions
+of practices. While an indigenous group may have copyright on a
+particular description of a practice that they engage in, they do not
+have copyright over the description of this practice.  And, unless they
+write down or record the particular movements of the practice, they have
+no copyright over it if others come to know about it.  
+
+Finally, even if indigenous peoples were willing to accept time limits
+(or even if we were willing to remove the time limits in cases of
+indigenous cultural information), there are fair use exceptions to all
+of the exclusive rights that authors have in their works. No author has
+complete control over his or her works.  Others may use or quote from
+the work for the purposes of commentary and criticism.  Others may use
+small pieces not central to the work in “transformative” uses.  And,
+if the use is for scholarly, as opposed to monetary gain, there is more
+room for fair use.  It is not clear that indigenous peoples would find
+such exceptions acceptable.  It is a mistake to think that indigenous
+peoples only object to their works being used by others for monetary
+gain.  It is the inappropriate access and use of such information that
+is the problem and the inappropriateness can equally be in someone who
+is using the works for scholarly or educational purposes.  
+
+6.2 Secrecy—Trade and State
+
+The law also protects the right of certain groups to keep information
+secret.  Some of this falls under the rubric of intellectual property in
+the form of trade secrets.  There are also laws protecting state
+secrets.  Some have argued that trade or state secrets are the right
+model for justifying and protecting indigenous peoples rights to their
+cultural property.  
+
+According to the Uniform Trade Secrets Act [18], a "trade secret" is:
+“information, including a formula, pattern, compilation, program
+device, method, technique, or process, that: (i) derives independent
+economic value, actual or potential, from not being generally known to,
+and not being readily ascertainable by proper means by, other persons
+who can obtain economic value from its disclosure or use, and (ii) is
+the subject of efforts that are reasonable under the   circumstances to
+maintain its secrecy.” 
+
+There are features of trade secrecy that again seem to make it a poor
+fit for indigenous people’s rights to cultural information. It is,
+like other things covered by intellectual property law, intended to
+promote discovery and innovation.  The idea is that people will not be
+able to spend the time as a group developing new products, inventions,
+or techniques, if their work can be taken and used by others. In
+particular, the focus is on economic or monetary value that a secret may
+potentially have had.  Thus, the value that indigenous persons may place
+on some information being secret is not captured in the current law on
+trade secrets.                            
+
+Some have suggested that indigenous cultural information is akin to
+state secrets.  In one way state secrets seem a better fit.  They do not
+focus on monetary value or in promoting innovation.  However, they do
+focus on protecting security.  According to the United States Court of
+Appeals, "The state secrets privilege is a  HYPERLINK
+"http://en.wikipedia.org/wiki/Common_law" common law  evidentiary rule
+that allows the government to withhold information from discovery when
+disclosure would be inimical to national security" [19].  It is not
+clear that all (or even most) the cultural information that indigenous
+peoples would want to protect would fall under the concept of a state
+secret necessary to protect security. If it is protect the security of
+their land, then this may give indigenous persons an internal reason to
+have customs, policies, or laws protecting such information.  This would
+limit the information so protected to that which could be legitimately
+understood as necessary to protect the security of the indigenous people
+in question. Furthermore, the idea that certain information is
+“secret” depends on the fact that they have not been revealed. There
+seems to be little sense in saying that something that has been
+published and has been widely available in libraries and the internet is
+“secret” information.  Thus, an appeal to secrecy would not provide
+grounds for repatriating information.  
+
+6.3 Harmful Material
+
+In addition to intellectual property and secrecy limitations on access
+to information U.S. law also has provisions to limit people’s access
+to “harmful” information.  Information may be harmful in the sense
+that a person can use the information to engage in harmful activities. 
+So, for example, we might limit people’s access to information about
+the security plans of a power plant or town reservoir.  Information may
+be considered harmful in the sense that it is harmful for people to be
+exposed to certain information.  So, for example, there are limitations
+on how much graphic violence can be shown on broadcast television.  The
+idea is that it can be upsetting to people to be unwittingly exposed to
+such material.  And, some may even think that information may be harmful
+to some (children), but not necessarily harmful to others (adults). 
+Thus, the law limits children’s access to certain sorts of explicit
+sexual material, while not limiting adults’ access to such material. 
+
+It may be argued that certain indigenous cultural information can be
+harmful if accessed by the wrong person in the wrong way. While
+arguments that information may be harmful are frequently a subject of
+quite strong disagreement and debate, decisions about whether material
+may be restricted due to putative harm is standardly determined through
+democratic processes as constrained by the Constitution.  It is very
+possible that non-indigenous persons will not share the views of
+indigenous persons about the harm that could result from exposure to
+songs, images, or information about religious practices.  In other
+words, the harm justification is unlikely to gain an overlapping
+consensus. 
+
+6.4 Privacy and Confidentiality
+
+The final justification for limiting access to information is based on
+claims of privacy or confidentiality. Informational privacy concerns
+information about persons, which is considered “sensitive.” 
+According to Ronald Standler, for example,  “Privacy is the
+expectation that confidential personal information disclosed in a
+private place will not be disclosed to third parties, when that
+disclosure would cause either embarrassment or emotional distress to a
+person of reasonable sensitivities. Information is interpreted broadly
+to include facts, images (e.g., photographs, videotapes), and
+disparaging opinions” [20].
+
+On the face of it, privacy may seem to be the least likely candidate for
+grounding indigenous people’s rights to cultural information.  One
+tends to think of privacy as essentially an individual right. Indeed, a
+number of authors have specifically characterized the right of privacy
+as “the right to be let alone” [21].  And the supreme court, in
+rejecting the claim of a corporate right to privacy held that
+“corporations can claim no equality with individuals in the enjoyment
+of a right to privacy” [22].  Indeed, some have actually characterized
+a right to privacy as a right to “individuality.”  This seems on the
+face of it to exclude groups such as tribes or clans from defending
+their claim to their cultural information as a type of right to privacy.
+ 
+
+However, I want to argue that indeed there is a notion of group privacy
+and that it can provide the best grounds for indigenous peoples rights
+to limit access to their cultural information.  The value of the right
+to group privacy—to control what information those outside of the
+group have about the group—is essentially the same value as individual
+privacy.  We can find three accounts of the underlying values that a
+privacy right serves in the literature on privacy.  We can call these
+strands the Consequentialist, the Kantian Liberal, and the Communitarian
+views. All of these views provide support for a group right to privacy
+in cultural information.
+
+6.4.1 Consequentialist Defense of Group Privacy 
+
+On the consequentialist view the value of privacy is that it allows us
+to gain certain benefits and avoid certain harms. Posner discusses this
+feature of privacy in an article that in general is skeptical about the
+value of privacy [23].  He argues that certain sorts of goods—e.g.,
+those that require confidentiality, could not be enjoyed without
+privacy.  Some argue that the fact that people find invasions of privacy
+personally distressing provides at least some moral grounds for
+preventing and avoiding such invasions. 
+
+It is obvious that the group’s ability to control access to their
+cultural information will often have good consequences.  First, in line
+with Posner’s argument, it will make them more willing to share
+information among themselves and with outsiders, if they know that they
+can control the extent to which such information is disseminated.  This
+is valuable for the ability of the group to have a rich culture and
+allows a freer flow of information to the outside.  If the group has no
+ability to control the dissemination of information about their culture,
+they may be less likely to share such information for fear that it will
+leak out into the public domain.  Second, it is clear that many
+indigenous peoples find it distressing for outsiders to know about,
+publicly display, etc., cultural information.  Thus, limiting other’s
+ability to do this will avoid the bad consequences of this distress. 
+
+6.4.2 Kantian Liberal Defense of Group Privacy
+
+The Kantian Liberal view holds that privacy is essential to human
+dignity.  In particular, it is argued that privacy provides a sphere of
+autonomy for individuals which is necessary for them to live
+authentically human lives. If other’s can use personal information
+about me for their own ends, they fail to treat me with dignity as a
+human being [24].   And, if other’s can observe me without my
+permission, they interfere with my ability to make my own choices free
+from external scrutiny.  I call this view the Kantian Liberal view of
+privacy, because it’s emphasis on the importance of individual
+autonomy is clearly inspired by Kant’s idea that persons are
+fundamentally rational beings capable of choice and his categorical
+imperative that persons ought not be treated as a means.  It is liberal
+insofar as it focuses on the liberty of the individual and the
+fundamental grounds of our capacity for individuality and individual
+expression.  
+
+It is not only individuals, but also groups that may be
+“autonomous.”  We can call this “collective autonomy.” 
+Collective autonomy is closely tied to the concepts of
+self-determination and sovereignty. In order to have collective
+autonomy, we may argue that a group needs what Loretta Todd has called
+“cultural autonomy.” According to Todd, cultural autonomy
+“signifies a right to one’s origins and histories as told from
+within the culture and not as mediated from without” [25]. This right
+to cultural autonomy is violated when others appropriate cultural
+information.  As Todd describes it, “Appropriation occurs when someone
+else speaks for, tells, defines, describes, represents, uses, or
+recruits the images stories, experiences, dreams of others for their
+own” [25]. This idea is closely tied to the argument that Bloustein
+[24] makes that personal dignity is harmed when persons are used as a
+“means” to others entertainment, curiousity, or economic gain.  In
+such a case, a person’s dignity and ability to control his own
+life—by having control over his identity, are harmed. In a similar
+way, a group that cannot have some control over how its identity as
+defined when its culture is used, exploited is treated as a means,
+rather than as an end in itself. 
+
+6.4.3 Communitarian Defense of Group Privacy
+
+The Communitarian view of the value of privacy holds that privacy is
+essential to us as social beings [26] [27].  In particular, it allows us
+to modulate how much and what type of information that others have about
+us.  This allows us to form intimate relationships by selectively
+revealing private information to some persons. According to Charles
+Fried, for example, intimacy requires that we have the ability to reveal
+information about ourselves, which we do not reveal to all. Privacy is
+thus a means to modulate degrees of friendship ([26], 210-211)  Privacy
+provides freedom to define ourselves in relation to others, by not
+revealing our every thought. ([26], 212). 
+
+The Communitarian argument can also be marshaled to defend a group right
+to privacy.  Group privacy is important for both the capacity for
+members within the group to form relationships and engage in various
+social and cultural activities, and to modulate their relationships with
+external individuals and groups.   The connection between privacy and
+the ability to form relationships can also be seen in the case of group
+privacy.  Group privacy is necessary for the creation and maintenance of
+both internal relationships among the members of a group and external
+relationships between the group and other groups or individual non-group
+members.   Indeed, Gerstein specifically makes this connection in his
+discussion of privacy [27].  He notes that from within the experience of
+a religious ceremony its significance depends on its religious meaning
+for the participants.  “This means that there will always be the
+threat of the degeneration of the religious act into a mere form, a
+hollow shell with nothing but its surface attractiveness to give it
+value.  Again, the need to deal with this threat from within makes it
+necessary to resist observation from without.  The presence of the
+onlooker, if it is not met with resistance, makes those involved in the
+ceremony accomplices in a concentration on the surface of things at
+expense of inner meaning” ([27], 270).  He argues that even if one’s
+actions are motivated by noble goals they can be destructive to the
+meaning of the act for the participant ([27], 270). “[H]e may well
+feel as sense of desecration whenever what was to function purely as
+part of the expression of a relationship between himself and his God is
+made use of by others—even as a means of learning about that
+relationship” ([27] 270) 
+
+7. Limitations on Group Privacy
+
+If we accept the idea that indigenous groups have a right to cultural
+privacy, which places a duty on states and individuals to limit access
+to certain sorts of cultural information. we are still faced with an
+important question.  “Why do Indigenous Peoples (in particular) have a
+right to cultural privacy?”  What about other groups such as
+Scientology, the Catholic Church, the American Library Association, the
+Amish? Do they also have rights to cultural privacy that we have a duty
+to respect?  
+
+There are a number of features of the case of indigenous peoples that
+make their claim to cultural privacy much stronger.  First, recall that
+the function of privacy protections is to protect and enhance autonomy,
+individual or collective, and to preserve individuality, personal or
+cultural.  Some sorts of entities have a greater claim to autonomy
+promoting protections than others—adults more than children, humans
+more than animals.  Interestingly, it is because some entities have a
+greater capacity for autonomy and a greater need for it that we are more
+concerned to promote it.  Some groups have a greater capacity and need
+for autonomy than others.  The more “comprehensive” a group is—the
+more aspects of life it encompasses, the greater its capacity and need
+for autonomy or “self-rule.”  Indigenous groups often encompass
+multiple aspects of their member’s lives—spiritual, physical,
+educational, political, etc.  Other groups, such as the American Library
+Association, for instance, do not have this sort of comprehensive
+character. The ALA only encompasses the professional lives of its
+members. Typically members will belong to many other sorts of groups,
+which will encompass other parts of their lives—family, religion,
+political party, ethnic group.  Given this the ALA has both less of a
+capacity to be fully an autonomous group and it has less of an important
+role in the lives of its members. Thus, such comprehensive communities
+as indigenous peoples will require greater autonomy, thus will have a
+stronger claim to informational privacy.
+
+Secondly, it may be that there are certain contextual features of some
+groups that provide grounds for greater informational privacy
+protections.  Two dimensions of the context of indigenous peoples give
+them greater claim to cultural privacy than many other groups: their
+current context and the historical context of genocide, forced
+assimilation, and cultural appropriation.  In the current national and
+international context many indigenous peoples are parts of larger states
+or cultural groups that are both culturally different and culturally
+dominant, there is a greater need for that group’s culture to be
+protected [28]. The case of indigenous peoples, indeed, is of particular
+note, because they face not just neglect, discrimination, and swamping
+by the majority culture, but the active appropriation and exploitation
+by the majority culture.  Many within majority cultures do not just
+neglect the cultures of indigenous peoples, but try to attain some sort
+of false authenticity through acts of appropriation.  Such acts of
+appropriation are often also commercializing and imply that the cultures
+are “dead” or something of the past, rather than living cultures
+within which people find meaning and live their lives.  This
+appropriation threatens the meanings of the culture for those who live
+within it. This is a sort of threat that is not faced by such groups as
+those listed above. 
+
+Given that the last two reasons for supporting a duty to respect the
+right to cultural privacy on the part of indigenous peoples are heavily
+contextual, it may be that such rights and the concomitant duties, are
+remedial, rather than eternal.  While the concept of cultural privacy is
+important, it may be that the values of free flow of information are
+sufficiently important that when a group is culturally strong we should
+strike a different balance from the one we strike when the group had not
+had the power to use normal means to protect its culture in the past.  
+
+There are, however, important limits to the rights of cultural privacy
+It is important to note that indigenous groups do not exist in a realm
+separate from other groups and individuals, thus it is neither possible
+nor feasible that they have “absolute” privacy.  What they do
+affects others and insofar as they engage with others, there needs to be
+some degree of transparency in their interactions and they need to be
+open to discussion and criticism.  
+
+In particular, it is important that we address concerns that privacy
+claims may be used to cover up corruption, abuses of power, deception,
+etc. As Judith DeCew has pointed out, “[P]rivacy appears to be
+something we value to provide a sphere within which we can be free from
+interference by others, and yet it also appears to function negatively,
+as the cloak under which one can hide domination, degradation, or
+physical harm to women and others” [29]. Privacy claims may be used to
+block any public criticism by arguing that the criticism includes
+“private” information about the group. Given this, it will be
+important to carve out room for a kind of Whistle Blower Exception to
+the rights of groups to protect their cultural privacy. 
+
+Finally, the right of group privacy should not be understood as
+absolute. There are other rights of individuals as human beings—as
+encoded in the U.N. declaration of human rights, with which these group
+rights must be balanced.  Thus, if some practice is abusive of
+individual persons, the right that the group has to privacy is
+overridden.  Of course, some may object to any restriction on the
+grounds that any outside interference will be tantamount to
+imperialistically imposing values.  However, the presumption of this
+paper is that there are some shared values to which we may agree.  And,
+insofar, as the indigenous peoples’ points of view are represented in
+the UNDIR, they are committed to the provisions of the U.N. human rights
+document.  It is the view expressed in UNDIR that there is no
+contradiction between the rights of indigenous peoples and the
+individual rights as expressed in the UNDHR, which include rights of
+expression and access to informatoin.  
+
+9. REFERENCES
+
+United Nations. General Assembly. 2007. United Nations Declaration on
+the Rights of Indigenous Peoples. New York: United Nations. 
+
+Brown, Michael 2003. Who Owns Native Culture? Cambridge, Massachusetts:
+Harvard University Press. 
+
+Nason, James D. 2001. Traditional Property and Modern Laws: The Need for
+Native American Community Intellectual Property Rights Legislation.
+Stanford Law and Policy Review. 12, 255-266. 
+
+First Archivists Circle. 2007. Protocols for Native American Archival
+Materials. DOI= http://www2.nau.edu/libnap-p/protocols.html  
+
+National Park Service. U.S. Department of the Interior. 2007. National
+NAGPRA FY07 Midyear Report. DOI= http://www.nps.gov/history/nagpra/
+
+Public Law 101-601--Nov. 16, 1990 104 Stat. 3049.
+
+Alfino, Mark and Pierce, Linda. 1997. Information ethics for librarians.
+Jefferson, North Carolina: McFarland.
+
+Griswold v. Connecticut.  HYPERLINK
+"http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=381&invol
+=479%E2%80%A6" 381 U.S. 479 . (1965).
+
+American Library Association. 2006. Intellectual Freedom Manual.
+American Library Association, Chicago, IL.
+
+Heins, Marjorie. 2004. On Protecting Children--From Censorship: A Reply
+to Amitai Etzioni. Chicago-Kent Law Review 79.
+
+Boaz, Martha. 2003. Censorship. In Encyclopedia of Library and
+Information Science, ed. M. J. M. Bates, Mary Niles, Drake, Miriam. New
+York: Marcel Dekker.
+
+Hohfeld, W. 1919.  Fundamental Legal Conceptions, W. Cook (ed.), New
+Haven: Yale University Press.
+
+Wenar, Leif. 2007. Rights. The Stanford Encyclopedia of Philosophy
+(Winter 2007 Edition), Edward N. Zalta (ed.), DOI= 
+http://plato.stanford.edu/archives/win2007/entries/rights/.
+
+Ermine, Willie. 2007. Ethical Space: Transforming Relations. DOI=
+http://www.traditions.gc.ca/docs/docs_disc_ermine_e.cfm#ermine 
+
+Rawls, John 1982. The Idea of an Overlapping Consensus. Oxford Journal
+of Legal Studies. 7, 1-25.
+
+U.S. Copyright Act, 17 U.S.C. §§ 101 – 810.
+
+Samuels, Edward. 2000. The illustrated story of Copyright. Thomas Dunne
+Books/St. Martin's Press, New York, NY. 
+
+National Conference of Commissioners on Uniform State Laws. Uniform
+Trade Secrets Act. DOI= http://nsi.org/Library/Espionage/usta.htm
+
+Zuckerbraun v. General Dynamics Corp., 935 F.2d 544, 546 (2d Cir. 1991).
+
+
+Standler, Ronald. 1997. Privacy Law in the United States. DOI=
+http://www.rbs2.com/privacy.htm
+
+Warren, S.D. and Brandeis, L.D. 1890. The right to privacy. Harvard Law
+Review. 4, 5, 193—220.
+
+ U.S. v. Morton Salt Co., 338 U.S. 632, 651-52 (1949) [citations
+omitted]
+
+Posner, R.A. 1978. Privacy, secrecy, and reputation. The University of
+Chicago. Chicago, IL.
+
+Bloustein, E. 1964. Privacy as an Aspect of Human Dignity: An Answer to
+Dean Prosser. New York University Law Review. 39, 962-1007. 
+
+B*
+
+#.
+
+Fried, Charles. 1984.  Privacy: A Moral Analysis.  Philosophical
+Dimensions of Privacy: An Anthology. Schoeman, F.D. Editor. Cambridge
+University Press, Cambridge. 
+
+Gerstein, Robert S. 1984. Intimacy and Privacy. Philosophical Dimensions
+of Privacy: An Anthology. Schoeman, F.D. Editor. Cambridge University
+Press, Cambridge.
+
+Margalit, Avishai; Halbertal, Moshe 2004: 'Liberalism and the Right to
+Culture'. Social Research, 71, pp. 529-48.
+
+DeCew, Judith. 2006. "Privacy." The Stanford Encyclopedia of Philosophy
+(Fall 2006 Edition), Edward N. Zalta (ed.), DOI=
+http://plato.stanford.edu/archives/fall2006/entries/privacy
+

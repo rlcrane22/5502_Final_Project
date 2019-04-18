@@ -1,0 +1,256 @@
+Essay for the 2008 I-Conference, 28 February – 2 March, 2008, Los Angeles, CA (v7, as of 27 February, 2008, 2600 words)
+
+I-Schools: Mice Roaring or the Future is Now Arriving?1,2
+Steve Sawyer
+College of Information Sciences and Technology
+Penn State University
+sawyer@ist.psu.edu
+Howard Rosenbaum
+Graduate School of Library and Information Science
+Indiana University
+hrosenba@indiana.edu
+Through this essay we develop an argument for supporting the growth of I-Schools by building
+on the literature and concepts of institutions. We first argue that I-Schools, and the I-School
+movement, can be seen as engaging in a process of institutionalization. That is, they are seeking
+each and collectively to become self-sustaining and enduring social units. To support this
+argument we draw on the literatures regarding institutions and institutionalization. We do so to
+help clarify what those involved in the I-School movement might need to do to encourage the
+process of I-Schools becoming become enduring and self-replicating forms of organization in the
+contemporary university milieu. The literature on institutions and institutionalizing is vast,
+active, and multi-threaded. In this essay we draw from, but do not summarize or extend this
+work. We draw on concepts from institutional theory to frame our thesis: what can those
+involved in I-Schools do to encourage the growth and legitimization of these scholarly
+institutions?
+
+On becoming an institution
+An institution is a representation of a social order or pattern, continually reproduced, which owes
+its continued existence to relatively self-activating or automatic social processes (Scott, 1994a,
+1995; 2001 DiMaggio & Powell, 1991; Brint & Karabel, 1991; Zucker, 1977, 1983, 1987;
+Jepperson, 1991). Scott’s (1995, 2001) comprehensive definition of an institution focuses
+attention to the cognitive, normative, and regulative structures and activities which provide
+stability and meaning to collective social behavior. Scott (1995; 2001) argues that institutions are
+1 The title is a not-so-subtle pointer to two entertainment icons. The first is the 1955 book and 1959 movie “A
+Mouse that Roared” (see http://en.wikipedia.org/wiki/The_Mouse_That_Roared). Given the physical location of the
+2008 I-School Conference in Los Angeles, it seems apropos to appeal to movies and entertainment for this topic.
+The book and movie plot centers on the concerns and desires of a fictional, tiny, European nation – the Duchy of
+Grand Fenwick, – and their plan to attack the United States. Having seen the positive effects of losing a war to the
+United States and earning reconstruction money, they set off to lose. However, through a series of bumbles and
+twists of fate (wonderfully portrayed in the movie through the comedic genius of the late Peter Sellers), Grand
+Fenwick defeats the United States – by accidentally gaining position of the ‘Q-Bomb:’ the most lethal weapon ever
+devised. The second not-so-subtle pointer embedded into the title is to the “Tomorrowland Transit Authority” ride
+at Disneyworld’s Magic Kingdom. This ride carries you from the contemporary world into the technological utopia
+of Tomorrow.
+2 Comments on previous versions by Kristin Price and three anonymous reviewers have helped us to improve the
+current version. Thank you.
+
+1
+
+multi-faceted social arrangements which incorporate systems of symbols. These symbols include
+the cognitive constructions that reflect awareness, normative rules that help to structure behavior
+and interaction, and regulative processes that are carried out through and shape social behavior
+via incentives and constraints. Moreover, artifacts can carry symbols – such as power and
+prestige in the design of buildings and the layout of office spaces. Seen this way, an institution is
+“a set of roles, graded in authority, that have been embodied in consistent patterns of actions, that
+have been legitimated and sanctioned by society or segments of that society; whose purpose is to
+carry out certain activities or prescribed needs of that society or segments of that society.” (Mills,
+1959)
+Repeated and regularized social actions becomes identifiable as belonging to an institution when
+self-perpetuating internal social patterns reproduce themselves without the need of special
+sustaining action or collective action by its members (Painter, 2002). In the I-School context, this
+is seen in faculty of different research paradigms and from different scholarly disciplines getting
+together and resolving their difference to hire, tenure and promote their peers; to recruit and
+educate graduate students; and, to establish common language regarding inter-disciplines and
+interactions. In doing this patterns of action emerge and others, seeing, this, replicate these
+patterns by choice. Routine procedures support and sustain the pattern, furthering its
+reproduction, unless collective action blocks or external shocks disrupt the pattern (Jepperson,
+1991). That is, formation is fragile and often disrupted by failures of some to reproduce the act
+(or by outside forces that block reproduction).
+Seen this way, the “I-School as institution” arises out of constantly (re-)enacted practices from
+which evolve stable sets of structures with formalized rules and laws. These structures of rules,
+laws, norms of behavior and collected practices become visible to others and are internalized by
+individuals. In turn, these individuals reinforce the normative and regulative aspects of an
+institution through repetition and reproduction.
+Institutions take many forms. A profession or occupation becomes professionalized or
+institutionalized when they are believed to require extensive formalized study and a mastery of
+specialized knowledge; are autonomous; self-restricted and self-regulated; and generally
+exclusive. A professional institution includes organizational structures and mechanisms for
+preserving the knowledge and the practices of its constituents, enforcing the standards, and
+educating future members of the profession (Tseng, 1992; Carter, Grebner, Seaman, and Foret,
+1990). Drawing from and combining these, we argue here and in other writings that a working
+definition of a Scholarly Institution as one form of professional institution, focusing on academic
+missions, and which shares the following characteristics with all institutions3:
+1. Automatic: self replicating;
+2. Autonomous: self-regulating;
+3. Structurally stable: possessing formalized norms and cultures;
+4. Visible: having a coherent outward appearance.
+The constituent elements and processes that go into forming institutions are a very active area of
+scholarship (Frumpkin and Kaplan, 2005). Most institutional research has focused on the effect
+3
+
+See also: Sawyer, S. and Tapia, A. (2007) “From Findings to Theories: Speculating on the Future of Social
+Informatics” The Information Society, 23(4), 263-277.
+
+2
+
+of institutions as independent variables, at the expense of an examination of the determinants and
+components of institutions and the process by which institutions become constructed remains a
+“black box” (Zucker, 1988: 104). In contrast, our interest here is to institutional formation.
+One promising approach to understanding the development of institutions is to see it as a
+structurational activity – drawing on Gidden’s theory of structuration (e.g., DiMaggio & Powell,
+1983; DiMaggio & Powell, 1991; Scott, 1994a; Barley and Tolbert, 1997). Framed as a
+structurational process, institutionalization arises as patterns of interaction emerge out of loosely
+organized technical activities. According to the tenets of structuration theory, institutions
+emerge out of a dynamic in which individuals are shaped by institutional forces and then act
+upon their institutionalized environments to transform institutional arrangements (Tolbert and
+Barley, 1997). Change comes about in institutional environments when some event or
+development breaks the patterns established by previously recurrent actions and reflexive
+behavior of individuals. Seen this way, institutionalization is the process of these patterns of
+interaction becoming more stable. In doing this, they serve to infuse a normative order or a set
+of normative values into the organization (Broom and Selznik, 1955).
+
+What we in I-Schools can do
+We argue that becoming a scholarly institution requires concerted local and collective efforts.
+Both are required because each I-School must pursue institutional legitimization locally. And,
+collectively, these I-Schools must also establish a collective institutional presence. Both of these
+efforts must focus on institutional growth and maturity relative to becoming self- replicating;
+self-regulating; structurally stable, and visible. Self-replicating and self-regulating mean that new
+I-Schools are started and that there is some coherence of identity across the organizational units
+who claim to be I-Schools and that all I-Schools, collectively, have a coherent set of criteria for
+belonging (or not). By structurally stable, we mean that I-Schools possess formalized norms and
+regulative activities such as rules of local and collective membership and some common bodies
+of knowledge. By visible we mean that I-Schools have a coherent outward appearance: others
+can distinguish that a particular academic unit is, or is not, an I-School. Visibility also demands
+that I-Schools, collectively, can be discerned as a distinct academic form. In the rest of the essay
+we raise issues and opportunities relative to each of these five characteristics of a scholarly
+institution.
+Pursuing self replication: To achieve this requires both a growth in the number of I-School
+programs and the development and formalization of shared structures and norms. Several
+activities suggest this is ongoing, for example there are three mechanisms that bring together the
+I-School leaders and faculty. The first is the I-Conference, which is currently the only
+community-wide endeavor that engages students, faculty and administrative leadership. The
+other two – the self-selected and independent I-School caucus and the Computing Research
+Association (CRA) - sponsored IT Dean’s groups –provide senior administrators of I-Schools
+and units with similarities to I-Schools with forums to share structures and develop common
+norms at the most senior administrative level. One outgrowth of this is the rise in meetings of
+other senior academic and administrative staff (such as research deans, communications, and
+various common degree programs).
+There are at least two aspects of self- replication that deserve additional attention. The first is
+
+3
+
+active encouragement towards faculty and academic leadership of other universities to consider
+starting or developing I-Schools. There are likely a limited number of universities considering
+starting from scratch new I-School programs. And, there are relatively few programs whose
+histories are centered in Library and Information Science who have not begun to transit towards
+I-School-like programs. Since these two paths are where most of the existing I-Schools drew
+from, new sources of growth are needed. The most likely pathway for this is to engage
+colleagues in scholarly fields such as communications and computing to consider becoming
+more “I-like.” Other possibilities are to draw information systems scholars from business
+schools (as some senior scholars in this area are advocating, e.g., Avison and Ein-Dor, 2007).
+The second aspect of self-replication deserving more attention is the development of common
+structures and norms – elements of a shared culture. Again, there is some progress at an
+informal level. For example, many of the current I-Schools – and particularly those who have
+histories in Library and Information Science – have a strong humanistic and informational
+perspective. Other currently self-identified I-Schools, however, do not have these norms as
+deeply-ingrained. Still others are developing unique sets of norms. The various mechanisms for
+having I-School faculty and administrative leadership get together provides for one means to
+share and develop common structures. Increasingly, however, this attention should be focusing
+on ensuring that these structures and norms are part of the undergraduate and graduate training
+and education. And, for institutional legitimization in the academy, graduate students are often
+seen as the carriers of common structures and norms.
+Pursuing self-regulation: Autonomy in a multi-disciplinary space is one of balance. To maintain
+multi-disciplinarity demands both development of a common core of knowledge while retaining
+strong ties to the reference or contributing scholarly disciplines. Without a common core, the
+space is ephemeral – a collection of local and informal interactions, with no permanence.
+Without strong connection to reference disciplines, the space becomes an orphan and is too
+easily ignored.
+There are at least three opportunities before I-School members to increase the level of selfregulation. The first is to make explicit a focus on building I-School faculties whose intellectual
+heritage combines both scholarly training from outside I-Schools with an equal commitment to
+hiring I-School-trained students as faculty. This dual strategy provides a means to keep the ISchools connected to relevant scholarly disciplines even as they develop a core inter-disciplinary
+structure. Too much focus on internal-to-I-Schools-faculty-hires might lead to where the
+collection of schools becomes self-referential, disconnected from disciplines and ignored. Too
+great a focus on hiring primarily from referent disciplines might lead to where no sustaining
+cross-disciplinary interconnections form.
+Second, it is important to ensure that I-School-trained graduate students secure (and succeed) in
+faculty positions in the reference or contributing scholarly disciplines. If this does not happen,
+then the ‘special sauce’ of interdisciplinary scholarly development that I-Schools advocate is a
+core competency becomes moot through non-consumption.
+Third, there should be more effort to develop future administrative leaders from within ISchools. Currently this is hard given the limited numbers of I-School faculty and the limited
+
+4
+
+opportunities for I-School faculty to gain administrative experience (there are few departments in
+the few programs, and few associate dean positions, meaning it is relatively difficult to develop
+internal-to-I-School candidate pools). One possibility is to begin holding a summer institute for
+faculty who are interested in pursuing I-School administration. This institute provides a means
+for faculty from outside I-Schools to learn more about these scholarly institutions. Doing this
+provides a means to increase the pool of possible leaders, expand the scale and support selfreplication activities, and also to export I-School ideas.
+Pursuing structural stability: Structural stability reflects both a commitment by members to
+pursue collectively a common set of core issues and to be rewarded for doing so. For I-Schools,
+this translates into developing the formal and informal norms that recognize and reward faculty
+for both maintaining a strong connection to research communities that extend beyond I-Schools
+into reference or contributing academic disciplines while also supporting faculty for engaging
+more directly (particularly with colleagues at their home institution) in discipline-crossing
+activities. These norms and incentives must be reflected in the hiring, tenure, promotion and
+merit-review processes of faculty
+Pursuing visibility: Visibility means having a coherent outward appearance. This has been the
+focus of the I-School caucus and academic leadership, and should be a continued focus. There is
+also evidence that faculty are beginning to help make I-Schools more visible. For example, the
+I-Schools and I-School faculty are very involved in the research fields of human-computer
+interaction (HCI), participatory design, computer-supported cooperative work and social
+informatics research communities. This involvement leads to where others in these research
+communities, and particularly younger faculty and graduate students, see I-Schools as a viable, if
+not preferred, choice for an academic home.
+The evidence suggests that I-School faculty and administrative leadership are making steps
+towards becoming a scholarly institution. The need for collective action to be focused and to
+pursue the efforts needed to ensure institutionalization benefit all of us. These actions also
+demand our time and attention.
+
+References
+Avison, D. & Ein-Dor, P. (2007). Diversity in IS Research and Practice, Proceedings of the 2007
+International Conference on Information Systems, Montreal, Canada, ACM Press.
+Brint, S. & Karabel, J. (1991). Institutional Origins and Transformations: The Case of American
+Community Colleges, In The New Institutionalism in Organizational Analysis, ed. Walter W.
+Powell and Paul J. DiMaggio, 337-360. Chicago: University of Chicago Press.
+Barley, S. & Tolbert, P. (1997). Institutionalization as Structuration: Methods and Analytic
+Strategies for Studying Links Between Action and Structure, Organization Studies, 18(1),
+93-117.
+Broom, L. & Selznik, P. (1955) Sociology, Row, Peterson and Company, Evanston, IL.
+Carter, M., Grebner, F., Seaman, J. & Foret, C. (1990). Occupation to Profession Continuum -Status and Future of AAHPERD". Journal of Physical Education, Recreation and Dance,
+61(3), 1-14.
+
+5
+
+DiMaggio, P. & Powell, W. (1991). Introduction, In The New Institutionalism in Organizational
+Analysis. ed. W. Powell and P. DiMaggio, 1-38. Chicago: University of Chicago Press.
+DiMaggio, P. & Powell, W. (1991). The Iron Cage Revisited: Institutional Isomorphism and
+Collective Rationality in Organizational Fields, In The New Institutionalism in
+Organizational Analysis. ed. W. Powell and P. DiMaggio, 63-82. Chicago: University of
+Chicago Press.
+Jepperson, R. 1991. Institutions, Institutional Effects and Institutionalism, In The New
+Institutionalism in Organizational Analysis. ed. W. Powell & P. DiMaggio, 143-164.
+Chicago: University of Chicago Press.
+Mills, C. (1959). The sociological imagination, Oxford University Press, London.
+Painter, C. (2002). Early Leader Effects on the Process of Institutionalization Through Cultural
+Embedding: The Cases of William J. Donovan, Allen W. Dulles, and J. Edgar Hoover,
+Unpublished Dissertation. Virginia Polytechnic Institute and State University.
+Scott. W. (1994). Institutions and Organizations: Toward a Theoretical Synthesis, In Institutional
+Environments and Organizations: Structural Complexity and Individualism. W. R. Scott, J.
+Meyer, et. al., 55-80. Thousand Oaks, CA: Sage Publications.
+Scott, W. (1995). Introduction: Institutional Theory and Organizations, In The Institutional
+Construction of Organizations: International and Longitudinal Studies. ed. W. Scott and S.
+Christensen, xi-xxiii. Thousand Oaks, CA: Sage Publications.
+Scott, W. (2001). Institutions and Organizations. Thousand Oaks, CA: Sage.
+Tseng, J. (1992). Interpreting as an Emerging Profession in Taiwan -- A Sociological Model.
+Unpublished manuscript, Fu Jen Catholic University, Taiwan.
+Zucker, L. (1977). The Role of Institutionalization in Cultural Persistence, American
+Sociological Review, 42(5), 726-743.
+Zucker. (1983). Organizations as Institutions, in Samuel B. Bacharach ed. Research in the
+Sociology of Organizations, 2, 1-47. Greenwich, CT: JAI Press.
+Zucker. (1987). Institutional Theories of Organizations, Annual Review of Sociology, 13, 443464.
+Zucker, L. (1988). Where Do Institutional Patterns Come From?, In Institutional Patterns and
+Organizations. ed. L. Zucker, 21-43. Cambridge, Mass: Ballinger.
+
+6
+
+

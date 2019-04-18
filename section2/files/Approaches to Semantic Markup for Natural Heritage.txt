@@ -1,0 +1,892 @@
+Approaches to Semantic Markup for Natural Heritage Literature
+
+Hong Cui
+
+School of Information Resources and Library Science, University of
+Arizona. 
+
+hongcui@email.arizona.edu
+
+ABSTRACT
+
+The theme of this paper is the application of automated semantic markup
+techniques on natural heritage literature to address information needs
+of taxonomists. Two machine learning based techniques (supervised and
+unsupervised machine learning) are discussed and compared on a real
+world corpus. A prototype application that supports batch and online
+modes of converting free text documents to XML format is described. 
+
+Topics
+
+Information organization, Information management, Information technology
+and services
+
+Keywords
+
+Semantic markup, natural heritage literature, taxonomic descriptions,
+biodiversity information, biodiversity informatics, supervised machine
+learning, unsupervised machine learning, XML
+
+Introduction
+
+Since over two hundred years ago, the work has started to systematically
+document various living organisms, their habitats, geographic
+distribution, classification, and identification keys. Current projects
+of such include the Flora of North American [6] (FNA) and the Flora of
+China [7](FoC). As a result, a wealth of natural heritage literature has
+been produced. However, the vast majority of natural heritage literature
+is still in print format. That in electronic format is mainly in html,
+pdf, or doc formats, for example, volumes of FNA and FoC are both in
+print and html formats. Only a small percentage of such information is
+stored in a structured digital format such as relational database or XML
+format [2].  To construct the “global commons” of natural heritage
+literature, as envisioned by the Biodiversity Heritage Library (an
+international collaboration among major natural heritage institutes, 
+HYPERLINK "http://www.bhl.si.edu/" http://www.bhl.si.edu/ ), a number of
+digitization projects are being planned or carried out at different
+levels. Related standard organizations, such as the Biodiversity
+Information Standards, are working intensively on a number of
+biodiversity information content/encoding standards, including the
+Structured Descriptive Data (SDD, an XML application), to meet the
+immediate needs of digitization projects. For a review of XML schemas
+for biodiversity literature, see [14]. 
+
+Natural heritage communities have come to the consensus that the
+reformatting of unstructured biodiversity literature, especially
+taxonomic descriptions of living organisms, into a machine readable
+structured format is necessary for the long term and effective
+management of the large body of literature. 
+
+ This reformatting benefits both of the two major usages of the
+information, namely organism identification and information retrieval.
+For the attendees of the iConference, structured formats enable more
+accurate retrieval is probably a well-accepted fact that calls for no
+more elaboration. We should nonetheless note that the organism
+descriptions in a good structured format (that allows the encoding of
+biological characters and their states/values) also support faceted
+browsing and cross collection (i.e. federated) retrieval. 
+
+The specimen identification task is traditionally performed by using
+taxonomic keys, which are decision trees (upside-down trees with the
+root node on top) with contrasting statements about a biological
+character in each node and an identification at the end of each branch.
+It is worth noting that research has shown that full text information
+retrieval techniques are not effective for specimen identification tasks
+[8].  The creation of a good taxonomic key for a group of taxa relies on
+the completeness of the descriptions and exhaustive search and
+comparison of the descriptions of related organisms. Any taxonomist can
+testify that neither of the two conditions is supported well by
+free-text descriptions: it is easy for an author to leave out some
+characters, it is tedious to repeat shared characteristics again and
+again in many descriptions, and on top of these, it is also very
+time-consuming to search for missing characters and compare many
+free-text descriptions at one time. A structured format can alleviate
+these difficulties because it allows an information system to remind an
+author of the missing elements and to auto-fill the shared
+characteristics. It is also possible for computers to shoulder some work
+involved in comparing descriptions, thanks to the structures that are
+made explicit to computers, enabling more meaningful comparisons element
+by element, rather than blind keyword matching. If the descriptions are
+marked-up in very fine details, for example, to the level of characters
+and character states, it is even possible to automate many aspects of
+the generation of taxonomic keys.    
+
+A sustainable way to transform large sets of free text descriptions to
+structured formats should not rely on grant moneys and graduate
+assistants’ manual labor. Automatic semantic markup techniques must be
+explored to 1) convert newly digitized full text documents into a
+structured format and 2) allow taxonomists to convert a freshly composed
+description into the structured format by clicking a button.
+
+Related Research
+
+The majority of work on structuring taxonomic descriptions focuses on
+the paragraphs with limited semantics, such as taxon names and ranks
+etc. [9, 10, 13]. Far less research focused on cue-poor yet
+semantic-rich sections, for example morphological description sections,
+largely due to the lack of consistency in description contents, as shown
+by Lydon et al.[11]. Lydon et al manually compared descriptions of the
+same five species from six different floras and found large variations
+in terms of information content and presentation style: only 9% of
+information was exactly the same, over 55% of information was from a
+single flora, and around 1% of information from different floras
+contradicted with each other.  Earlier works [16, 1, 17] using syntactic
+parsing methods to extract information to populate relational databases
+or to mark up plant descriptions in an XML format have focused on a
+single collection. Syntactic parsing methods require handcraft grammar
+rules and extensive lexicons to guide the parsing process. Grammar rules
+can be collection-dependent, therefore the usefulness of a parser for
+different collections can be limited. A specialized XML editor for
+biosystematics literature has also been built [14], however, it requires
+the users to come up with regular expression rules to mark up documents.
+[18] extracted plant characters from descriptions of five species taken
+from six floras, using a hand-made gazetteer as a lookup list to link
+extracted terms with their semantic labels. It remains to be seen to
+what extent the manual knowledge engineering scales with larger data
+sets.  On a much larger scale, [4] took a supervised machine learning
+approach to address the issues of inter-collection variations and
+automatically marked up descriptions of over ten thousands species from
+three floras down to sentence/clause level. By reusing domain knowledge
+learned from other collections in the past, their system (called MARTT)
+achieved better performance on a new collection, without any
+re-adjustment or fine tuning of the system. The marked-up taxonomic
+descriptions are currently available for public access at  HYPERLINK
+"http://research.sbs.arizona.edu/gs/cgi-bin/library"
+http://research.sbs.arizona.edu/gs/cgi-bin/library  .
+
+Two Machine Learning Techniques 
+
+The machine learning approach has a number of advantages over other
+existing approaches. This approach does not require the markup or
+extraction rules to be provided to the system. Composing the rules by
+hand is difficult even for trained knowledge engineers or computer
+scientists, because one cannot easily tell the overall effect of a rule
+on a large collection—it may work very well with a small portion of
+descriptions, but results in a net negative effect if applied on the
+entire collection. If the goal is to equip domain experts, in this case,
+taxonomists, with the markup tool, this requirement is simply not
+reasonable. Taking advantage of ever increasing computational power, the
+machine learning approach, on the contrary, strives to find global
+optimum rules automatically. 
+
+ A properly designed learning system also promotes portability of the
+technique. It is desirable for a system to be able to process different
+collections of documents of the same or similar domain, with little or
+no reengineering. A learning system that learns and makes use of domain
+knowledge is more portable than a system that learns presentation cues,
+because it is more likely for the documents to share domain knowledge
+than the presentation styles, such as font, size, color, or html tags.
+Since a machine learning system learns markup rules from document
+collections, the markup rules are always up to date and reflect the
+characteristics of the current collection. In practice, this works
+better than relying on hand-crafted rules that may not fit the current
+task well.
+
+There are two main types of inductive learning techniques: supervised
+and unsupervised learning techniques. Supervised learning techniques
+require training examples, from which the learning system derives
+knowledge, and against which the learning system verifies its learning.
+Training examples for the MARTT system were marked-up descriptions
+manually prepared. The number of training examples required by a system
+varies, depending on the learning algorithm and the heterogeneity of the
+data collection. Initially the performance of a learning system
+increases with the number of training examples. At a certain point
+(typically before 100% accuracy) it typically reaches a performance
+plateau. When the plateau is reached, the system is said to be trained,
+as more training examples will not bring in any performance gain.
+Unsupervised learning techniques do away with training examples; they
+derive knowledge from the documents themselves by exploring the various
+regularities embedded in the documents. For either technique, there has
+to be some source of knowledge that can be exploited and the learning
+algorithm has to be able to discover something that is previously
+unknown to it.  
+
+3.1 The Supervised Learning Algorithm          
+
+Aforementioned MARTT system is a supervised learning system involving
+two phases: the training phase and the mark-up phase. In the training
+phase, the algorithm learns markup rules/models from training examples,
+while in the mark-up phase the trained algorithm uses the learned rules
+to mark up new descriptions. The algorithm is illustrated in List 1.
+Details can be found in [3], where the algorithm was labeled as SCCP.
+
+The Training Phase
+
+Name: Training
+
+Input: Training Examples (TEs,  XML documents with nested elements)
+
+Output: Populated Learning Hierarchy (LH)
+
+Algorithm:
+
+Initialize the empty LH with the root node “description”
+
+Foreach TE in TEs
+
+	Extract elements from TE level by level to save element contents in the
+corresponding nodes in LH. 
+
+If a node does not exist in the hierarchy of LH, create a new sibling or
+child node in LH to accommodate the new element at the desired level. 
+
+End Foreach
+
+Foreach node in LH
+
+	CreateModel(the element contents saved at the node).
+
+End Foreach
+
+Done
+
+Name:CreateModel
+
+Input: element contents of a node or element
+
+Output: learned model
+
+Algorithm:
+
+N-Grams = Word-level unigrams, 2-grams, and 3-grams extracted from the
+leading words of element contents.
+
+Foreach N-Gram in N-Grams
+
+	support = the number of instances of the element containing the N-Gram
+/ the total number of instances of the element
+
+	confidence = the occurrence of the N-Gram in the element /the  total
+occurrence of the N-Gram
+
+	Save the rule “N-Gram ->element (confidence, support)”
+
+End Foreach
+
+Done
+
+The Mark-up Phase
+
+Name: Mark-up
+
+Input: LH, to-be-marked document collection C
+
+Output: marked-up document collection C
+
+Algorithm:
+
+Foreach document in C
+
+	MarkupDocument(LH, document)
+
+                    Marked-up document = Read the complete, marked-up
+document off the LH
+
+End Foreach
+
+Done
+
+Name: MarkupDocument
+
+Input: LH, to-be-marked document D
+
+Output: LH with marked up segments of D
+
+Algorithm:
+
+If LH contains one leaf node and one leaf node only
+
+Mark up D with the name of the leaf node
+
+Save the marked-up D in the node.
+
+Done
+
+Else
+
+Read D into the root node of LH
+
+The root node marks up segments (sentences/clauses) of D with the names
+of its child nodes by selecting the rules with the highest confidence
+and support.
+
+Save marked-up segments in the node.
+
+Pass marked segments (S) of D to their corresponding child node (N)
+
+MarkupDocument(N,S)
+
+List 1: Supervised Learning Algorithm
+
+Note the MarkupDocument function is a recursive function that starts
+from the root node of LH (a tree with a root on the top and many leaf
+nodes at the bottom) and ends at a leaf node. At each call, the function
+works on a successively smaller part of the LH until all branches of the
+tree is traversed and all leaf nodes are reached.
+
+Although the training and mark-up phases of MARTT were automatic and
+required no human intervention, the training examples came at a cost.
+MARTT used close to 700 taxonomic descriptions for training, yet more
+examples could still mean a better performance as a performance plateau
+was not reached with that many training examples. Even thought it was
+just a small fraction of total documents processed (700 out of 17000, or
+4%), it was time consuming and error-prone to prepare hundreds of
+descriptions according to the  predefined XML schema ( HYPERLINK
+"http://publish.uwo.ca/~hcui7/research/xmlschema.xsd"
+http://publish.uwo.ca/~hcui7/research/xmlschema.xsd ). On the other
+hand, the predefined XML schema did not cover all organs described in
+the descriptions, because a complete schema can be created only after
+one reads through the entire collections of documents, due to the
+inherent diversity of living organisms and authorships (e.g. 600+
+authors contributed to Flora of China, 800+ to Flora of North America).
+All uncovered organs were marked “other-features”.  “Other
+features” included many rarely occurred organs, which are often the
+most valuable information for specimen identification. Treating them
+indistinguishably as “other features” is not a satisfactory
+solution. Limited schema coverage is a shortcoming shared by all
+existing systems reviewed in this article. 
+
+The shortcomings of the existing automated markup systems for
+biodiversity literature prompted us to ask this research question: To
+what extent the inherent textual cues in the literature can be exploited
+to produce XML-based markups that are not biased for frequent features. 
+In other words, is it possible for an unsupervised learning technique to
+achieve comparable performance as the supervised technique? To what
+extent the regularities in the text can replace the knowledge manifested
+in the training examples?
+
+3.2 The Unsupervised Learning Algorithm 
+
+ We started to answer these questions by investigating a bootstrapping
+approach [12]. This markup approach is a bottom-up approach, established
+on the literary warrant principle. It exploits the syntactic cues
+commonly found in domain corpora. Such cues include: sentences typically
+start with a subject, the subjects are typically nouns or noun phrases,
+periods are used to end a sentence, while commas or semicolons are used
+to set off clauses [5]. These cues were used in the unsupervised
+learning algorithm that marked up to the level comparable to that of
+MARTT. List 2 shows the main steps of the algorithm. 
+
+Name: Unsupervised Learning Algorithm
+
+Input: To be marked-up documents in text format
+
+Output: Marked-up documents in well-formed XML format
+
+Algorithm:
+
+Use the following simple heuristic rule to find a set of words (Nouns)
+used as nouns in the documents. 
+
+	Heuristic rule: A word is used as a noun iff the documents contain its
+singular and plural forms but no verb forms.
+
+Use English grammar rules to distinguish plural forms from singular
+forms.
+
+SegmentSet = Segment documents into sentences/clauses (i.e. segments) at
+the punctuation marks: .,;:
+
+SegmentSet1 = segments starting with a plural noun
+
+SegmentSet2 = segments that do not belong to SegmentSet1
+
+Foreach segment in SegmentSet1
+
+	Extract the word after the first plural noun and save the word in
+BoundaryWords
+
+End Foreach
+
+(Nouns, BoundaryWords) = Bootstrap(Nouns, BoundaryWords, SegmentSet2)
+
+Foreach segment in SegmentSet
+
+ If  the segment’s subject main noun can be identified 
+
+tag = the subject
+
+	Else
+
+		tag = “unknown”
+
+	End If            
+
+	If the segment ends with any punctuation mark but a period
+
+	        tag = tag + “_block”
+
+                  End If
+
+	Use tag to mark up the segment
+
+End Foreach
+
+End
+
+Name: Bootstrap
+
+Input: Nouns, BoundaryWords, SegmentSet2 
+
+Output: A bigger set of Nouns, a bigger set of BoundaryWords
+
+Algorithm:
+
+Flag_NewDiscovery = false;
+
+Foreach segment in SegmentsSet2
+
+	Generate a subject pattern based on the up to three leading words. For
+example, given a segment “Sporangiaster rare.”, if “rare” is in
+BoundaryWords but Sporangiaster is in neither BoundaryWords nor Nouns,
+the segment’s subject pattern is “?B”.
+
+End Foreach
+
+Sort (Patterns) //patterns with fewer ? are ranked higher
+
+Do
+
+	Foreach pattern in Patterns
+
+	        If (new nouns or boundary words are discovered)
+
+		/*note: depending on the pattern. The previous example pattern
+“?B” would result in a new discovery: Sporangiaster is a noun. A
+pattern such as “??B” would not result in a new discovery, because
+it could be a “NBB”, a “NNB”, or a “MNB” (M for modifier)*/
+
+Flag_NewDiscovery = true
+
+update Nouns or BoundaryWords.
+
+                           End If
+
+	End Foreach 		
+
+While Flag_NewDiscovery
+
+List 2: The Unsupervised Learning Algorithm
+
+The details of the algorithm are still being refined, but the main idea
+is to start with a small set of Nouns and a small set of BoundaryWords
+(those are learned from SegmentSet1) to discover more Nouns and
+BoundaryWords, using the basic assumption “subjects (nouns) are
+followed by boundary words ”. The bootstrap function runs in
+iterations. In each interaction, it tries to make new discoveries and
+replaces some “?” in the subject patterns with a “B” or “N”,
+until it fails to make any new discovery in an iteration. The learning
+process stops there.  
+
+The unsupervised learning algorithm has been tested on a small
+collection of algae descriptions (120 descriptions), two modest
+collections of plant descriptions (400-633 descriptions), and a modestly
+large collection of plant descriptions (2000+ descriptions). The
+performances on larger collections were better.  A later section
+compares the unsupervised and supervised learning algorithm on the 630
+FNA descriptions.
+
+The Application
+
+We implemented a prototype of an application that supports both of the
+learning techniques. The user-friendliness of the application lies not
+only on the employment of sound interface design principles, but more
+importantly on the reasonable division of the job between domain experts
+and the computer. The application does not assume the user has any
+knowledge engineering skills, such as crafting regular expression
+patterns for markup, but trusts the user has the ability of identifying
+misplaced tags. A few screenshots are included here to illustrate the
+design of the prototype. The application assumes the user either has
+folders of documents (i.e. batch processing) or will compose a
+description to mark up. The first screen the user sees once the
+application is started allows the user to either run a learning
+algorithm on a folder of documents or to skip the learning step and go
+directly to the main interface if the user wishes to access other
+functions (Figure 1). Note for supervised learning, the user needs to
+provide training examples. The main interface has functions that help
+with the preparation of training examples (Figure 3). 
+
+Figure 1: The First Screen Allows
+
+If the user chooses to use either of the algorithms to mark up the
+collection, she will provide necessary information and instruct the
+application to “Learn to Mark up”. Since the learning and markup
+process can take a long time depending on the size of the collection,
+the interface informs the user the progress (Figure 2). If the documents
+in the “Job Folder” (i.e. the to-be-marked collection) already
+contain XML tags, the application will automatically assume the user’s
+intention is to test the performance of the learning algorithm. It will
+compare the given tags with those generated by the computer and compute
+performance scores(Figure 2). The performance scores are saved in a file
+so the user can compare the performances of different runs. Note once
+the learning is started, the “Learn to Mark up” button is disabled,
+but the user is still in control where she would like the application to
+go. Impatient user may cancel the lengthy learning progress and go
+either to the learning setting screen (Figure 1) to choose a different
+learning technique, or to the main interface to use other functions. 
+
+When the learning and mark up process is done, the user is led to the
+main interface, where she can verify the correctness of
+machine-generated markup (using either the supervised or unsupervised
+approach) by using the “Batch-Mode” functions (Figure 3) and make
+any corrections by invoking the popup schema menu.  
+
+The application maintains the list of files to be examined so the next
+time the application starts, the user can continue with the remaining of
+the files. The application automatically records any errors the user
+corrects, but also allows the user to add any error manually by using
+“Record an Error” function in “Tools”.  A module will be
+implemented in the future to pass along the identified errors to the
+learning algorithms so the algorithms can revise its markup rules. In
+the “Composing-Mode”, the user is presented a text editor window
+where she can compose a description, which will be marked up in XML
+format after the user clicks on the “Mark up” button. This one-click
+markup relies on the knowledge already learned by MARTT. The user can
+check for and correct errors in the composing mode in a similar manner
+as in the batch mode. 
+
+Figure 2: Learning Progress
+
+Figure 3: The Main Interface
+
+As mentioned earlier, the interface also supports the preparation of
+training examples. The user simply opens a list of examples, highlights
+certain text segments, and tags the segments by selecting appropriate
+elements from the popup schema menu. Or the user can use the documents
+marked-up by the unsupervised algorithm as the training examples for the
+supervised algorithm.
+
+In short, the application supports the preparation of training examples,
+two different learning techniques for marking up documents, two
+different processing modes, the verification and correction of marked up
+documents, and feedback to the learning algorithms, all in a rather
+user-friendly manner. An earlier prototype was used by two non-computer
+science undergraduates and seemed to be straight-forward and easy to
+use. However, being a prototype, there is still room for improvements. 
+
+ComparisonS
+
+We ran a simple experiment to demonstrate the differences between the
+two learning techniques when applied to semantic markup of taxonomic
+descriptions. We used 633 descriptions from Flora of North America,
+manually marked-up according to the aforementioned schema. For the
+supervised learning algorithm, the descriptions were evenly divided into
+two sets: training and test sets For the unsupervised learning
+algorithm, since no training was needed, all descriptions were involved
+in the bootstrapping. 
+
+Neither algorithms were optimized for speed at this time, but it took
+2.3 times as long for the supervised learning algorithm to mark up 316
+descriptions (28.45 mins) as for the unsupervised learning algorithm to
+mark up 633 descriptions (12.35 mins) on a Gateway 1.20 GHz Internal
+Core 2 CPU laptop, with the Java heap size set to 512 MB. The supervised
+learning algorithm put 96% of all words in the 316 descriptions in
+correct tags. The unsupervised learning marked 8400 of the 8557
+sentences correctly (98%) and identified good tags for 3765 of the 3873
+unique subjects. It marked 48 sentences (37 unique subjects) incorrectly
+and couldn’t make a decision on another 109 sentences (71 unique
+subjects).
+
+Comparing a description for ARISTOLOCHIACEAE ARISTOLOCHIA serpentaria,
+marked up using different techniques (Table 1), we see the effects of
+the learning algorithms.  The unsupervised learning produces well-formed
+XML documents and the tags are generated and applied as the description
+contents warrant, while supervised learning assumes a generic XML schema
+no matter the description contents. The effects of this distinction are
+shown in different ways: the unsupervised learning generally produced
+more detailed markup, especially in the leaf description, than the
+supervised 
+
+learning; the unsupervised learning explicitly marked organs/structures
+hidden in “other features” element produced by the supervised
+learning; although not shown in this example, the unsupervised learning
+is less constrained in dealing with uncommon organization of descriptive
+contents, for example, describing multiple organs/structures (“leaves
+and inflorescence”) in one sentence (There were 63 sentences with
+compound subjects in the 630 FNA descriptions). On the other hand, the
+XML schema used in supervised learning carries domain knowledge,
+although implicitly but allowing the translations of concepts at
+different levels. In this example, it marked up herbs as a type of plant
+habit and life style, and in 
+
+Supervised Markup	Unsupervised Markup
+
+<description>	<description>
+
+<plant-habit-and-life-style>
+
+<phls-general>Herbs, erect to decumbent, to 0.6 m.</phls-general>
+
+</plant-habit-and-life-style>	<herb>Herbs , erect to decumbent , to 0 .
+6 m .</herb>
+
+	<young_stem>Young stem ridged , glabrous to hispid .</young_stem>
+
+	<leaf_block>
+
+<leaf>Leaves :</leaf>
+
+<petiole>petiole 0 . 5 - 3 . 5 cm .</petiole>
+
+</leaf_block>
+
+<blade_block><leaf_blade>Leaf blade lanceolate to ovate , 5 - 15 * 1 - 5
+cm , base truncate to cordate , sinus depth 0 - 1 . 5 cm , apex acute to
+acuminate ;</leaf_blade>
+
+<surface>surfaces abaxially glabrous or hispid ;</surface>
+
+<venation>venation pinnate .</venation>
+
+</blade_block>
+
+<stems>
+
+<stem-general>Young stem ridged, glabrous to hispid.</stem-general>
+
+</stems>
+
+	<leaves>
+
+<leaf-general>Leaves: petiole 0.5-3.5 cm.</leaf-general>
+
+<leaf-blade>Leaf blade lanceolate to ovate, 5-15 Ã? 1-5 cm, base
+truncate to cordate, sinus depth 0-1.5 cm, apex acute to acuminate;
+surfaces abaxially glabrous or hispid; venation pinnate.</leaf-blade>
+
+</leaves>
+
+
+
+<inflorescence_block>
+
+<inflorescence>Inflorescences from base of stem , an additional flower
+in axil of stem leaf , racemes ;</inflorescence>
+
+<peduncle>peduncle bracteolate , to 1 . 5 cm ;</peduncle>
+
+<bracteole>bracteoles lanceolate , to 3 mm .</bracteole>
+
+</inflorescence_block>
+
+<flowers>
+
+<inflorescence-general>Inflorescences from base of stem, an additional
+flower in axil of stem leaf, racemes;</inflorescence-general>
+
+<peduncle>peduncle bracteolate, to 1.5 cm;</peduncle>
+
+<bracteole>bracteoles lanceolate, to 3 mm.</bracteole>
+
+
+
+<flower_block>
+
+<flower>Flowers :</flower>
+
+<calyx>calyx brown_purple , bent ;</calyx>
+
+<utricle>utricle pendent , pear_shaped to ovoid , 0 . 5 - 5 cm
+;</utricle>
+
+<syrinx>syrinx present , ringlike , 1 mm , oblique ;</syrinx>
+
+<tube>tube bent , cylindric , 1 cm ;</tube>
+
+<annulu>annulus smooth ;</annulu>
+
+<limb>limb purplish brown , 3 - lobed , lobes 0 . 5 * 0 . 5 cm ,
+glabrous ;</limb>
+
+<gynostemium>gynostemium 3 - lobed , globose to crown_shaped , 1 . 5 mm
+;</gynostemium>
+
+<anther>anthers 6 ;</anther>
+
+<ovary>ovary 3 - locular , to 1 . 5 cm .</ovary>
+
+</flower_block>
+
+<flower-general>Flowers: calyx brown-purple, bent;</flower-general>
+
+<other-features>utricle pendent, pear-shaped to ovoid, 0.5-5 cm; syrinx
+present, ringlike, 1 mm, oblique; tube bent, cylindric, 1 cm; annulus
+smooth; limb purplish brown, 3-lobed, lobes 0.5 Ã? 0.5 cm, glabrous;
+gynostemium 3-lobed, globose to crown-shaped, 1.5 mm; </other-features>
+
+<anther>anthers 6;</anther>
+
+<ovary>ovary 3-locular, to 1.5 cm.</ovary>
+
+</flowers>
+
+	<fruits>
+
+<fruit-general>Capsule globose, 0.8-2 Ã? 1-2 cm, dehiscence
+basipetal;</fruit-general>
+
+<valve>valves 6;</valve>
+
+<septum>septa absent.</septum>
+
+</fruits>	<capsule_block>
+
+<capsule>Capsule globose , 0 . 8 - 2 * 1 - 2 cm , dehiscence basipetal
+;</capsule>
+
+<valve>valves 6 ;</valve>
+
+<septum>septa absent .</septum>
+
+</capsule_block>
+
+<seeds>
+
+<seed-general>Seeds rounded, ovate, 0.5 Ã? 0.4 cm.</seed-general>
+
+</seeds>	<seed>Seeds rounded , ovate , 0 . 5 * 0 . 4 cm .</seed>
+
+
+
+<chromosomes>2n = 28.</chromosomes>	<2n>2n = 28 .</2n>
+
+</description>	</description>
+
+Table 1: The Comparison of the Same Description Marked-up by Different
+Learning Algorithms effect translated <herb> to its broader concept
+<plant-habit-and-life-style>. Similarly it took <capsule> as a type of
+<fruit>, and <2n> <chromosome> counts. 
+
+There were also 50 instances of organ/structure descriptions marked as
+“other features” by the supervised algorithm, including those about
+staminodial ring,  utricle, 1st leaves, glandular hairs, intravaginal
+squamules, pigment cells, stomates, ring meristem, ostiole, air
+chambers, leaf primordia, terminal leaflet,  abaxial ridges, stranded
+plants, hastula, cells, sporangiasters, staminate scales, and
+cystoliths, totally 19 organs/structures. Unsupervised learning, on the
+other hand, discovered good tags for 14 of these structures and marked
+40 of these instances with correct tags.
+
+Discussions
+
+What have we learned from the experiment on the randomly selected 633
+FNA descriptions? First we learned that the documents from the real
+world will contain information that is not covered by a predefined XML
+schema. In the 633 descriptions (a tiny portion of FNA, new volumes of
+which are still being published), 19 organs/structures were not found in
+the XML schema. In addition, there are also 63 descriptive sentences
+with compound subjects, which cannot be tagged as any single
+organ/structure. We believe a semantic schema, let it be an XML schema
+or an ontology, is necessary for any semantic markup task to ensure
+consistent interpretation. The top-down approach to the creation of such
+a schema, however, does not seem to be a viable approach. In order to
+discover all organs/structures described in a collection, we believe a
+bottom-up approach based on the literature warrant principle such as the
+unsupervised learning method described in this paper is more feasible.
+To say the least, the unsupervised learning method can be used to
+generate element candidates and to identify difficult cases
+(“unknown”) for the human experts to base their work on.  
+
+Second we saw that the strength and weakness of the two techniques are
+quite evident. The unsupervised technique is more flexible, more
+efficient, and capable of uncover new/rare organs/structures. But it has
+the shortcoming of unable to associate concepts with their broader
+concepts. For example, it marks different fruit types explicitly yet
+unable to tell that they share one broader concept “fruit”. We often
+assume that the semantic relationships among domain concepts have long
+been codified in a thesaurus or something similar. While such
+assumptions are often unfounded, even if they are, we still face the
+issue of discrepancies among different thesauri: for example, if you
+trace the hypernymy relation of the word nut in WordNet, you will find
+nut is a seed. However, in the Oxford Plant Characters thesaurus,
+nut’s parent term is fruit. In WordNet, a capsule is a seed vessel,
+but in Oxford it is a fruit. Fortunately, the unsupervised learning
+algorithm reduced the workload for human experts to make situated
+associations among concepts from reading X sentences to examine Y
+distinct tags. In case of the 633 FNA descriptions, X=8557, Y=280.
+
+This identifies an additional component to be implemented as a part of
+the MARTT Interface application. In addition to support supervised and
+unsupervised learning, a module is needed to allow a human expert to
+establish semantic relationships among existing or introduced concepts.
+This is what we will do next.
+
+7. References	
+
+Abascal, R. & Sánchez. (1999) X-tract: Structure Extraction from
+Botanical Textual Descriptions.  Proceeding of the String Processing &
+Information Retrieval Symposium and International Workshop on Groupware,
+SPIRE/CRIWG, pp2-7.
+
+Blum, S. D. (2000). An Overview of Biodiversity Informatics. Accessed
+1/7/2008.  HYPERLINK
+"http://www.calacademy.org/research/informatics/sblum/pub/biodiv_informa
+tics.html"
+http://www.calacademy.org/research/informatics/sblum/pub/biodiv_informat
+ics.html  
+
+Cui, H. (2005a). MARTT: Using knowledge based approach to automatically
+mark up plant taxonomic descriptions with XML. Proceedings of the Annual
+Meeting of American Association of Information and Technology. Oct
+28-Nov 2. 2005 Charlotte, North Carolina, USA.
+
+Cui, H., & Heidorn, P.B. (2007). The reusability of induced knowledge
+for the automatic semantic markup of taxonomic descriptions. Journal of
+the American Society for Information Science and Technology. 58(1).
+133-149.
+
+FNA Editorial Committee (2006). Flora of North America North of Mexico
+Guide for Contributors. Accessed July 10, 2007 from  HYPERLINK
+"http://www.fna.org/FNA/Guide/guide_2006.pdf"  HYPERLINK
+"http://www.fna.org/FNA/Guide/guide_2006.pdf"  HYPERLINK
+"http://www.fna.org/FNA/Guide/guide_2006.pdf"
+http://www.fna.org/FNA/Guide/guide_2006.pdf    HYPERLINK
+"http://www.fna.org/FNA/Guide/guide_2006.pdf"  HYPERLINK
+"http://www.fna.org/FNA/Guide/guide_2006.pdf"  HYPERLINK
+"http://www.fna.org/FNA/Guide/guide_2006.pdf" .    
+
+FNA Flora of North America Editorial Committee. (Eds.). (1993-). Flora
+of North America North of Mexico. Accessed July 10, 2007 from  HYPERLINK
+"http://www.fna.org/" http://www.fna.org/  
+
+FOC Flora of China Editorial Committee. (Eds.). (1994-). Flora of China.
+Beijing/St. Louis: Science Press/Missouri Botanical Garden Press.
+Accessed July 10, 2007 from  HYPERLINK
+"http://flora.huh.harvard.edu/china/"  HYPERLINK
+"http://flora.huh.harvard.edu/china/"  HYPERLINK
+"http://flora.huh.harvard.edu/china/"
+http://flora.huh.harvard.edu/china/    
+
+Heidorn, P.B. & Cui, H. (2000). The Interaction of Result Set Display
+Dimensionality and Cognitive Factors in Information Retrieval Systems.
+Proceedings of the Annual Meeting of the American Society for
+Information Science, ASIS 2002, pp. 258-270.
+
+Kirkup, D., Malcolm, P., Christian, G., & Paton, A. (2005). Towards a
+digital African Flora. Taxon, 54(2). 457-466. 
+
+Koning, D., Sarkar, I.N., & Moritz, T (2005). TaxonGrad: Extracting
+Taxonomic Names from Text. Biodiversity Informatics. 2. 79-82.
+
+Lydon, S.J., Wood, M. M., Huxley, R., & Sutton, D.(2003). Data Patterns
+in Multiple Botanical Descriptions: implications for automatic
+processing of legacy data. Systematics and Biodiversity 1(2).  151-157.
+
+Riloff, E. & Jones, R. (1999). Learning Dictionaries for Information
+Extraction by Multi-Level Bootstrapping. Proceedings of the 16th
+National Conference on Artificial Intelligence. pp. 474-479
+
+Sautter, G., Agosti, D., & Böhm, K. (2006). A Combining Approach to
+Find All Taxon Names(FAT). Biodiversity Informatics. 3, 46-58. 
+
+Sautter, G., Agosti, D., & Böhm, K. (2007). Semi-Automated XML Markup
+of Biosystematics Legacy Literature with the GoldenGATE Editor,
+Proceedings of PSB 2007, Wailea, HI, USA. Accessed July 10, 2007 from 
+HYPERLINK
+"http://psb.stanford.edu/psb-online/proceedings/psb07/sautter.pdf" 
+HYPERLINK
+"http://psb.stanford.edu/psb-online/proceedings/psb07/sautter.pdf"
+http://psb.stanford.edu/psb-online/proceedings/psb07/sautter.pdf    
+
+Sautter, G., Böhm, K., & Agosti, D. (2007). A Quantitative Comparison
+of XML Schemas for Taxonomic Publications. Biodiversity Informatics. 4,
+1-13. 
+
+Taylor, A.(1995). Extracting Knowledge from Biological Descriptions.
+Proceedings of 2nd International Conference on Building and Sharing Very
+Large-Scale Knowledge Bases. pp. 114-119. 
+
+Vanel, J.-M. (2004). Worldwide Botanical Knowledge Base. Accessed July
+5, 2007 from  HYPERLINK "http://wwbota.free.fr/"  HYPERLINK
+"http://wwbota.free.fr/"  HYPERLINK "http://wwbota.free.fr/"
+http://wwbota.free.fr/   .
+
+Wood, M., Lydon, S., Tablan, V., Maynard, D. & Cunningham, H. (2004).
+Populating a database from parallel texts using ontology-based
+information extraction. In Meziane, F. and M_etais, E., (editors)
+Proceedings of Natural Language Processing and Information Systems, 9th
+International Conference on Applications of Natural Languages to
+Information Systems. pp.254-264. 
+
+
+

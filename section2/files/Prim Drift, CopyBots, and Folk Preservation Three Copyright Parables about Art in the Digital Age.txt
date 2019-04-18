@@ -1,0 +1,693 @@
+Prim Drift, CopyBots, and Folk Preservation: Three Copyright Parables
+about Art in the Digital Age
+
+Kari Kraus
+
+University of Maryland
+
+College of Information Studies
+
+Department of English
+
+College Park, MD 20742-4345
+
+1.240.997.9759
+
+kkraus@umd.edu
+
+ABSTRACT
+
+This paper employs a series of case studies from the domains of
+
+digital arts and creative/experimental new media to elicit tensions and
+contradictions in the current state of copyright and intellectual
+property law. I pay particular attention to the role of the "pirate" as
+preservationist--rather than taint or corrupt, historically we know that
+piracy has helped guarantee the survival of important works of
+literature and art. Throughout, I insist that the humanist is not a
+dabbler or interloper in these matters; humanistic knowledge,
+particularly semiotics (the study of sign systems) has the potential to
+lend consistency and coherence to case law that is currently shot
+through with loopholes, contradictions, and dead ends. To that end, I
+also outline the potential of a center devoted to intellectual property
+law and humanities advocacy.
+
+Topics
+
+	Information policy, ethics, and law
+
+	Preserving digital information
+
+Keywords
+
+Second Life, virtual worlds, intellectual property, copyright, arts and
+humanities, preservation, multi-user virtual environments
+
+INTRODUCTION
+
+In 2006 the American Council of Learned Societies published “Our
+Cultural Commonwealth,” a landmark report on cyberinfrastructure for
+the humanities and social sciences.  As used by the Commission, the term
+“cyberinfrastructure” covers the aggregate social, technological,
+institutional, legal, economic, and human capital needed to advance the
+humanities and social sciences in a global digital environment (ACLS 6).
+ Brett Bobley of the National Endowment for the Humanities provided some
+indication of the stature of the ACLS report at a recent talk at the 
+
+Maryland Institute for Technology in the Humanities when he referred to
+it as the “Bible” of the NEH’s new digital humanities initiative.
+
+Copyright and Disclaimer Information
+
+The copyright of this document remains with the authors and/or their
+institutions. By submitting their papers to the iSchools Conference 2008
+web site, the authors hereby grant a non-exclusive license for the
+iSchools to post and disseminate their papers on its web site and any
+other electronic media. Contact the authors directly for any use outside
+of downloading and referencing this paper. Neither the iSchools nor any
+of its associated universities endorse this work. The authors are solely
+responsible for their paper’s content. Our thanks to the Association
+for Computing Machinery for permission to adapt and use their template
+for the iSchools 2008 Conference. 
+
+“Our Cultural Commonwealth” identifies six key challenges that must
+be overcome if we are to fulfill the promise of a robust
+cyberinfrastructure, of which arguably the most daunting and complex is
+copyright (18-25).  In its 51-page document, the Commission invokes
+intellectual property no less than 47 times, ultimately concluding that
+although it “can offer no simple solutions” (31), the various
+stakeholders named in the report nonetheless have an obligation to do
+what they can to strengthen and support the public domain and fair use
+provisions of the law.  To decline this advocacy role is to jeopardize
+the precious few limitations on absolute copyright upon which we as
+information professionals rely in our efforts to preserve and transmit
+the cultural record.  Perhaps nowhere is that danger more ominously
+expressed than in Susan Bielstein’s Permissions, A Survival Guide:
+Blunt Talk about Art as Intellectual Property:      
+
+Asking permission [of a rights holder] zealously and unnecessarily also
+catches you up in a mentality of acquiescence.  Acquiescence is a
+wasting disease rooted in anxiety and ignorance, and it helps propel the
+all-consuming permissions culture . . . in the quotidian world of
+intellectual property, acquiescence operates far beneath the beacon eye
+of statute or treaty, and capitalizing on it is not good for anyone’s
+health.  It wastes time, it wastes money, and it produces a compliant
+society vulnerable to abuse and wholesale ideological shifts in the law.
+(10-11) 
+
+The purpose of this talk, then, is twofold: first, to furnish a case
+file of network-driven digital art that dramatizes the conflict between
+private and public rights in creative culture (i.e., the provocative
+“prim drift,” “copybots,” and “folk preservation” mentioned
+in my title, which are part of a larger conversation about emergent art
+genres and creative communication technologies, such as 3D virtual
+worlds, that, although still in their infancy, will shortly become as
+established in their own way as television and video are today); and
+second, to propose, as an experimental intervention into the legal
+system (and modeled in part after the Electronic Frontier Foundation) a
+humanities center staffed by archivists, librarians, visual resource
+curators, art historians, humanities researchers, and lawyers dedicated
+to testing in a court of law (with the aim of legally validating) claims
+that, in the words of Gary Schwartz, have the potential to “maximize
+our own collective position as holders of copyright” in public domain
+works or, I would add, as users of copyright in private domain works.
+
+The choice of an arts and humanities dataset to seed the discussion
+about copyright is inspired in part by a venerable roster of artists who
+have challenged prevailing assumptions about the nature of creativity,
+originality, and authorship.  These assumptions in turn inform cultural
+attitudes toward intellectual property.  The cut-ups of William S.
+Burroughs; the ready-mades of Marcel Duchamp; the appropriation art of
+Sherrie Levine, Jeff Koons, and Andy Warhol all potentially run afoul of
+modern IP law.  For this reason, the arts frequently act as an early
+warning system for copyright, alerting us to potential ambiguities in
+the case law or to legislative actions that alter, intentionally or not,
+the delicate balance between the rights of creators and the rights of
+users that the framers of the Constitution sought to protect.  It is not
+only artists themselves, but also the collectors, scholars, publishers,
+museums, libraries, executors, and rights agents drawn into their orbit
+who have the power to upset or restore the golden mean of copyright. 
+
+PRIM DRIFT
+
+In the multi-user virtual environment Second Life, “prims”—short
+for “primitives”—are the basic building blocks from which 3D
+objects such as cars, houses, books, and furniture are built. 
+Individual prims can be linked together into larger systems to form
+complex shapes.  Although generally stable, such builds will sometimes
+“drift” over time: like tectonic plates sliding past each other,
+prims can randomly shift out of position, producing distorted visual
+effects (Walsh, “Drifting Apart”).  While content creators can edit
+their scripts to repair the damage, potential problems arise once the
+items have been sold.  This is because every creative asset in SL is
+encoded with a set of permissions that dictate how it may be distributed
+and used by other residents.  The permissions system includes four
+fields: move, modify, copy, and transfer.  If either the second or
+fourth of these is disabled, the owner of the object, as distinct from
+its creator, is prevented from exercising freedoms that are normally
+either unregulated or protected by law in real life: the right to modify
+an object for personal use and the right to resell or give away a
+lawfully obtained copy under the First Sale Doctrine (Figures 1, 2, and
+3).  Thus, for example, in RL I may annotate my copy of Gone with the
+Wind in preparation for class discussion or take it to the bookbinder
+for repair if the pages come loose or donate it to my local public
+library when I no longer need or want it without infringing on the
+author’s copyrights.  By contrast, if I own a book in SL, I may not be
+able to do these things: I may not be able to repair the book if it
+shows signs of prim drift or give it as a gift to someone else.  The
+inability to alter objects for personal use warrants further
+consideration: as an analogy, it would be as if I suddenly found myself
+in a world where there were no tailors to hem pants or cobblers to mend
+shoes or antique experts to restore Grandma’s heirloom hutch.  
+
+The set of problems I’m describing are as applicable to the 2D web as
+they are to the 3D web.  Increasingly contract law overrides copyright
+law in electronic commerce.  End User Licensing Agreements (EULAs), for
+example, complicate the transfer of software applications from one party
+to another, suggesting that the erosion of the First Sale and Fair Use
+doctrines in Second Life is part of a much larger trend.
+
+Because this example and the other two mentioned in my title function as
+limit cases for copyright policy, showing us where the system breaks
+down in a digital environment and allowing us to probe its edges, they
+help justify what might otherwise be seen as an implausible proposal: to
+establish a humanities center that would expand the site of activism to
+include not only the customary conference proceedings, working groups,
+white papers, articles, and symposia, but also, crucially, the courts. 
+Nearly a decade ago, art historian Gary Schwartz urged his colleagues in
+a spirited talk at the annual meeting of the College Art Association to
+adopt more assertive measures to revive an ailing fair use doctrine.  In
+an attempt to persuade his audience members of the need for innovative
+approaches, Schwartz informed them that he had been “assured by
+counsel that test trials on any of these [copyright] issues, in a
+well-chosen court, stand an excellent chance of success.” In 1998,
+such a strategy might have seemed improbable; in 2008, I’m convinced
+it is not.   With the establishment of a grant initiative in 2003 to
+fund work “in the area of intellectual property and the long-term
+protection of the public domain,” the MacArthur Foundation has
+signaled its readiness to support experimental programs; recent
+recipients include the Electronic Frontier Foundation, which was awarded
+over half a million dollars in 2007.  The EFF--whose mandate is to
+protect the public interest in a networked world--helps defend free
+speech, privacy, and consumer rights, in part by subjecting them to
+legal proceedings in a court of law.  It thus serves as an important
+precedent for the course of action advocated here.
+
+What would distinguish the center I envision from either the EFF or
+Stanford’s Center for Internet and Society is the role of the
+humanist, who would serve not as an ancillary figure, but one central to
+the center’s mission and success.  Although I suspect many are capable
+of envisioning humanities scholars as evangelists, public relations
+spokespeople, legal assistants, legal researchers, or legislative
+advocates in this enterprise, I believe they are qualified to do more:
+to serve as expert witnesses or consultants in civil cases involving
+intellectual property and the arts.  The literary scholar who
+specializes in textual transmission, the philosopher who investigates
+theories of language or the nature of universals, and the art historian
+who publishes on reproductive printmaking are all de facto semioticians,
+experts in sign systems and how they work.  Because intellectual
+property concerns itself with originals and copies, a substantial body
+of case law hinges on the semiotic distinction between the two.  The
+ability to state when two objects are fundamentally the same or
+different--to determine, for example, if a copy of Salvador Dali’s
+Persistence of Memory is primarily substitutive or transformative--is
+therefore a legal desideratum, one which many humanists are qualified to
+help address.  
+
+“Given the central and fundamental role of sign systems,” writes
+Jeffrey Long in a special issue of Semiotica, “why is the field that
+studies them—semiotics—so unknown amongst many who wish to solve
+practical problems in business, science, the arts . . . government”
+and, we might add, the law (1)?  A preliminary survey of judicial
+opinions on court cases that involve accusations of copyright
+infringement of visual works of art turns up a network of seemingly
+contradictory, ad hoc, or ambiguous rulings that would benefit from the
+rigorous application of semiotic principles of individuation, principles
+that would allow us to make tighter discriminations among things like
+originals, copies, versions, remixes, editions, and other relevant
+categories.  The point here is that semiotics could be instrumental in
+helping courts adjudicate between the competing copyright claims of
+plaintiffs and defendants, as well as in fortifying fair use and the
+public domain.  Contrary to the position recently espoused by Stanley
+Fish, professor of English and Law at Florida International University,
+regarding the lack of any utilitarian value whatsoever of a 21st century
+humanities education, the center I’m proposing would provide an
+affirmation of the power of humanistic knowledge to shape public policy
+in the digital age.   
+
+FOLK PRESERVATION
+
+By “folk preservation,” I mean preservation that is amateur rather
+than professional; distributed rather than centralized; and unauthorized
+rather than authorized.  It is often of an avocational rather than
+vocational nature.  Many of the current preservation initiatives in
+Second Life, for example, are folksonomic in character: one of the
+longest standing structures in the metaverse, a statue representing the
+burning man effigy of the annual art festival held in the deserts of
+Nevada (“The Man”), continues to survive in an old parcel of Natoma,
+not, at least initially, because of any top-down decree from Linden Lab,
+the developer of SL, or the intervention of Real Life (RL) or Second
+Life (SL) conservators, but because of the on-going support and efforts
+of residents.  
+
+Of the many varieties of folk preservation, the one on which I’d like
+to focus is piracy.  Consider three examples: According to industry
+insiders, the New York Philharmonic was ironically forced some years
+ago, when it began to think seriously about its preservation program, to
+purchase surreptitiously made sound recordings of its live performances
+from concert-goers who had smuggled their portable recording devices
+into the concert hall (Manildi; Winner). The 10-CD commemorative
+archival box set of Leonard Bernstein Live, for example, which was
+issued by the NY Philharmonic, includes an entire Wagner concert from
+1970 taken from an illicit tape made by Roger Frank (Godell).  Such
+bootleg music was a mainstay at William Lerner’s record shop Music
+Masters in the 60s and 70s, a hangout for musicians and collectors often
+in search of rare material (Kozinn).  Although Lerner’s reasons for
+hiring freelancers armed with recorders to fill the seats at concert
+halls were strictly commercial, both he and Frank nonetheless join the
+historical ranks of pirates who deserve recognition for archival and
+preservation achievement in the arts.
+
+My second example comes from the world of cinema. In an online
+interview, the British screenwriter Peter Briggs relates how he lost and
+subsequently found his Alien vs. Predator script: 
+
+I wrote "A vs P" originally . . . on an Amstrad computer, which was
+about one step above a Univac Room Filler. In '92 I swapped to an Apple
+Mac, which I've used ever since. And I ended up losing the Amstrad disk,
+which was some weird, unreadable proprietary brand anyway. It wasn't
+until whoever it was transcribed it and pirated it onto the web years
+later, that I was able to cut-and-paste it into Final Draft and have an
+electronic copy again. So, thank-you, Internet Leaker, wherever you
+[are]! (Qtd. by Doctorow)
+
+My third example, the one on which I’d like to spend the most time, is
+Agrippa (a book of the dead), an artist’s book co-authored by the
+writer William Gibson and the artist Dennis Ashbaugh, and published by
+Kevin Begos, Jr. in 1992.  Described in contemporary press releases as a
+“multi-unit artwork” (Gibson, “Introduction to Agrippa”),
+Agrippa is difficult to classify, both physically and generically.  It
+was originally sold in two versions.  The deluxe version came wrapped in
+a shroud, its cover artificially aged and its pages
+scorched—“time-burned,” like the photo album described in
+Gibson’s poem (“Agrippa Files”).  Inside are etchings by Ashbaugh
+and double columns of DNA that ostensibly encode the genome of a
+fruitfly (Kirschenbaum xi).  Nestled in the center of the book is a 3 ½
+inch floppy disk that contains the poem, a meditation on time, memory,
+and decay.  Its governing metaphor is that of the mechanism “a
+trope,” notes Matthew Kirschenbaum, “that manifests itself as a
+photograph album, a Kodak camera, a pistol, and a traffic light, as well
+as in less literal configurations. (ix)”  Agrippa, among other things,
+is about our misplaced faith in the permanence and objectivity of media.
+ Like human memories, media distort, invent, and erase the very objects
+they’re designed to preserve: handwriting fades and becomes illegible,
+photographs break the fourth wall by constantly reminding us of the
+world that lies just outside the picture frame, and inert technological
+artifacts put up no resistance when new ones come along to replace or
+destroy them.  Paradoxically, the speaker of the poem takes recourse in
+his own recollections to supplement the incomplete records of the past,
+records that were originally intended to compensate for the limitations
+of memory.  By such a process, he tries to recapture, for instance, the
+smells of the saw-mill once owned by his father, whose “tumbled boards
+and offcuts” are pictured in an old photograph (Gibson Agrippa). 
+Drawing on a synaesthetic imagination, he uses the visual stimulus to
+prompt an olfactory memory.  This complex interplay between mechanism
+and memory structures the poem as a whole and shapes its manifold
+meanings.   
+
+Agrippa’s core themes are expressed through form as well as content:
+some of Ashbaugh’s etchings are overlaid with images printed in
+uncured toner, which are inevitably smudged and distort those beneath
+and facing them when the pages are turned (Kirschenbaum xi).  More
+stunningly, as has been often described, Gibson’s electronic poem is
+encrypted to scroll automatically down the screen once before being
+irrevocably lost, its text disappearing after a single reading. Agrippa
+is therefore subjected, like all material objects, to the forces of
+decay, but here those forces are manufactured rather than natural,
+causing the work to disintegrate at an accelerated rate.  Ashbaugh, in
+particular, took considerable delight in anticipating how this
+volatility would confound librarians, archivists, and conservators: as
+Gavin Edwards explains, to register the book's copyright, Ashbaugh
+“would need to send two copies to the Library of Congress.  To
+classify it, they . . . [would] have to read it, and to read it, they .
+. . [would have to] destroy it.”  Significantly, however, it was not
+the librarians who found a workaround to the problem, but the pirates. 
+On December 9, 1992, a group of New York University students secretly
+video-recorded a live public performance of Agrippa at The Americas
+Society, an art gallery and experimental performance space in New York
+City.  After transcribing the poem, they uploaded it as a plain ASCII
+text to MindVox, a notorious NYC Bulletin Board, “the Hells Angels of
+Cyberspace,” according to Wikipedia, where it was readily available
+for download and quickly proliferated across the web.  “The Hack,”
+as the incident has come to be called, is told with the hard-boiled
+suspense of a detective story by Matthew Kirschenbaum, who uncovered the
+gritty details while working on his new book Mechanisms: New Media and
+the Forensic Imagination, recently published by MIT P.   
+
+Although many rare archival and research materials (images, scans,
+transcriptions, video footage, and simulations) related to Agrippa are
+published on the Agrippa Files website with the permission of Kevin
+Begos Jr., the complete text of the poem--arguably the central node of
+the work--is not.  The editorial team at the University of California
+Santa Barbara provides the following notice by way of explanation:
+“Currently, the Agrippa Files does not have permission to reproduce
+the full text of the poem. Many wild copies of the text exist on the
+Internet. The official copy is on William Gibson’s Web site” (“The
+Poem”).  What is worth noting here is that the access mission of the
+site is to some degree undercut by copyright laws.  Whereas publicly
+accountable archival projects must abide by these laws, they go unheeded
+by shadow groups, such as the MindVox users, who transmit culture at
+risk of civil litigation.  The irony, of course, is that despite the
+poem’s omnipresence on the web, it is absent from the one
+authoritative site dedicated to documenting and preserving it.  What the
+incident underscores is the way in which short-term private rights
+potentially obstruct long-term public rights in cultural heritage. 
+
+COPYBOTS
+
+In an entry dated from January 2008 on Architecture +, a blog covering
+commercial products and services for multi-user virtual environments,
+JeanRicard Broek cryptically proclaims that a “Library of Congress
+copybot is preserving virtual worlds.”  Broek, it turns out, is
+reporting on a recently funded grant sponsored by the Library of
+Congress to preserve early computer games, interactive fiction, and 3D
+virtual worlds.  The multi-institutional project, with which I’m
+directly involved, includes the University of Illinois Urbana-Champaign
+(Principal Investigator), Stanford University, the University of
+Maryland, and the Rochester Institute of Technology. Because interactive
+media are highly complex and at high risk for loss as technologies
+rapidly become obsolete, the project seeks to provide basic standards
+for metadata and content representation, and conduct a series of
+archiving case studies for early video games, electronic literature, and
+Second Life.  
+
+The “CopyBot” to which Broek refers is the famed software tool that
+wreaked havoc on the fledgling economy of Second Life in 2006. 
+Developed by libsecondlife, which describes itself as a project directed
+toward “understanding how Second Life works from a technical
+perspective, and extending and integrating the metaverse with the rest
+of the web,” the program generates clones of in-world objects, such as
+avatars, buildings, books, furniture, cars, and the like (Reuters). 
+Libsecondlife, which originally created CopyBot with the blessing of
+Linden Lab, intended for it to be used as a debugging and back-up
+application (Reuters).  Once the source-code was released and
+distributed through the SL Exchange marketplace, however, it was edited
+and recompiled to duplicate objects without authorization from content
+creators, to the great consternation of artists and merchants, many of
+whom apparently suffered considerable financial losses as a result
+(Wikipedia, “CopyBot”).  Nonetheless, the CopyBot is a technology
+that, although used by some customers to violate the law, is capable
+(like the home video recorders, photocopying machines, and computers
+that came before it) of “substantial non-infringing uses” (EFF,
+Betamax Case).
+
+What are we to make of Broek’s analogy, however facetious, between a
+legitimate, federally funded preservation program and a software tool
+best known for its ability to facilitate criminal activity?  The easy
+conflation of preservation with piracy no doubt has something to do with
+the fact that the simple act of copying is central to both.  One of the
+most reliable ways to preserve an object, after all, is to duplicate it.
+ This idea is so basic that it has been codified as a general principle:
+“lots of copies keep stuff safe” (LOCKSS).  But an intellectual
+property system that grants only minimal exemptions to libraries,
+museums, and archives from the prohibition against copying provides
+insufficient grounds for putting this principle into action—unless,
+that is, there are official or unofficial lines of communication that
+exist between them and a grey market economy that plays by different
+rules.  
+
+This, indeed, is the lesson of history: our creative heritage
+infrastructure has not evolved independently of piratical practices, but
+co-dependently with them.  Writing about early European print culture,
+for example, in his magisterial The Nature of the Book, Adrian Johns
+observes that in the sixteenth through the eighteenth centuries
+“pirates were . . . not a distinguishable social group.  They existed
+at all ranks of the Stationers’ community, [the guild responsible for
+enforcing copyrights], and at times were among its most prominent and
+upstanding members” (167).  Similarly, Meredith McGill suggests that
+unauthorized reprinting in nineteenth-century antebellum America was so
+pervasive--so fully embedded in everyday publishing practices--that it
+constituted “part of the horizon of the ordinary” (4).  We need,
+then, to better understand the systems of exchange that exist between
+lawful and unlawful preservation regimes and determine the extent to
+which the former is beholden to the latter.  And we need to get a better
+purchase on the intellectual property restrictions that apply, directly
+or indirectly, to the contact zone between them.  (For example, if a
+benefactor were to donate a large collection of materials to a library
+that included pirated books or software, the First-Sale Doctrine would
+presumably be rendered moot, making parts of the transaction illegal).  
+     
+
+Giving credence to the historical importance of the pirate as
+preservationist provokes new kinds of questions, some answerable, some
+probably not: 
+
+Are there authors whose works have descended to us exclusively in
+pirated editions or unauthorized copies or reprints?  If so, who are
+they?
+
+If we could tally the total number of books that exist in the world and
+divide them into two groups, one containing authorized copies, the other
+unauthorized, what would be the ratio of one to the other?  Will we ever
+have the means to quantify piracy?  The difficulty of developing
+criteria that would allow us to confidently assign a book to one
+category or the other would only serve to underscore some of the issues
+raised here.
+
+Is pursuing a kind of heroic preservation, whereby we seek to transmit a
+cultural artifact wholly intact and unchanged to posterity, a fool’s
+errand?  Does cultural piracy demonstrate the truth of the old adage
+that the perfect is the enemy of the good?  Is the transformation of
+culture from one generation to the next something to be valued rather
+than lamented?  Can a fragment or a shard serve as a synecdoche for a
+larger whole that once existed? 
+
+My background in textual scholarship and bibliography tells me that we
+would be wise to lower the threshold of what constitutes successful
+preservation.  The distinction between a legitimate preservation regime
+and a piratical one is often illusory, based on the faulty assumption
+that the former is the guarantor of stability, while the latter delivers
+only volatility.  As an antidote to such notions, I’d like to close
+with an account of textual transmission found in the British playwright
+Tom Stoppard’s The Invention of Love.  Stoppard’s play tells the
+story of the early twentieth-century poet and classicist A. E. Housman,
+who, having just died, reminisces about his life while being ferried
+across the river Styx by the boatman Charon in the underworld.  In this
+passage, an Oxford don narrates the reception history of the Latin poet
+Catullus, whose textual fate is shared in its broad strokes by countless
+other writers of antiquity.  Here, then, is a tale of preservation,
+blemishes and all:
+
+Anyone with a secretary knows that what Catullus really wrote was
+already corrupt by the time it was copied twice, which was about the
+time of the first Roman invasion of Britain: and the earliest copy that
+has come down to us was written about 1,500 years after that.  Think of
+all those secretaries!—Corruption breeding corruption from papyrus to
+papyrus, and from the last disintegrating scrolls to the first
+new-fangled parchment books, with a thousand years of copying-out still
+to come, running the gauntlet of changing forms of script and spelling,
+and absence of punctuation—not to mention mildew and rats and fire and
+flood and Christian disapproval to the brink of extinction as what
+Catullus really wrote passed from scribe to scribe, this one drunk, that
+one sleepy, another without scruple, and of those sober, wide-awake, and
+scrupulous, some ignorant of Latin, and some, even worse, fancying
+themselves better Latinists than Catullus—until!—finally and at long
+last—mangled and tattered like a dog that has fought its way home,
+there falls across the threshold of the Italian Renaissance the sole
+surviving witness of thirty generations of carelessness and stupidity:
+the Verona Codex of Catullus; which was almost immediately lost again,
+but not before being copied with one last opportunity for error.  And
+there you have the foundation of the poems of Catullus as they went to
+the printer for the first time, in Venice 400 years ago. (24-25)
+
+ACKNOWLEDGEMENTS
+
+I would like to thank Donald Manildi, curator of the International Piano
+Archives at the University of Maryland, and Seth Winner, sound
+preservations engineer at the New York Public Library, for providing
+background on the New York Philharmonic and its preservation program, as
+well as information on the surreptitious sound recordings made in the
+60s and 70s.  I would also like to thank Alan Liu, project leader of the
+Agrippa Files and Professor of English at the University of California,
+Santa Barbara; and Matthew Kirschenbaum, Associate Director of MITH and
+Associate Professor of English at the University of Maryland, for
+sharing their wealth of knowledge about Agrippa.   Finally, I’d like
+to acknowledge the learned members of SHARP-L--a listserv sponsored by
+the Society for the History of Authorship, Reading, and Print—for
+their generous responses to my questions about preservation and book
+piracy.  While I didn’t have the opportunity to follow-up on some of
+their  valuable leads, readers may wish to consult the public record of
+the conversation, which begins here:    HYPERLINK
+"https://listserv.indiana.edu/cgi-bin/wa-iub.exe?A2=ind0801&L=SHARP-L&T=
+0&F=&S=&P=8206" 
+https://listserv.indiana.edu/cgi-bin/wa-iub.exe?A2=ind0801&L=SHARP-L&T=0
+&F=&S=&P=8206 .
+
+REFERENCES
+
+[Unless otherwise noted, all URLs were last accessed on 25 January
+2008.]
+
+The Agrippa Files. Transcriptions Project, University of California
+Santa Barbara. 21 January 2008   HYPERLINK
+"http://agrippa.english.ucsb.edu/"  http://agrippa.english.ucsb.edu/ .
+
+Bielstein, Susan M. Permissions, A Survival Guide: Blunt Talk about Art
+as Intellectual Property. University Of Chicago Press, 2006.
+
+Bobley, Brett. “A Candid Chat About the NEH’s Digital Humanities
+Initiative.”  MITH Digital Dialogue.  University of Maryland.  16
+October 2007.
+
+Broek, JeanRicard.  “Library of Congress CopyBot is Preserving Second
+Life.”  Architecture + January 2008   HYPERLINK
+"http://jeanricardbroek-architect.blogspot.com/2008/01/library-of-conges
+s-copybot-is.html" 
+http://jeanricardbroek-architect.blogspot.com/2008/01/library-of-congess
+-copybot-is.html .
+
+"CopyBot." Wikipedia, The Free Encyclopedia. 14 Jan 2008, 15:48 UTC.
+Wikimedia Foundation, Inc. 26 Jan 2008   HYPERLINK
+"http://en.wikipedia.org/w/index.php?title=CopyBot&oldid=184268503" 
+http://en.wikipedia.org/w/index.php?title=CopyBot&oldid=184268503  .
+
+Doctorow, Cory.  “Alien v Predator Script Saved by Internet
+Pirates.”  6 November 2004 BoingBoing   HYPERLINK
+"http://www.boingboing.net/2004/11/06/alien-v-predator-scr.html" 
+http://www.boingboing.net/2004/11/06/alien-v-predator-scr.html .
+
+Electronic Frontier Foundation.  29 Oct 2007   HYPERLINK
+"http://www.eff.org"  http://www.eff.org .
+
+--. “The Betamax Case.”    HYPERLINK
+"http://w2.eff.org/legal/cases/betamax/" 
+http://w2.eff.org/legal/cases/betamax/ .
+
+Edwards, Gavin.  “CyberLit: William Gibson’s Latest Story Costs
+$450, Comes on Disk, and Self-Destructs after One Reading.”  Details
+June 1992.  Transcription available at   HYPERLINK
+"http://www.matarese.com/matarese-files/3580/cyberlit-william-gibson-lat
+est-story-costs-comes-disk-self-destructs/index.html" 
+http://www.matarese.com/matarese-files/3580/cyberlit-william-gibson-late
+st-story-costs-comes-disk-self-destructs/index.html .
+
+Fish, Stanley.  “Will the Humanities Save Us?”  New York Times 6
+January 2008   HYPERLINK
+"http://fish.blogs.nytimes.com/2008/01/06/will-the-humanities-save-us/" 
+http://fish.blogs.nytimes.com/2008/01/06/will-the-humanities-save-us/ .
+
+Gibson, William.  Agrippa: A Book of The Dead   HYPERLINK
+"http://www.williamgibsonbooks.com/source/agrippa.asp" 
+http://www.williamgibsonbooks.com/source/agrippa.asp .
+
+Godell, Tom.  “Bernstein Live.”  American Record Guide 1 March 2001 
+ HYPERLINK
+"http://www.accessmylibrary.com/coms2/summary_0286-10950492_ITM" 
+http://www.accessmylibrary.com/coms2/summary_0286-10950492_ITM .
+
+Kirschenbaum, Matthew G. Mechanisms: New Media and the Forensic
+Imagination. Cambridge: MIT Press, 2008.
+
+Kozinn, Alan.  “A Music Lovers’ Mecca is Closing.”  New York Times
+7 November 1990   HYPERLINK
+"http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DF1E3CF934A35752C1
+A966958260" 
+http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DF1E3CF934A35752C1A
+966958260 . 
+
+Johns, Adrian.  The Nature of the Book: Print and Knowledge in the
+Making.  Chicago: Chicago UP, 1998.
+
+Libsecondlife.    HYPERLINK
+"http://www.libsecondlife.org/wiki/Main_Page" 
+http://www.libsecondlife.org/wiki/Main_Page .
+
+LOCKSS [Lots of Copies Keep Stuff Safe].   HYPERLINK
+"http://www.lockss.org/lockss/Home"  http://www.lockss.org/lockss/Home .
+
+Long, Jeffrey.  “Editor’s Note.”  Semiotica 125 (1999): 1-13. 
+Special issue on notation systems.
+
+MacArthur Foundation. "Intellectual Property and the Public Domain." 29
+Oct 2007   HYPERLINK
+"http://www.macfound.org/site/c.lkLXJ8MQKrH/b.943331/k.DA6/General_Grant
+making__Intellectual_Property.htm" 
+http://www.macfound.org/site/c.lkLXJ8MQKrH/b.943331/k.DA6/General_Grantm
+aking__Intellectual_Property.htm . 
+
+---.  "Recent Grants." 29 Oct 2007   HYPERLINK
+"http://www.macfound.org/site/c.lkLXJ8MQKrH/b.1002695/k.9993/General_Gra
+ntmaking__Intellectual_Property__Recent_Grants.htm" 
+http://www.macfound.org/site/c.lkLXJ8MQKrH/b.1002695/k.9993/General_Gran
+tmaking__Intellectual_Property__Recent_Grants.htm .
+
+Reuters, Adam.  “Outcry as ‘CopyBot’ Threatens Copyright
+Protection.”  Reuters Second Life News Center 14 November 2006  
+HYPERLINK
+"http://secondlife.reuters.com/stories/2006/11/14/outcry-as-copybot-thre
+atens-copyright-protection/" 
+http://secondlife.reuters.com/stories/2006/11/14/outcry-as-copybot-threa
+tens-copyright-protection/ .
+
+“The Man.”  Second Life Wiki   HYPERLINK
+"http://secondlife.wikia.com/wiki/The_Man" 
+http://secondlife.wikia.com/wiki/The_Man .
+
+McGill, Meredith.  American Literature and the Culture of Reprinting,
+1834-1853.  Philadelphia: U of Philadelphia P, 2003.
+
+Our Cultural Commonwealth: The final report of the American Council of
+Learned Societies Commission on Cyberinfrastructure for the Humanities &
+Social Sciences. Washington DC: ACLS, 2006    HYPERLINK
+"http://www.acls.org/cyberinfrastructure/acls.ci.report.pdf" 
+www.acls.org/cyberinfrastructure/acls.ci.report.pdf .
+
+Schwartz, Gary. "No Fair: Long-Term Prospects for Regaining Unencumbered
+Use." Toronto Town Meeting Program. College Art Association. February
+1998.  29 Oct 2007   HYPERLINK
+"http://www.pipeline.com/~rabaron/ttm/SCHWARTZ.htm" 
+http://www.pipeline.com/~rabaron/ttm/SCHWARTZ.htm . 
+
+Stoppard, Tom.  The Invention of Love.  New York: Grove P, 1998.
+
+Walsh, Tony.  “Another Look at ‘Second Life’ Copyright Issues.” 
+Clickable Culture. 11 September 2006.   HYPERLINK
+"http://www.secretlair.com/index.php?/clickableculture/entry/another_loo
+k_at_second_life_copyright_issues/" 
+http://www.secretlair.com/index.php?/clickableculture/entry/another_look
+_at_second_life_copyright_issues/ .
+
+--. "Drifting Apart." Clickable Culture. 10 June 2004. 29 Oct 2007  
+HYPERLINK
+"http://www.secretlair.com/index.php?/clickableculture/entry/my_second_l
+ife_part_9/" 
+http://www.secretlair.com/index.php?/clickableculture/entry/my_second_li
+fe_part_9/ . 
+
+Figure 1: Notice (left page) published by the Bobbs-Merrill Co. in The
+Castaway by Hallie Erminie Rives in 1904.  The attempt to use the right
+of distribution to control resale of the book eventually led to the
+landmark Supreme Court decision Bobbs-Merrill Co. v. Straus, 210 U.S.
+339 (1908).  The case codified The First Sale Doctrine.   The image is a
+screenshot taken from the electronic version of the novel available on
+the Internet Archive at   HYPERLINK
+"http://www.archive.org/details/castaway00riveiala" 
+http://www.archive.org/details/castaway00riveiala . 
+
+Figure 2: A physical copy of the novel Anima by Dalian Hansen (digitalKu
+2007).  The freedoms to modify (write in the margins, dogear the pages,
+etc.) and resell lawfully obtained copies of the book are protected by
+Fair Use, First Sale, and de minimis doctrines.  
+
+Figure 3: Virtual Copy of Anima by Dalian Hansen.  This version of the
+novel can only be read in the virtual world of Second Life.  In this
+case the author has disabled transfer and modification rights.  The
+permissions system of SL partially nullifies the Fair Use, First Sale,
+and de minimis doctrines that operate in real life.
+
+ On the fragment as a unit of preservation, see David Lowenthal,
+“Material Preservation and its Alternatives,” Perspecta 25 (1989):
+66-77.
+
+ PAGE   
+

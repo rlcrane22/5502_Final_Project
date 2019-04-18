@@ -1,0 +1,1050 @@
+An Exploration of the Use of Games in Virtual Worlds for Online
+Education
+
+Authors: Martha García-Murillo and Ian MacInnes
+
+Abstract
+
+Advances in computing and telecommunications make it possible to take
+advantage of immersive electronic environments to deliver content. In
+this paper we present a policy game to be used in a virtual world. The
+benefits of this tool are examined using Gee’s learning principles.
+From this analysis we find that games in virtual worlds enable
+reflective exploration that helps participants to learn from their
+mistakes. Learning takes place from the content conveyed through the
+game and through the multimedia immersion that allows students to learn
+the nuances of these virtual contexts. Because there are no real world
+consequences, participants can take risks, provide or receive help from
+other students and, most importantly, apply this knowledge to a real
+world situation. Recommendations are provided to educators to help them
+exploit the great potential of games while being prepared for the
+obstacles that they will face.
+
+Introduction 
+
+The purpose of this paper is to explore whether virtual worlds can
+provide a setting for a rewarding learning experience for college
+students. While online college education is a fairly common practice
+today, most distance interactions with students rely on relatively
+mature technologies such as course management systems (e.g., WebCT;
+Blackboard), message boards, electronic mail and weblogs (‘blogs’).
+These applications have facilitated the asynchronous interaction of
+individuals located in various places and time zones. However,
+information and communication technologies have advanced considerably,
+and college professors now have the opportunity to experiment with more
+innovative software applications that could make online interactions
+more engaging and stimulating. Virtual worlds represent one such
+application. In this paper we explore the pedagogical benefits of
+virtual worlds, which we describe here as graphically immersive,
+persistent, shared and typically avatar-based digital environments. We
+believe at the outset that virtual worlds offer instructors a
+potentially powerful tool for student learning and interaction through
+simulated experience. 
+
+The paper is divided in five main sections. The first section presents
+evidence from academic research of the potential benefits that virtual
+worlds can offer to distance students. Here we focus on video games and
+virtual worlds and the educational benefits that they can provide. The
+section also identifies the differences between virtual worlds and video
+games. The second section describes a lobbying game that was adapted
+from a traditional classroom to a virtual world environment. This was
+done because of the increasing popularity of online classes at
+university campuses. There is thus a need to find online activities that
+maintain the interest of students. Here we describe the simulation and
+the process that we followed to select a virtual world that could work
+with this simulation. The third section of the paper analyzes the
+educational value of the lobbying game within the virtual world. To do
+this we used Gee’s learning principles and determined if virtual
+worlds offer those benefits. The fourth section presents some of the
+challenges to educators of the process of developing games for virtual
+worlds. The fifth and last major section prior to the conclusions talks
+about future trends of virtual worlds in educational settings.
+
+Video and Computer Games as Pedagogical Tools
+
+Work, leisure and education have all been affected by advances in
+information and communication technologies. Technologies for
+entertainment purposes can be so captivating now that traditional
+classroom and electronic education programs sometimes pale in
+comparison. The video and computer game industry, in particular, has
+evolved radically over the past decade to offer interactive capabilities
+that were only imagined twenty years ago. The cutting-edge animation,
+opportunities for interaction, and dynamically generated narratives that
+can be found in today’s games have attracted large, diverse audiences,
+and many American teenagers and young adults play these computer games
+on a routine basis   ADDIN EN.CITE
+<EndNote><Cite><Author>Jayakanthan</Author><Year>2002</Year><RecNum>69</
+RecNum><MDL><REFERENCE_TYPE>0</REFERENCE_TYPE><PAGES>98-102</PAGES><URL>
+&lt;Go to ISI&gt;://000175414700004</URL><AUTHORS><AUTHOR>Jayakanthan,
+R.</AUTHOR></AUTHORS><TITLE>Application of computer games in the field
+of education</TITLE><SECONDARY_TITLE>Electronic
+Library</SECONDARY_TITLE><KEYWORDS><KEYWORD>computers; games; learning;
+education</KEYWORD></KEYWORDS><YEAR>2002</YEAR><VOLUME>20</VOLUME><NUMBE
+R>2</NUMBER><ACCESSION_NUMBER>ISI:000175414700004</ACCESSION_NUMBER></MD
+L></Cite></EndNote> (Jayakanthan, 2002) .
+
+It is thus not surprising that aspects of our lives that were not
+initially affected by computer-based multimedia are now being
+transformed. Two such aspects that are being integrated and made
+increasingly less distinct are entertainment- and learning-related
+activities. Educational video games, for example, are now being designed
+around movie titles   ADDIN EN.CITE
+<EndNote><Cite><Author>Jayakanthan</Author><Year>2002</Year><RecNum>69</
+RecNum><MDL><REFERENCE_TYPE>0</REFERENCE_TYPE><PAGES>98-102</PAGES><URL>
+&lt;Go to ISI&gt;://000175414700004</URL><AUTHORS><AUTHOR>Jayakanthan,
+R.</AUTHOR></AUTHORS><TITLE>Application of computer games in the field
+of education</TITLE><SECONDARY_TITLE>Electronic
+Library</SECONDARY_TITLE><KEYWORDS><KEYWORD>computers; games; learning;
+education</KEYWORD></KEYWORDS><YEAR>2002</YEAR><VOLUME>20</VOLUME><NUMBE
+R>2</NUMBER><ACCESSION_NUMBER>ISI:000175414700004</ACCESSION_NUMBER></MD
+L></Cite></EndNote> (Jayakanthan, 2002)  and routinely played on home
+computers   ADDIN EN.CITE
+<EndNote><Cite><Author>Kerawalla</Author><Year>2002</Year><RecNum>62</Re
+cNum><MDL><REFERENCE_TYPE>0</REFERENCE_TYPE><PAGES>751-771</PAGES><URL>&
+lt;Go to ISI&gt;://000180358100001</URL><AUTHORS><AUTHOR>Kerawalla,
+L.</AUTHOR><AUTHOR>Crook, C.</AUTHOR></AUTHORS><TITLE>Children&apos;s
+computer use at home and at school: context and
+continuity</TITLE><SECONDARY_TITLE>British Educational Research
+Journal</SECONDARY_TITLE><KEYWORDS><KEYWORD>education</KEYWORD></KEYWORD
+S><DATE>Dec</DATE><YEAR>2002</YEAR><VOLUME>28</VOLUME><NUMBER>6</NUMBER>
+<ACCESSION_NUMBER>ISI:000180358100001</ACCESSION_NUMBER></MDL></Cite></E
+ndNote> (Kerawalla & Crook, 2002) . In contrast, computers at many
+schools are still being used heavily for word processing – an activity
+that students report finding less than stimulating   ADDIN EN.CITE
+<EndNote><Cite><Author>Mumtaz</Author><Year>2001</Year><RecNum>80</RecNu
+m><MDL><REFERENCE_TYPE>0</REFERENCE_TYPE><PAGES>347-362</PAGES><URL>&lt;
+Go to ISI&gt;://000168371600005</URL><AUTHORS><AUTHOR>Mumtaz,
+S.</AUTHOR></AUTHORS><TITLE>Children&apos;s enjoyment and perception of
+computer use in the home and the
+school</TITLE><SECONDARY_TITLE>Computers &amp;
+Education</SECONDARY_TITLE><KEYWORDS><KEYWORD>improving classroom
+teaching; gender studies;
+teaching/learning</KEYWORD><KEYWORD>strategies; distributed learning
+environments; pedagogical issues</KEYWORD><KEYWORD>gender; experience;
+environment;
+attitudes</KEYWORD></KEYWORDS><DATE>May</DATE><YEAR>2001</YEAR><VOLUME>3
+6</VOLUME><NUMBER>4</NUMBER><ACCESSION_NUMBER>ISI:000168371600005</ACCES
+SION_NUMBER></MDL></Cite></EndNote> (Mumtaz, 2001) . Given the many
+mediated outlets that students now have, each one competing for the
+student’s attention, there is greater pressure on educators to be more
+creative in the delivery of instructional material.
+
+The introduction of computer games in classrooms has aroused the
+interest of researchers across many fields, and as a result more papers
+are being published on the subject. Franklin, Peat and Lewis   ADDIN
+EN.CITE <EndNote><Cite
+ExcludeAuth="1"><Author>Franklin</Author><Year>2003</Year><RecNum>60</Re
+cNum><MDL><REFERENCE_TYPE>0</REFERENCE_TYPE><PAGES>79-84</PAGES><URL>&lt
+;Go to ISI&gt;://000181923600006</URL><AUTHORS><AUTHOR>Franklin,
+S.</AUTHOR><AUTHOR>Peat, M.</AUTHOR><AUTHOR>Lewis,
+A.</AUTHOR></AUTHORS><TITLE>Non-traditional interventions to stimulate
+discussion: the use of games and puzzles</TITLE><SECONDARY_TITLE>Journal
+of Biological Education</SECONDARY_TITLE><KEYWORDS><KEYWORD>card game
+discussions; crossword puzzles; effectiveness;
+evaluation</KEYWORD><KEYWORD>tool; perspective;
+business</KEYWORD></KEYWORDS><DATE>Spr</DATE><YEAR>2003</YEAR><VOLUME>37
+</VOLUME><NUMBER>2</NUMBER><ACCESSION_NUMBER>ISI:000181923600006</ACCESS
+ION_NUMBER></MDL></Cite></EndNote> (2003)  found that many computer
+games allow students to realize and react to the consequences of their
+(and their peers’) decisions. Subramanian, Khang and Sai   ADDIN
+EN.CITE <EndNote><Cite
+ExcludeAuth="1"><Author>Subramanian</Author><Year>1999</Year><RecNum>89<
+/RecNum><MDL><REFERENCE_TYPE>0</REFERENCE_TYPE><AUTHORS><AUTHOR>Subraman
+ian, R</AUTHOR><AUTHOR>Khang, G. N.</AUTHOR><AUTHOR>Sai, C.
+L.</AUTHOR></AUTHORS><YEAR>1999</YEAR><TITLE>Word Juxtapoz-an Innovative
+Tool for Promoting Interest in Biological
+Education</TITLE><SECONDARY_TITLE>Journal of Biological
+Education</SECONDARY_TITLE><VOLUME>33</VOLUME><PAGES>103-104</PAGES></MD
+L></Cite></EndNote> (1999)  found that computer games can diminish the
+apathy and boredom that affect many students. Heffler   ADDIN EN.CITE
+<EndNote><Cite
+ExcludeAuth="1"><Author>Heffler</Author><Year>2001</Year><RecNum>87</Rec
+Num><MDL><REFERENCE_TYPE>0</REFERENCE_TYPE><AUTHORS><AUTHOR>Heffler,
+B.</AUTHOR></AUTHORS><YEAR>2001</YEAR><TITLE>Individual Learning Style
+and the Learning Style Inventory</TITLE><SECONDARY_TITLE>Educational
+Studies</SECONDARY_TITLE><VOLUME>27</VOLUME><PAGES>307-316</PAGES></MDL>
+</Cite></EndNote> (2001)  and De Vita   ADDIN EN.CITE <EndNote><Cite
+ExcludeAuth="1"><Author>De
+Vita</Author><Year>2001</Year><RecNum>122</RecNum><MDL><REFERENCE_TYPE>0
+</REFERENCE_TYPE><AUTHORS><AUTHOR>De Vita,
+G.</AUTHOR></AUTHORS><YEAR>2001</YEAR><TITLE>Learning Styles, Culture
+and Inclusive Instruction in the Multicultural Classroom: A Business and
+Management Perspective</TITLE><SECONDARY_TITLE>Innovation in Education
+and Training
+International</SECONDARY_TITLE><VOLUME>38</VOLUME><PAGES>165-174</PAGES>
+</MDL></Cite></EndNote> (2001)  argue that computer games can help
+instructors address differences in learning styles. According to Fleming
+and Rickwood   ADDIN EN.CITE <EndNote><Cite
+ExcludeAuth="1"><Author>Fleming</Author><Year>2001</Year><RecNum>76</Rec
+Num><MDL><REFERENCE_TYPE>0</REFERENCE_TYPE><PAGES>2047-2071</PAGES><URL>
+&lt;Go to ISI&gt;://000172745800003</URL><AUTHORS><AUTHOR>Fleming, M.
+J.</AUTHOR><AUTHOR>Rickwood, D. J.</AUTHOR></AUTHORS><TITLE>Effects of
+violent versus nonviolent video games on children&apos;s arousal,
+aggressive mood, and positive mood</TITLE><SECONDARY_TITLE>Journal of
+Applied Social Psychology</SECONDARY_TITLE><KEYWORDS><KEYWORD>television
+violence; media violence; excitation transfer;
+behavior;</KEYWORD><KEYWORD>adolescents; thoughts;
+impact</KEYWORD></KEYWORDS><DATE>Oct</DATE><YEAR>2001</YEAR><VOLUME>31</
+VOLUME><NUMBER>10</NUMBER><ACCESSION_NUMBER>ISI:000172745800003</ACCESSI
+ON_NUMBER></MDL></Cite></EndNote> (2001) , video and computer games
+improve the moods of those who play them. His experiment showed that
+children who played violent video games experienced increased states of
+arousal more frequently than those who played pencil-and-paper games,
+but that their tendency towards violence did not increase. Fleming’s
+study suggests that video and computer games have the potential to lead
+to more satisfying learning experiences
+
+These and other results should not be surprising given that video and
+computer games are widely perceived as vehicles for fun and play, and in
+such context an association with learning has the potential to increase
+a person’s understanding and retention of the material being taught.
+With their rich and immersive graphics, interactive capabilities, and
+users represented visually as avatars (i.e., graphic representations of
+users in virtual space), virtual worlds are similar to video and
+computer games in many ways, with a key difference being that the latter
+impose grand narratives and superseding goals while the former enable
+users to pursue their own goals and construct their own narratives. The
+constructivist paradigm that underlies virtual worlds makes them
+potentially more enriching for education experiences than traditional
+video games.
+
+In the process of developing this chapter we needed to keep in mind that
+the focus of this book is on educational games situated in virtual
+worlds. In this context we need to think about formal education as a
+life long process. With the emergence of online education, more and more
+adults are returning to school to obtain higher degrees, to change
+careers, or simply to upgrade their skills. These are non-traditional
+students that already have work experience and their jobs impede them
+from participating in traditional classrooms. They are instead embracing
+the flexibility of online education. At the same time many of the
+professionals who have recently entered the work force are well versed
+with technologies and, as a result, educators have the opportunity to
+push the envelop and provide online experiences that challenge them and
+provide them with unique learning opportunities.
+
+Virtual Worlds
+
+Play is an activity that enhances children’s abilities by promoting
+exploration and experimentation. Children create imagined worlds in
+their play. As we grow older, though, our opportunities to explore and
+create imagined worlds are increasingly limited, and our creativity is
+curbed as a result   ADDIN EN.CITE
+<EndNote><Cite><Author>Harter</Author><Year>1981</Year><RecNum>231</RecN
+um><MDL><REFERENCE_TYPE>0</REFERENCE_TYPE><AUTHORS><AUTHOR>Harter,
+S.</AUTHOR></AUTHORS><YEAR>1981</YEAR><TITLE>A new self-report scale of
+intrinsic versus extrinsic orientation in the classroom: Motivational
+and informational components.</TITLE><SECONDARY_TITLE>Developmental
+Psychology</SECONDARY_TITLE><VOLUME>17</VOLUME><PAGES>300-312</PAGES></M
+DL></Cite></EndNote> (Harter, 1981) . Virtual worlds offer an
+alternative space where educators can provide students the opportunity
+to explore and create. Because they may be perceived as entertainment,
+virtual worlds may be appealing to distance students as learning
+environments.
+
+Virtual worlds provide great potential for every level of education,
+including post-secondary. There are countless examples of educational
+institutions that have already identified the potential of this means of
+learning. Ohio University (  HYPERLINK
+"http://www.youtube.com/watch?v=aFuNFRie8wA" 
+http://www.youtube.com/watch?v=aFuNFRie8wA ), Harvard Law School ( 
+HYPERLINK "http://blogs.law.harvard.edu/cyberone/" 
+http://blogs.law.harvard.edu/cyberone/ ) and Case Western Reserve
+University (  HYPERLINK "http://blogs.law.harvard.edu/cyberone/" 
+http://blogs.law.harvard.edu/cyberone/ ) for example all have campuses
+in Second Life (http://secondlife.com/). In these campuses classes are
+enhanced with multiple media to enrich the experiences of the online
+student population. These environments can allow off campus students to
+feel a closer connection to the university. Teachers and peers can
+enable experiences that may be difficult to replicate in the real world.
+For example, a psychiatry professor at the University of California
+Davis created a room where his students were able to see what patients
+with schizophrenia often see in their hallucinations   ADDIN EN.CITE
+<EndNote><Cite><Author>James</Author><Year>2006</Year><RecNum>236</RecNu
+m><MDL><REFERENCE_TYPE>16</REFERENCE_TYPE><AUTHORS><AUTHOR>James,
+Kenneth</AUTHOR></AUTHORS><YEAR>2006</YEAR><TITLE>BT: Real Benefits in
+Virtual Worlds</TITLE><PUBLISHER>A New
+Start</PUBLISHER><VOLUME>2007</VOLUME><NUMBER>June
+30th</NUMBER><URL>http://xinkaishi.typepad.com/a_new_start/2006/12/bt_re
+al_benefit.html</URL></MDL></Cite></EndNote> (James, 2006) .
+
+Because of the versatility of virtual worlds educators need to realize
+that learning activities will require the development of games. This
+thus means that much preparation has to occur before the game can be
+ready for online classroom use. According to   ADDIN EN.CITE
+<EndNote><Cite><Author>Bartle</Author><Year>1990</Year><RecNum>233</RecN
+um><MDL><REFERENCE_TYPE>16</REFERENCE_TYPE><AUTHORS><AUTHOR>Bartle,
+Richard</AUTHOR></AUTHORS><YEAR>1990</YEAR><TITLE>Interactive Multi-User
+Computer Games</TITLE><PUBLISHER>MUSE Ltd, British Telecom
+plc</PUBLISHER><VOLUME>2007</VOLUME><NUMBER>June
+30</NUMBER><URL>http://www.skepticfiles.org/cowtext/comput~1/mudrepor.ht
+m</URL></MDL></Cite></EndNote> (Bartle, 1990) , there are several
+elements that make a game. First it should have a set of rules. If the
+game entails competition then there should be a way of determining who
+wins. This can be done by specifying criteria or by identifying
+objectives to be met at the end. Because the purpose of an educational
+game is to teach a concept or a skill, the games should allow the
+participants to learn or practice whatever skills or knowledge is meant
+to be acquired.
+
+Virtual worlds are often perceived to have a steep learning curve and
+this is a reason why relatively few educators have made use of virtual
+worlds. There are some notable exceptions, however. Kusunoki, Sugimoto
+and Hashizume   ADDIN EN.CITE
+<EndNote><Cite><Author>Kusunoki</Author><Year>2000</Year><RecNum>11</Rec
+Num><MDL><REFERENCE_TYPE>7</REFERENCE_TYPE><PAGES>224-235</PAGES><URL>&l
+t;Go to ISI&gt;://000171796400018</URL><AUTHORS><AUTHOR>Kusunoki,
+F.</AUTHOR><AUTHOR>Sugimoto, M.</AUTHOR><AUTHOR>Hashizume,
+H.</AUTHOR></AUTHORS><TITLE>Towards the integration of physical and
+virtual worlds for supporting group
+learning</TITLE><SECONDARY_TITLE>Digital
+Cities</SECONDARY_TITLE><TERTIARY_TITLE>Lecture Notes in Computer
+Science</TERTIARY_TITLE><YEAR>2000</YEAR><VOLUME>1765</VOLUME><ACCESSION
+_NUMBER>ISI:000171796400018</ACCESSION_NUMBER></MDL></Cite></EndNote>
+(Kusunoki, Sugimoto, & Hashizume, 2000)  have used a virtual world to
+teach urban planning and environmental concepts. At the Cornell Theory
+Center, researchers have developed a virtual world around the idea of a
+museum as a mechanism to teach science, languages and social studies in
+a more informal environment   ADDIN EN.CITE
+<EndNote><Cite><Author>Maher</Author><Year>2002</Year><RecNum>8</RecNum>
+<MDL><REFERENCE_TYPE>0</REFERENCE_TYPE><PAGES>295-308</PAGES><URL>&lt;Go
+to ISI&gt;://000179875300005</URL><AUTHORS><AUTHOR>Maher,
+C.</AUTHOR><AUTHOR>Corbit, M.</AUTHOR></AUTHORS><TITLE>Creating genetic
+applications for informal science learning in multi-user virtual
+environments</TITLE><SECONDARY_TITLE>Journal of Network and Computer
+Applications</SECONDARY_TITLE><DATE>Oct</DATE><YEAR>2002</YEAR><VOLUME>2
+5</VOLUME><NUMBER>4</NUMBER><ACCESSION_NUMBER>ISI:000179875300005</ACCES
+SION_NUMBER></MDL></Cite></EndNote> (Maher & Corbit, 2002) . In the
+field of health care, researchers have used virtual environments to
+teach medical concepts   ADDIN EN.CITE
+<EndNote><Cite><Author>Mantovani</Author><Year>2003</Year><RecNum>5</Rec
+Num><MDL><REFERENCE_TYPE>0</REFERENCE_TYPE><PAGES>389-395</PAGES><URL>&l
+t;Go to ISI&gt;://000185020600007</URL><AUTHORS><AUTHOR>Mantovani,
+F.</AUTHOR><AUTHOR>Castelnuovo, G.</AUTHOR><AUTHOR>Gaggioli,
+A.</AUTHOR><AUTHOR>Riva, G.</AUTHOR></AUTHORS><TITLE>Virtual reality
+training for health-care
+professionals</TITLE><SECONDARY_TITLE>Cyberpsychology &amp;
+Behavior</SECONDARY_TITLE><KEYWORDS><KEYWORD>emergency-medicine;
+education; environments; simulation;
+technology;</KEYWORD><KEYWORD>surgery</KEYWORD></KEYWORDS><DATE>Aug</DAT
+E><YEAR>2003</YEAR><VOLUME>6</VOLUME><NUMBER>4</NUMBER><ACCESSION_NUMBER
+>ISI:000185020600007</ACCESSION_NUMBER></MDL></Cite></EndNote>
+(Mantovani, Castelnuovo, Gaggioli, & Riva, 2003) . 
+
+In this paper we will use, Gee’s   ADDIN EN.CITE
+<EndNote><Cite><Author>Gee</Author><Year>2003</Year><RecNum>92</RecNum><
+MDL><REFERENCE_TYPE>1</REFERENCE_TYPE><AUTHORS><AUTHOR>Gee, James
+P.</AUTHOR></AUTHORS><YEAR>2003</YEAR><TITLE>What Video Games Have to
+Teach us About Learning and Literacy</TITLE><PLACE_PUBLISHED>New York,
+NY</PLACE_PUBLISHED><PUBLISHER>Pelgrave
+MacMillan</PUBLISHER><PAGES>225</PAGES><EDITION>First</EDITION></MDL></C
+ite></EndNote> (Gee, 2003)  ‘learning principles’ to show how
+virtual worlds can enhance learning. We will pair these learning
+principles to the virtual world to determine if there is pedagogical
+value in the use of these synthetic environments.
+
+Sample Politics Game for a Virtual World
+
+This paper is a synchronous role-playing simulation based on a game
+developed by Geoff Wong   ADDIN EN.CITE
+<EndNote><Cite><Author>Laver</Author><Year>1979</Year><RecNum>237</RecNu
+m><MDL><REFERENCE_TYPE>1</REFERENCE_TYPE><AUTHORS><AUTHOR>Laver,
+Michael</AUTHOR></AUTHORS><YEAR>1979</YEAR><TITLE>Playing
+Politics</TITLE><PLACE_PUBLISHED>New
+York</PLACE_PUBLISHED><PUBLISHER>Penguin</PUBLISHER></MDL></Cite></EndNo
+te> (Laver, 1979)  [see appendix for instructions]. In this game in
+which each player assumes one of 12 roles (e.g., U.S. Senator, AT&T Vice
+President, Director of the Business Software Alliance) and tries to
+convince other players to vote in accordance with his or her role’s
+interests on one or more of three legislative bills. Players are
+instructed to employ any strategy at their disposal to accomplish this
+and hopefully those that are outline in the policy section of this
+paper. The use of actual bills makes it easier for instructors when
+students ask for more information about them. Our simulation made use of
+three bills that have recently been considered by one or more
+legislative bodies:
+
+SPY ACT (Securely Protect Yourself Against Cyber Trespass Act). If
+passed, SPY ACT would impose fines of up to $3 million against makers of
+software that steal personal information from a user’s computer or
+hijack a user’s browser.
+
+Digital Media Consumers’ Rights (DMCR) Bill. If passed, the DMCR Bill
+would (a) allow consumers to break copy controls to make personal copies
+of audio tracks or movies from discs (CDs, DVDs) they own, and (b)
+require all copy-protected CDs and DVDs to be labeled as such.
+
+Broadband Regulation and Modernization (BRM) Bill. If passed, the BRM
+Bill would prohibit a government or any entity it creates from offering
+broadband service for free.
+
+Ideally, the students will begin the simulation knowing a great deal
+more about these bills than what is provided by these summaries. Two
+factors work against this ideal, though. First, instructions for playing
+are relatively long, even with the summaries, and would be made even
+longer with, say, an appendix detailing the bills’ specifications.
+Players of any game tend to find a thick stack of instructions daunting.
+Detail must always be balanced with “playability” and a reasonably
+shallow learning curve. Second, the chief pedagogical aim of the
+simulation is to teach lobbying concepts. If, in the process, students
+learn more about the bills used to demonstrate these concepts – and
+they most certainly will – then the simulation can be considered a
+success on multiple levels. However, depending on the course being
+taught, instructors may not have the time to teach students lobbying
+concepts and the history and particularities of the bills. 
+
+One of the most challenging aspects of designing this simulation is the
+need to establish a “level playing field” at the outset. In other
+words, at the start of each simulation, each bill should have, to the
+extent possible, an equal number of roles with explicit voting
+preferences supporting and opposing it. To run a simulation in which,
+say, eight players initially oppose a bill serves to disadvantage (and
+possibly discourage) the four players who favor it. 
+
+We created 12 roles that, to varying degrees and in various ways, had a
+stake in one, two or all three of the bills listed above. We chose to
+create 12 roles because believed that it would be difficult to
+coordinate the conversations and lobbying efforts of a larger group
+during the simulation. These roles included:
+
+The Governor of the state of New York;
+
+The Vice President of AOL/Time Warner;
+
+The Director of the Computer & Communications Industry Association
+(CCIA);
+
+The Vice President of AT&T;
+
+The Director of the New York Association of Cities and Towns (NYACT);
+
+The Director of the Business Software Alliance (BSA);
+
+The Director of the Electronic Frontier Foundation (EFF);
+
+The Chancellor of the State University of New York (SUNY);
+
+The Director of the American Marketing Association (AMA);
+
+The Director of the American Library Association (ALA);
+
+The Deputy Secretary of the U.S. Department of Higher Education; and
+
+A United States Senator from the state of New York.
+
+A final and important design choice for this simulation is the decision
+to include or exclude explicit voting preferences for each role at the
+outset. In other words, instructors can opt to tell students how they
+(in their roles) intend, at least initially, to vote on each bill, or
+they can withhold this information and let the students decide this for
+themselves based on a brief statement of their role’s mission, which
+is provided to them by the instructor. As with the level of detail on
+selected bills, this decision may be influenced by time constraints,
+pedagogical objectives, and assumptions about students’ abilities and
+diligence.
+
+One of our chief concerns in this game is that students may not take the
+time to conduct rudimentary research on their roles and, as a result,
+could ask us for additional information. Further, we speculated that
+knowing how one’s role initially stands on a bill might help students
+assume their roles more faithfully and, as a result, make them less
+inclined to play and vote according to personal preferences towards the
+bill. 
+
+Finally, if one opts, to tell students how their role initially stands
+on each bill, then it is essential to design the simulation such that
+each role has, at the outset, an explicitly undecided voting preference,
+or is said to be merely leaning in one direction, on at least one of the
+bills. It is hoped that this gives each player greater freedom to try to
+influence their fellow participants. In this simulation two of the
+roles– the Governor of New York and the U.S. Senator from New York –
+are designed as undecided on all three bills, perhaps causing these two
+roles to wield a disproportionately greater influence on voting
+outcomes.
+
+Selecting a Virtual World
+
+When working on the game we were inspired to design and conduct an
+avatar-based virtual simulation to offer students a stimulating
+alternative to the more conventional activities that are enacted in
+physical classrooms. We also wanted to break away from the traditional
+bulletin board discussions of online education. While these conventional
+modes have been shown to be pedagogically useful, we speculated that a
+simulation performed by avatars in a graphically rich online environment
+might possess a distinctive quality that is particularly appealing to
+undergraduate and graduate students. One of the authors had already
+designed and conducted a simulation for use in a physical classroom, so
+our tasks involved identifying a suitable virtual world and adapting the
+simulation for it.
+
+We examined two virtual worlds: Second Life and Habbo Hotel. For our
+purposes, the power to create and modify an avatar and three-dimensional
+virtual environment using cutting-edge and relatively sophisticated
+design tools, though impressive, entails a steep learning curve for
+beginners. This concern, coupled with the required US$10 per person
+membership cost, which has since been waived, led us to consider Sulake
+Corporation’s Habbo Hotel, a virtual world designed for and marketed
+to teens. Sulake’s aim of profitably supporting affirmative online
+communities for paying teens, though beneficent, was not a factor in our
+decision to use Habbo Hotel. Instead, we wanted a virtual world that:
+
+Lets typical (non-expert) users easily create and use an expressive and
+visually appealing avatar;
+
+Makes it easy for users to communicate through and move their avatars;
+
+Provides private virtual space (such as a virtual room) in which members
+of a small group can interact comfortably and without interruption;
+
+Possesses a vibrant interface (or “look and feel”) that might appeal
+to undergraduate and graduate students; and
+
+Imposes no monetary costs on the students participating in the
+simulation.
+
+Sulake’s revenues come chiefly from users who purchase Habbo credits
+to decorate the empty virtual rooms. As Figure 1 illustrates, we
+furnished the “lobbying room” with assorted rugs and chairs, a blue
+pinstriped floor, a potted palm tree and two whimsical plaques for the
+walls, all for US$20.
+
+Figure 1: A screen capture of the “Logrolling Room” in Habbo Hotel.
+An author’s avatar sits pensively in one of the chairs.
+
+Habbo Hotel satisfied our other conditions as well. All avatars look
+like cartoonish depictions of adults but some distinctiveness can be
+achieved through one’s selection of skin color, hair color and style,
+facial expression, and the style and color of one’s shirt,
+pants/skirt/shorts and shoes. Finally, the authors, each with limited
+experience in virtual worlds, found moving their avatars and navigating
+Habbo Hotel relatively simple and straightforward. Thus, despite being
+somewhat concerned about the reactions of college students to a virtual
+environment with a somewhat adolescent motif, the authors chose to use a
+specially designated room in Habbo Hotel as the space in which to
+conduct the simulation.
+
+Educational Benefits of Games in Virtual Worlds
+
+While it is clear that students have a lot more sources for
+entertainment and information this does not necessarily imply that games
+in virtual worlds would be beneficial for learning. To determine the
+effectiveness of games in these online environments this section
+presents an analysis of the learning principles that Gee   ADDIN EN.CITE
+<EndNote><Cite><Author>Gee</Author><Year>2003</Year><RecNum>92</RecNum><
+MDL><REFERENCE_TYPE>1</REFERENCE_TYPE><AUTHORS><AUTHOR>Gee, James
+P.</AUTHOR></AUTHORS><YEAR>2003</YEAR><TITLE>What Video Games Have to
+Teach us About Learning and Literacy</TITLE><PLACE_PUBLISHED>New York,
+NY</PLACE_PUBLISHED><PUBLISHER>Pelgrave
+MacMillan</PUBLISHER><PAGES>225</PAGES><EDITION>First</EDITION></MDL></C
+ite></EndNote> (Gee, 2003)  proposed in his book entitled What Video
+Games Have to Teach us About Learning and Literacy. Many of the 36
+learning principles that Gee presents are, however, closely related and
+to simplify the presentation of the analysis with respect to games and
+virtual worlds the authors grouped these 36 principles into 8 larger
+categories.	
+
+When Gee wrote his book he was focusing primarily on video games and not
+necessarily on virtual worlds. The goal of this analysis is to determine
+if the learning principles that he proposed in the context of video
+games can also apply to virtual worlds. It is also important to realize
+that due to the fact that virtual worlds are not games per se, much of
+the learning that takes place comes from the games or simulations that
+the instructor prepares in advance for the students. In this paper we
+described an information policy simulation. Thus the analysis of Gee’s
+principles for this section is done here within the context of that
+simulation.
+
+ 
+
+Active and Reflective Learning. The simulation was intended to teach
+students about the strategies that lobbyists of government officials
+commonly use to influence policy. In this case each student played the
+role of a different character and was asked to influence to vote in
+favor of their character’s interests. The simulation used the Habbo
+Hotel platform. The simulation required the students to identify the
+viewpoints of other characters and then try to influence them through
+conversation. The students have the opportunity to experiment with
+multiple strategies as they participate in the game. They have to
+discover the positions of those who do not share their views and then
+think critically about the arguments that they can use to convert them
+to their side. They can also experiment and strategize to make their
+influencing efforts more effective. This process of discovery and being
+actively engaged in the activity help them learn the complexities of the
+lobbying process first hand.
+
+ 
+
+Context Oriented Learning. One of the major advantages of virtual worlds
+and games is the many opportunities that students have to learn from new
+environments and be able to adapt to new circumstances. A virtual world
+offers multiple opportunities for that. First every time that a person
+enters a virtual world they need to learn from the context itself, the
+design, other characters, and virtual artifacts. They also have the
+opportunity of learning from a variety of media such as graphics, text,
+sounds and even voice. From the context and the different media they
+need to find the meaning of these elements and the culture of this
+virtual world to determine norms of conduct. It is through careful
+observation that students learn these subtleties. In the context of the
+policy simulation the students need to determine whether it is better to
+shout, to speak, or to whisper a given comment. Some of these text
+speaking modes will be acceptable under certain circumstances while
+others will not. They need to determine if it is better to lobby a group
+of people at once or somebody alone. They need to determine how to
+initiate a conversation or how to join a conversation that has already
+started. All of these norms of conduct are each new opportunities for
+experimentation and learning. They can become more attuned to small
+subtleties in changes that happen in the environment that surrounds them
+or in the people that participate. This type of experience is difficult
+to emulate in the real world because it is not easy to move individuals
+to totally different contexts. This is even more challenging for online
+classes where it will be impossible to bring everyone to a single
+location. The more that students participate in this type of activity
+the more likely that their senses will be sharpened and they will be
+able to more easily adapt to many different types of circumstances. In
+the context of the policy simulation the students are putting themselves
+in a virtual world where they are experiencing real time interaction
+with their peers who are each playing roles. Their behavior in a
+synchronous environment will thus differ from the behavior that they are
+accustomed to from bulletin boards. In this setting they have to spend
+some time learning about the interests of the people that they need to
+lobby. They need to be able to identify them as each of the participants
+is represented in the virtual world as an avatar. Thus they need to
+observe all of the characters carefully to be able to identify the
+person that they want to influence. Much of the learning is not dictated
+but rather comes from participating in the game.
+
+ 
+
+Transfer of Knowledge. While the students learn from the context and the
+characters that participate in the game the most important element of
+the game is the possibility of being able to transfer the knowledge that
+they learn from the virtual environment to real life situation. In the
+case of the policy simulation one of the objectives of the game is not
+necessarily to learn the skills of a lobbyist. It is true that part of
+the content that they need to learn for the information policy class is
+the different theories about influence but this type of information is
+not relevant to them unless they can find a way of applying it. Some
+fields have direct connections with policy while others are indirect. It
+will be easier for students in fields with stronger policy connections
+to apply what they learn.
+
+ 
+
+Learning through Practice. It is clear that many kids are highly skilled
+at playing video games. This happens because they have the opportunity
+to practice countless times which eventually improves their skills at
+whatever task they need to complete. Virtual worlds have the potential
+of providing this type of practice but it is much more limited within
+the context of a class because it will require the presence of other
+students. The possibility for practice will depend on how open the
+teacher wants to make the environment. In order to provide students with
+opportunities for practice there will need to be a critical mass of
+participants, all of whom know the instructions. While this could be
+possible within the context of a commercial virtual world it is less
+likely to be the case for an educational game. One of the things that
+educators should keep in mind when developing or modifying games for
+these virtual worlds is the graduated experience that the participant
+gets when playing the games. These games begin with simple tasks and
+then over time the tasks become more complex. It is for this reason that
+young people return again and again to play because they know that they
+can, with practice, reach a higher level. With a higher level there is
+also the reward of finding new things, new experiences, and new
+challenges. This should be taken into account when setting up a game for
+a virtual world. Easier tasks should come first and then adding modules
+or changing the rules to add more elements of greater complexity can
+potentially keep the students interested in the game to be enthusiastic
+about playing.
+
+The lobbying simulation that was presented in this paper was not
+designed in this manner. It was set to be played once with a specific
+set of rules. The game could be modified to have, for example, a session
+where the lobbyists organize and then a session with potential policy
+makers. This can at least provide more than one opportunity to interact
+with the content of the class as well as providing two different
+experiences. Of the learning principles identified by Gee the ones
+related to practice are perhaps the most difficult to achieve within the
+context of a game in a virtual world.
+
+ 
+
+Learning through Achievement. People are limited in their tolerance of
+disappointment. It has been shown that most people react more positively
+to positive than to negative feedback.   ADDIN EN.CITE
+<EndNote><Cite><Author>McKeachie</Author><Year>2002</Year><RecNum>235</R
+ecNum><MDL><REFERENCE_TYPE>1</REFERENCE_TYPE><AUTHORS><AUTHOR>McKeachie,
+Wilbert</AUTHOR><AUTHOR>Gibbs,
+Graham</AUTHOR></AUTHORS><YEAR>2002</YEAR><TITLE>Teaching Tips:
+Strategies, Research, and Theory for College and University
+Teachers</TITLE><PLACE_PUBLISHED>Boston,
+MA</PLACE_PUBLISHED><PUBLISHER>Houghton Mifflin
+Company</PUBLISHER></MDL></Cite></EndNote> (McKeachie & Gibbs, 2002) 
+Games have the power of providing players with the satisfaction of
+winning. While in a multi-player game someone will have to lose this is
+generally understood not as a failure but as an attempt. Young people
+are thus not discouraged and instead try a new strategy, taking risks.
+Given that failure in games does not translate into failure in real life
+the benefit of taking risks outweighs the costs of losing. It is
+precisely because of this that players have the opportunity of learning
+from the many attempts that they make in these worlds. The policy
+simulation in Habbo Hotel allows the students to try multiple strategies
+to try to influence their peers. They can use scare tactics, provide
+statistical information that supports their point, make deals to trade
+votes, or work with others who have similar interests to try to
+influence the policy issues at stake. If, for example, they failed to
+influence one person they may try a different technique the next time
+and, with trial and error, be able to determine the strategies that work
+best. Success in a simple, controlled, and fun environment keeps
+students interested in a task. Having achieved success in easier tasks
+motivates them to try more complicated ones. Educators, when developing
+games or simulations, should think about the opportunities that they
+offer students to achieve success to motivate them to take on more
+difficult content or skills.
+
+ 
+
+Self Learning. Virtual worlds provide opportunities for people to learn
+about themselves and about others. Educators have to keep in mind that
+virtual worlds are not bound by the laws of nature and they are not as
+bound by traditional social rules. With this in mind games for these
+worlds can be developed with great creativity and in a fantastic world.
+Depending on the subject matter educators can ask students to take on
+real or fictional characters for whom they will then take on different
+behavioral traits. In this process of assuming somebody else’s persona
+they can learn much about the circumstances that the person faces and
+the problems or benefits of having such a life. This can then give them
+an opportunity to compare the situation of this fictional character with
+their own life and learn from having or facing different circumstances.
+In the lobbying game the students are given the opportunity to be
+politicians, librarians, CEOs, presidents and in these roles they will
+then have to learn about each of these characters’ interests as well
+as the interests of others to be able to be effective at lobbying for
+their cause.
+
+Evidence of the type of understanding that can take place between people
+when they take different characters is exemplified by Eric Brown and Asi
+Burak’s game Peacemaker which won the Public Diplomacy and Virtual
+Worlds competition organized by the University of Southern
+California’s Center on Public Diplomacy. In the game the participants
+take either Israeli or Palestinian characters and the objective is to
+make peace. This sort of simulation could involve roles such as a CEO, a
+youth counselor, or a terrorist. By taking somebody else’s identity,
+students can learn about content and context that in the past were only
+available in books. They can form opinions about a situation not from
+the detached and foreign context of books but from actually living the
+experience itself within a virtual world. These experiences also help
+them form their own views and learn about their own values and
+interests.
+
+ 
+
+Content. The quality of content is critical for educators. While
+lectures and discussion boards in an online environment allow students
+to talk about an issue and reflect on the issue at hand, this knowledge
+can be superficial and likely to be forgotten. In a virtual world
+students are put in the middle of situations in a unique context. As a
+result, they are more likely to remember the issues illustrated given
+that they will inevitably have to make more effort in preparing and in
+testing many alternative actions. The mistakes they make and the
+successes they have will be remembered longer. Their reading now has a
+more concrete, even if fictional context. They can now decide the type
+of information that is more relevant for the situation. They are given
+the opportunity to select information on an as needed basis and take and
+relate information that is important for the type of activity that they
+are engaged in. This process thus allows for a much deeper level of
+knowledge.
+
+The scope of topics that can be explored is nearly unlimited in Second
+Life. For example, people can develop businesses, pay for items with
+virtual world currency, and develop real state. Universities and other
+organizations can have a virtual presence. Virtual worlds are not
+limited by the physics and rules of the real world and thus can create
+more memorable situations. In addition, real world situations can be
+emulated in a virtual world. This flexibility of the medium can allow
+educators to convey a wide variety of information.
+
+These activities are, however, time consuming to create, a major
+disincentive for educators. It is much easier to lecture for two hours
+on a subject than to develop a game, write clear instructions, see that
+students go to a virtual world and develop their characters, and then
+hope that the technology will work as expected. It is much more labor
+intensive for the same amount of knowledge conveyed. In the lobbying
+simulation, much preparation had to be done ahead of time and the
+students were required to participate in an orientation session before
+they were actually able to participate in the game. In order to minimize
+the amount of time necessary to play an educational game the instructor
+should try to think of several concepts that can be bundled together
+such that one effort is able to convey more knowledge. Alternatively one
+game can be built in a modular manner such as content experienced at
+various times in an incremental way. Bundling and gradualism are thus
+two important components for an effective delivery of content in a
+virtual world activity.
+
+ 
+
+Social Learning. Prior to data networks video games were solitary and
+players interacted with the computer alone. With the advent of the
+Internet and the expansion of broadband, games have increasingly
+involved interaction among human players. Virtual worlds in their
+massively multiplayer form could not have existed without the Internet
+because the nature of the experience relies on the existence of other
+participants. Educators can take advantage of the social aspect of the
+game to foster collaboration. A game, although generally conceived as a
+zero sum experience, can be developed so that effective collaboration
+rather than direct competition leads to winning. In the lobbying game,
+social interaction is central to the success of the simulation.
+Communication allows the participants to practice their skills at
+influence. In this case winners of the game were those that were able to
+convert more individuals to get a bill to be voted in their favor. This
+type of game can create intellectual conflicts because a participant can
+be required to argue for and vote for a policy that he/she disapproves
+of.
+
+Challenges for Educators Using Games in Virtual Worlds
+
+While there are many potential rewards, as described in the previous
+section, there are also important challenges that educators need to keep
+in mind when developing games for virtual worlds. We were able to
+identify these challenges from the process of developing the lobbying
+game.
+
+The first and greatest challenge is to develop the game itself. Most
+university faculty do not have formal training in education, much less
+game development. However educators should realize that in the Internet
+era it should not be difficult for them to find games designed for
+classroom use that could be adapted for a virtual world. This can
+substantially reduce the development time.
+
+Second, while there are games already developed, these have not been
+archived in a single location and thus it will take some time and effort
+to find them. 
+
+Third, the adaptation process is still time consuming because detailed
+instructions need to be written for the students as a group as well as
+specific instructions for the participating characters. To make sure
+that the game works the professor should test the game a couple of times
+with a small group of students to find weaknesses before using it in a
+class.
+
+Fourth, technology is unpredictable. Even in the process of developing
+the game without yet having it tested with students we experienced
+technological difficulties. In our case the authors could not enter the
+virtual world by mistake because one of us was entering the American
+site while the other had prepared the lobbying room from the English
+site. While this is a minor mistake other technical problems can easily
+happen, in particular regarding speed of connectivity and learning to
+navigate and function in a virtual world. To minimize the technical
+problems it will be desirable, as suggested before, that the professor
+familiarize the students with the virtual world before running the
+simulation.
+
+Fifth, anonymity poses difficulties. In entertainment-based virtual
+worlds anonymity can lead to negative behaviors that, if present in an
+educational setting, can severely affect the dynamics of the game. In an
+anonymous environment the participant may take more risks but these can
+be undesirable risks from the perspective of others. Educators thus have
+to consider the behavioral standards that would be acceptable in the
+virtual world while the game is taking place. The teacher should
+consider when to reprimand and even expel a student who engages in
+inappropriate behavior. In all of these situations testing the game
+before using it in a class will help to minimize these challenges.
+
+Future Trends
+
+Virtual worlds are still new environments that are likely to evolve into
+complex settings that can provide rich and challenging experiences for
+students. Online distance education is based on the traditional campus
+education. However because it is no longer necessary to be physically
+present in a campus there is thus no need to have the student admitted
+to a particular university to be able to take a class. It is thus
+possible that in the future we could see models where students can
+develop their classes a la carte and be able to select from a variety of
+topics from different institutions and obtain a customized degree.
+
+Virtual worlds could become the online classroom of the future in place
+of traditional bulletin boards. In these settings the professor can
+immerse the student in the context that relates to the content of the
+class. These experiential learning encounters can also be recorded and
+serve as reference and future learning for students that were unable to
+attend. 
+
+In virtual worlds distance does not matter and thus students can moved
+from one situation to another in a matter of seconds. Different topics
+covered in the curriculum could thus take place in multiple contexts.
+Students which were situated in a classroom alone or on a bulletin board
+alone could now be taken to multiple settings for many of the topics of
+the class. 
+
+With the popularity of educational games in virtual worlds open source
+efforts by faculty and students will help to develop more simulations.
+These worlds will allow developers to work together on the development
+of a simulated environment and learn in the process as well. In
+addition, because of these experiences, the learning curve that we
+experience today will be reduced because these setting will become
+second nature to students and extensive tutorials prior to games will
+not be necessary.
+
+In virtual worlds students do not need to take only human personae but
+also any other organisms. Thus a student learning about zoology can
+become an insect for example and experience first hand the life of this
+organism. A chemistry student can become a molecule and once again see
+first hand how they interact with other elements.
+
+In the context of life long learning students who are about to enter
+college can get to know what the life of a stock broker, or an
+archeologist, or a scientist is like. These simulations can move high
+school students from shadow career days that are difficult to coordinate
+and expensive to implement to virtual worlds where they can actually
+experience the careers that they are considering.
+
+At the edges, one of the most exciting parts of virtual worlds can occur
+when the simulation is no longer a game and becomes a reality. Real
+world interactions and economic transactions take place. A class that
+started with a simulation and a role playing game can enter the real
+world through a virtual experience. Imagine, for example, a psychology
+student who is learning to become a therapist in a role playing game. He
+could initially have patients through role play but after gaining some
+experience they could provide counseling online to people who are unable
+to attend a therapy session in person. A student can thus learn in a
+controlled environment prior to encountering patients.
+
+Conclusion
+
+There are several lessons that can be learned from games in virtual
+worlds. First it is clear that the medium provides students many
+opportunities to learn about themselves through taking on multiple
+personae or even other entities. They can learn from participating in
+many contexts, each of which can provide different content. A multimedia
+environment in a digitally literate society can help to enrich the
+experience making the learning much more immersive and compelling. The
+social interactions can also support learning by allowing
+collaborations. 
+
+These virtual worlds will become the online education of the future
+because of the flexibility and the richness that educational games can
+provide students. At this point in time however there are important
+challenges to overcome. These can be attributed to the fact that we are
+just beginning to utilize this medium for distance education and we do
+not yet have the tools and the skills to develop games and work with
+students. Even though students today are more technologically
+sophisticated most have not yet been exposed to this type of experience.
+Thus the learning curve for them is still steep. 
+
+Few faculty members are sufficiently aware of these simulated
+environments and thus few resources have been provided to facilitate
+this type of education. However, the increasing popularity of these
+worlds and the presence of some universities and companies inside them
+will create the critical mass necessary to make development of the
+environment much easier, such as the creation of libraries that collect
+virtual world games and simulations for the many disciplines that are
+taught today in our campuses. The physical worlds will no longer dictate
+the rules of the virtual worlds and over time a completely different
+educational experience can become the distance education of the future.
+
+References
+
+  QUOTE EN.REFLIST  Bartle, R. (1990). Interactive Multi-User Computer
+Games. MUSE Ltd, British Telecom plc. Retrieved June 30, 2007, from the
+World Wide Web:   HYPERLINK
+"http://www.skepticfiles.org/cowtext/comput~1/mudrepor.htm" 
+http://www.skepticfiles.org/cowtext/comput~1/mudrepor.htm 
+
+De Vita, G. (2001). Learning Styles, Culture and Inclusive Instruction
+in the Multicultural Classroom: A Business and Management Perspective.
+Innovation in Education and Training International, 38, 165-174.
+
+Fleming, M. J., & Rickwood, D. J. (2001). Effects of violent versus
+nonviolent video games on children's arousal, aggressive mood, and
+positive mood. Journal of Applied Social Psychology, 31(10), 2047-2071.
+
+Franklin, S., Peat, M., & Lewis, A. (2003). Non-traditional
+interventions to stimulate discussion: the use of games and puzzles.
+Journal of Biological Education, 37(2), 79-84.
+
+Gee, J. P. (2003). What Video Games Have to Teach us About Learning and
+Literacy (First ed.). New York, NY: Pelgrave MacMillan.
+
+Harter, S. (1981). A new self-report scale of intrinsic versus extrinsic
+orientation in the classroom: Motivational and informational components.
+Developmental Psychology, 17, 300-312.
+
+Heffler, B. (2001). Individual Learning Style and the Learning Style
+Inventory. Educational Studies, 27, 307-316.
+
+James, K. (2006). BT: Real Benefits in Virtual Worlds. A New Start.
+Retrieved June 30th, 2007, from the World Wide Web:   HYPERLINK
+"http://xinkaishi.typepad.com/a_new_start/2006/12/bt_real_benefit.html" 
+http://xinkaishi.typepad.com/a_new_start/2006/12/bt_real_benefit.html 
+
+Jayakanthan, R. (2002). Application of computer games in the field of
+education. Electronic Library, 20(2), 98-102.
+
+Kerawalla, L., & Crook, C. (2002). Children's computer use at home and
+at school: context and continuity. British Educational Research Journal,
+28(6), 751-771.
+
+Kusunoki, F., Sugimoto, M., & Hashizume, H. (2000). Towards the
+integration of physical and virtual worlds for supporting group
+learning, Digital Cities (Vol. 1765, pp. 224-235).
+
+Laver, M. (1979). Playing Politics. New York: Penguin.
+
+Maher, C., & Corbit, M. (2002). Creating genetic applications for
+informal science learning in multi-user virtual environments. Journal of
+Network and Computer Applications, 25(4), 295-308.
+
+Mantovani, F., Castelnuovo, G., Gaggioli, A., & Riva, G. (2003). Virtual
+reality training for health-care professionals. Cyberpsychology &
+Behavior, 6(4), 389-395.
+
+McKeachie, W., & Gibbs, G. (2002). Teaching Tips: Strategies, Research,
+and Theory for College and University Teachers. Boston, MA: Houghton
+Mifflin Company.
+
+Mumtaz, S. (2001). Children's enjoyment and perception of computer use
+in the home and the school. Computers & Education, 36(4), 347-362.
+
+Subramanian, R., Khang, G. N., & Sai, C. L. (1999). Word Juxtapoz-an
+Innovative Tool for Promoting Interest in Biological Education. Journal
+of Biological Education, 33, 103-104.
+
+ 
+
+Key Terms and Their Definitions
+
+Distance education: A learning environment for students that take
+classes primarily on line from different locations “Teaching and
+learning in which learning normally occurs in a different place from
+teaching.” (http://www1.worldbank.org/disted/glossary.html).
+
+Course management systems: Software applications designed to facilitate
+online education using a web interface. The system can manage
+enrollment, content, and grades among other things.
+
+Lifelong education: The process of continued learning after an
+individual leaves formal education. This can include college continuing
+education courses, correspondence, and certifications in physical or
+distance format.
+
+Video Game: Entertainment software with predetermined goals that can be
+played through specialized equipment or with a computer.
+
+Virtual World: A graphically immersive, persistent, shared, and
+typically avatar-based digital environment that is generally hosted on
+servers connected to the Internet.
+
+Avatar: A graphical image that represents a user in a virtual world.
+
+Simulation: A simplified model that attempts to represent a situation
+that the creator intends.
+
+Role playing game: A game where the participants take a real or
+fictional persona for entertainment or education.
+
+ The authors acknowledge the support of Joe Rubleske, who helped in the
+selection of the virtual world and designed the roles and the room that
+for the policy game.
+
+ We invented a body that we named the New York Association of Cities and
+Towns in order to have a role that represents local interests. 
+
+ 
+

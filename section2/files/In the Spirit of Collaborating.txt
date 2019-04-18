@@ -1,0 +1,909 @@
+In the Spirit of Collaborating
+
+by
+
+M. S. Nilan and M. A. D’Eredita
+
+i-School
+
+Syracuse University
+
+Abstract
+
+A field is judged by the questions it addresses.  We believe that the
+i-field is at a critical juncture that is defined by increasing
+standards for profound, value-added insight as technology becomes more
+ubiquitous.  While we see value in focusing on the "I" more than
+the "T" in IT, we believe that profound insight will only come through
+a deeper understanding of the intersection among human beings,
+information and technology.  We see the basic goal of our field as
+helping to facilitate interactions among individuals, groups and
+"information" through more informed design of technology.  We assume
+that human beings are fundamentally social beings and both information
+and technology to be artifacts of human experience proffered in the
+spirit of collaborating.  We begin with a discussion of collaborating
+and communicating behaviors which are inherently linguistic (broadly
+cast) and - we believe, by definition - functional in nature.  This
+position is logically prior to artifacts or any technology associated
+with the creation, dissemination, storage, retrieval or other processing
+of “information.”  We argue, for example, that it is insufficient
+for our field to bound a domain after artifacts are created – we must
+become engaged in the creation of artifacts, specifying how the artifact
+will be useful to the user (either at present or in the future), and for
+which problems/situations the artifact is pertinent.  If one assumes
+an active user focused on addressing their own needs as well as those of
+others--as opposed to a more passive stance generally made by many of
+the traditional behavioral fields--then insight into artifact creation,
+use and re-use will not only result in profound insights into the human
+condition, but more informed system design.  We humbly invite you to
+collaborate with us in this endeavor.  We feel that it is not only
+critical to intensify this discussion, but both timely and necessary.
+
+Introduction
+
+In the twelve years since the introduction of the World Wide Web (April,
+1995), we have seen dramatic changes in technology that have allowed for
+a plethora of collaborative environments and new means for communicating
+to emerge.  This, in turn, has generated a plethora of new artifacts
+that we call “information.”   These technological artifacts are a
+direct result of specific and ubiquitous human behaviors manifesting
+themselves in seemingly distinctive ways.  These changes increased the
+salience of a set of formidable and—we argue—distinguishing
+phenomena our field is now addressing.  This paper is a preliminary
+attempt to re-frame the discussion about our (broadly cast) collective
+research agenda around these phenomena.    
+
+Vannevar Bush (1945) posited the ultimate information retrieval
+mechanism, which he called the “memex.”  Memex organized content in
+a collection based on “associative indexing.”   In his view,
+“associative indexing” would permit retrieval based on association
+and context rather than strict categorical indexing.  Bush’s efforts
+have been seen as the conceptual framework for subsequent work on
+hypertext, which is the central data metaphor for the digital age.   We
+view this as a good example of a technological focus absent insights
+into human or user behavior.  For example, Bush did not specify the
+nature of the associations among nodes in the hypertext.  We believe
+that functional associations between what information is about and how
+the information might help a user is a logical source of insight into
+Bush’s associations.  In other words, we believe that the source of
+the association that Bush alluded to is at the intersection of the
+information artifact and its benefit, or derived use.  The purpose of
+this paper, however, is not to specifically criticize or extend Bush’s
+ideas or to recast general ideas about a research agenda that is more
+about the “I” then the “T” in IT.  Rather, we wish to raise the
+question of whether or not moving the focus to the “I” is going far
+enough to define our field in such a way that it will lend insight into
+fundamental issues like those brought up by Bush over 60 ago.  
+
+Our intent is to explore the beginnings of a coherent conceptual
+framework that is derived from a fundamental understanding of what leads
+human beings to collectively create, use and re-use our experience when
+addressing life’s challenges.  We assume that these collaborating
+behaviors are fundamental to being human and are exhibited by people
+communicating experiences and understandings with each other.  These
+fundamental behaviors inevitably result in constructed artifacts that
+are necessarily constrained by the funtionality of technologies designed
+to generate, access and disseminate information.  We believe that the
+i-field is uniquely positioned and capable of gaining profound insight
+into these fundamental behaviors only if we adopt a truly
+interdisciplinary stance that incorporates the “I,” the “T” and
+the “H” (i.e., the human being) when trying to understand the whys
+and hows of creating, using and re-using information.  
+
+In a recent article which surveys the two seemingly definitive areas of
+“Information Science” (exemplified by the Journal of the American
+Society for Information Science and Technology ) and “Information
+Systems”  (exemplified by the Journal of Information Systems
+Research), Sawyer and Huang (2007) put forth the following: 
+
+We speculate that scholars in [information systems research] need to be
+more explicit about its basic constructs (even to the simple level of
+articulating the range of possible ways to characterize these basic
+constructs) to more easily connect to, and to be understood by, other
+disciplines  (Sawyer & Huang 2007: 1444).
+
+Sawyer and Huang (2007) seek to find common ground among researchers
+within the fields of Information Science and Information Systems.  Their
+purpose is to gain some insight into how scholars might increase
+collaboration both within and between fields.  Additionally, they are
+interested in better understanding how to build bridges between these
+fields and others.   We believe that their interest in gaining insight
+into these collaborating behaviors actually illustrates the “basic
+constructs” they seek.  We do not view this as a coincidence given
+they are “IS” researchers who have positioned themselves within the
+larger “i–field,” which we view as being composed of—at
+least—Information Science, Information Systems and Library Science
+researchers.   We posit that those who view themselves as being tied to
+the i–field share a common interest in collaborating behaviors and
+technologies that support these behaviors (see how we define our broad
+use of the term “collaborating” below) and that these interests
+converge on phenomena associated with these behaviors that characterize
+the field.  It seems that it is an interest in these phenomena and these
+technologies from which all inquiries into the IT artifact, IT per se,
+individual, social or organizational processes, representation,
+retrieval, transfer, etc. emerge.  We suggest that the increase in the
+salience of these characterizing phenomena are a direct result of using
+technology to communicate and collaborate at all levels of an
+increasingly intertwined global environment.  
+
+Further, we suggest that one of the profound impacts of IT is not
+derived merely from its wide scale adoption, but from the resultant
+increase in salience of collaborating behaviors embedded within every
+social environment.  For example, we are now able to point directly to a
+set of artifacts (e.g., e-mails, IM messages, blogs, etc.) written by
+various individuals who are collaborating to solve a specific problem
+and validly view it as evidence of a “team” or “community.” 
+Yet, not a single face-to-face interaction among their members is
+required before doing so.  Those within the i-field are uniquely
+positioned to explain why this characterization is valid and why it can
+be reliably made across all contexts in which humans interact.  Most
+importantly, this brings the field beyond explaining how or why
+technology enables this type of human interaction—explanations that
+are seemingly self-evident to many simply because IT is becoming
+embedded in peoples’ daily lives and business process.  In other
+words, the fascination with technology is fading and potentially turning
+more towards an expectation of more connectivity.  Beyond the “I”
+and certainly the “T,” we believe that IT has worked to illuminate
+who we are as humans and that the emergence of the i-field is a direct
+result of a common interest in this.  It is insight into who we are (as
+a field) that will: 
+
+create the gravitating effect discussed by Sawyer and Huang (2007), 
+
+uniquely define what it means to be a researcher in the i-field to those
+in other fields as well as the world, and 
+
+lead to better design of systems and technology (e.g., organizing
+artifacts according to Bush’s (1945) notion of “associative
+indexing”) which will in turn enable those in the field to have a more
+profound impact on the world (let alone other disciplines).   
+
+Our field has dedicated a great deal of time and energy examining
+content and its technology in the last fifteen years, but we believe
+that we must commit significant resources into understanding human
+beings and their behavior from a more functional and purer user-based
+perspective.  This perspective differs from those of many other fields
+focused solely on behavior—and potentially viewed as being focused on
+the user as well (e.g., those within the psychological, economical and
+political science fields)—by viewing the user as an active and
+creative participant who is actually working towards constructing their
+environment as opposed to a more passive participant merely reacting to
+their environment.  We are certainly not alone in this view (e.g.,
+Dervin & Nilan, 1986; Saracevic, 1997; 1999; Sawyer & Huang, 2007).
+
+There are many ways to re-frame our research agenda.  One is to
+conceptualize the artifacts that we call information as byproducts of
+various attempts by human beings to collaborate and share experiences
+with each other.  Some already under way include applying pre-digital
+solutions to digital content (e.g., meta language classification of web
+pages), others are uniquely digital solutions (e.g., natural language
+processing for “filtering”) and still others are a blend of the
+pre-digital and digital (e.g., folksonomies).  We offer a perspective
+that has emerged out of a juxtaposition of the so-called
+“user-based,” cognitive and social cognitive approaches (Nilan &
+D’Eredita, 2005; D’Eredita & Nilan, 2007) and believe that it also
+works to illustrate the focus of inquiry discussed above.  
+
+What follows is strictly an illustration of how we frame our research
+within the i-field as discussed above.  It is important to note that we
+do not view the perspective we put forth below as exemplary of the
+i-field.  We believe that the common ground we share with all i-field
+researchers is in our overarching assumption of an active user and our
+interest in collaborating behaviors and how to realize the potential of
+IT to support these behaviors.  It is from our interest in collaborating
+behaviors that we believe we can begin a dialogue with any researcher
+considered to be part of the i-field as well as those who are not. 
+Below, we put forth the foundation of our research on collaborating
+behaviors.   We differentiate ourselves from other researchers within
+the field by relating information to human collaborating about specific
+situations or problems (discussed below).  It is also important to note,
+that our anchoring curiosity in specific types of collaborating
+behaviors allows us (a linguist and cognitive psychologist by
+“trade”) to work in a complementary and fulfilling manner.  From our
+perspective, our “home disciplines” only add perspective to the more
+important common phenomena in which we are interested in gaining
+insight.   
+
+It is in the spirit of collaborating that we present this paper.  Our
+primary motivation is to see if others are able to frame their research
+within a field focused on all aspects of human collaborating behaviors. 
+We begin by defining key terms relevant to our own research agenda, but
+seemingly relevant to a number of others as well.  We then discuss how
+our agenda has and continues to unfold over time and how it relates back
+to the i-field-specific themes discussed at the beginning of the paper. 
+Given our discussion above about the field, we continue with some
+discussion on the nature of our inquiry into collaborative behaviors in
+order to give a sense of the flavor of our discussion.  
+
+Our Anchoring Definitions
+
+“Collaborating” is the social coordination (largely communicative)
+through which human beings observe their environment and solve
+problems/address their life situations.  Conceptually, Carter’s (1980)
+“social Darwinian” description of human existence argues that humans
+have an observing and a moving capability.  Those individuals who
+observe and move effectively will prosper.  Through collaborating,
+individuals can substantially improve their individual observing and
+moving capabilities.  Two heads are better than one; together we are
+stronger.  It is through linguistic communicating this basic social
+stance is manifest, i.e., we inform one another to our mutual benefit. 
+The artifacts we generate in this communicative process, however
+distorted by structure (e.g., publication or broadcasting constraints)
+is what we have been calling “information” (further defined below). 
+
+“User-based” refers to an epistemic position (i.e., what can be
+known about being human) that validates the reality of human beings as
+they perceive it as a foundation for the design of systems (e.g., a
+series of steps intended to solve a human problem/situation/ context
+which may or may not involve reification of some or all of the steps as
+“technology”).  There is currently a great deal of misunderstanding
+about user-based where some believe that we need to understand the users
+per se (i.e., the so-called “individual differences” approaches) in
+order to fulfill our research agenda.  However, we believe we need to
+focus on the users only within the situations/problems that work to both
+motivate and engage human collaborative and communicative behaviors and
+in some cases, only the situations/problems in which users are engaged. 
+
+
+“Problem” (Taylor, 1986; Nilan, 1992) or “situation” (Dervin,
+1983; 2001; Dervin & Nilan, 1986) is the time/space context for human
+cognitive behavior.  These are very broad terms, not to be confused with
+the much narrower “problem solving” notions from cognitive
+psychology, management, etc.  In essence, the terms refer to a
+“chunk” of time/space about which people collaborate/communicate and
+ultimately the focus of system design – helping users share and create
+meaning to address their situations/solve their problems through access
+to resources (information/data; computing functionalities; links to
+others, e.g., experts).  
+
+“Language” is the means through which human beings create and
+exchange meaning.  This is accomplished through a series of co-focusing,
+co-orienting, and collaborating behaviors (Kim, 2003) which serve to
+orient one person’s context to the other’s.  Following the so-called
+“Prague Functionalists,” a unit of meaning has two necessary
+components in this orienting process:  “Topic,” or what I am talking
+about and “Comment,” or how the topic at hand “fits” my context
+(i.e., problem/situation and any associated goals or envisioned end
+states) (Jakobson, 1963).  Meaning is therefore, not exchanged per se
+but is converged upon over an iterated series of utterances over time. 
+Language as we are defining the concept has nothing to do with the
+difference between Chinese Mandarin and American English.  Rather,
+language is an extremely broad concept that encompasses all manner of
+expressing relationship, existence and movement and it is much more than
+merely a tool.  Language is employed to orient other people, one to the
+other (whether in a disclosure sense or in a deceptive sense), orient
+other people to a specific context (time/space bound problem/ situation,
+i.e., topic), and/or to specify individual experience with that context
+in terms of values, perceptions of situational conditions, goals or end
+states (i.e., comment).  
+
+“Information” is a resource which (we assume) helps the human(s)
+involved in addressing a problem/situation facilitate progress towards
+her/his/their desired goal or end state.   [Note:  “facilitate”
+implies constraint to perception of the environment and/or perception of
+movement possibilities and consequences.  A resource that facilitates
+may not necessarily be empowering, it may also be inhibiting while a
+constraint may not necessarily be inhibiting, it may also help to
+facilitate “cognitive movement” (defined below)].  All information
+is bound by the context in which the collaborating occurs.  For example,
+a textbook by an expert in Alzheimer’s disease may contain insight to
+help me deal with a friend with the disease but it is buried in a book
+which was structurally constrained to fit a 15-week educational program.
+ Since the small bit of information that might help me is not part of an
+actual conversation between me and the author, it is extremely difficult
+for me to find – there are no co-focusing or co-orienting features in
+the text linking me, the reader, to the writer and scarce opportunity
+for this to ever occur.   Even when we observe two people in
+conversation as they collaborate on one or the other’s
+situation/problem, there is much that is not articulated (because it is
+already understood) that the outside observer has no access to which
+renders any technological recording of the interaction necessarily
+incomplete.   Similarly, technological artifacts are necessarily
+incomplete expressions of context and, therefore, inadequate
+representations of the problem/situation from the perspective of either
+person involved.  This in turn presents a difficulty when we seek to
+access and re-use the artifacts, especially when they are “located”
+in a huge “pile” of other inadequate representations.  Note that we
+can posit a continuum of information artifacts, from an artifact
+addressing how to make a chocolate cake (for example) where there may be
+many possible contexts where a chocolate cake is appropriate, to an
+artifact addressing the nature of Alzheimer’s disease where the help
+needed by a patient is likely to be different than the help needed by a
+relative of the patient.  In neither case is the user’s context likely
+to be present in the information artifact itself—albeit a seemingly
+more profound issue in the case of Alzheimer’s disease. 
+
+“Cognitive movement” is a central metaphor in Dervin’s (1983)
+Sense-Making which is employed to describe the human experience of being
+alive over time.  In this metaphor, experiencing life is described as
+taking steps (mentally as well as perhaps physically) through
+problems/situations, sometimes concurrently (although not
+simultaneously) or serially.  Cognitive movement invariably implies
+emotive steps.  Cognitive movement is one of two central concepts in the
+user-based approach we put forth in this paper.  It is inseparably tied
+to the concept of problem/situation.  
+
+“Uncertainty” (Carter, 1980) refers to the aspects of an
+individual’s (or individuals’) perceptions of a problem/situation
+that are not already pre-determined.  Since change (in self, others,
+environment and problem/situation) is pervasive, uncertainty is always
+(except with reflexive and habitual behavior) an aspect of human
+perception.  Dervin (1983) refers to a “gap” to represent the
+uncertainty inherent in an individual’s perception of her/his position
+relative to that individual’s movement through the situation/problem/
+context at hand.  When uncertainty is perceived by the individual, s/he
+can attempt to resolve the uncertainty by sharing meaning or creating
+meaning through collaborating with others (either directly through
+conversation or indirectly through artifacts of past conversations).   
+
+From a monadic perspective, “meaning” describes the sense that an
+individual makes of aspects of the environment inherent in her
+perception of her problem/situation in terms of her understanding of the
+environment and/or her movement relative to that environment to reach
+her goal or end state.  This meaning is based on past experience and
+certainly based on past and present conversations with others (either
+direct or vicarious).  In this way, meaning can be seen as the creation
+of new “sense” (Dervin, 1983) about “how to bridge the gap”
+(i.e., addressing uncertainty), it can also be seen as the creative
+re-interpretation of old meaning to “fit” new situational
+conditions.  Although meaning is created directly by experiencing a
+problem/situation, experience can also be vicarious – experienced
+indirectly through observing others.  A dyadic (or larger) model of
+sense making can help to guide our efforts because the observing of
+others’ experiences and behaviors is realized through conversing with
+others about the specific context given specific “comments.”  Such
+“comments” are rare in most formal artifacts but comprise the bulk
+of the verbiage in a conversation (see Yoon & Nilan, 1999).  This has
+become even more evident in our digital, post Web world.  From birth,
+individuals are enmeshed in a collaborative network of others who
+attempt to help the individuals observe and move effectively through
+collaborative communicating.  All communicating is through language
+grounded in individual experience (direct or vicarious) and meaning is
+created by the similarities and differences among individual
+experiences.  Much meaning (some, i.e., structural views – e.g.,
+Giddens (1991), Bordieu (1999) – would say “all” meaning) is
+perpetuated over time through pervasive structurational (e.g.,
+historical, cultural) constraint and extended experience with a
+situation/problem (or group of related situations/problems).  [Note: 
+“communicating” does not necessarily result in the rare phenomenon
+of “communication” (Carter, 1980).  So communicating only implies
+the attempt to share experience and orientation, not the result].  One
+point of the foregoing is that explicit comments in an artifact (which
+is much more likely in a conversation than a formal publishing or
+broadcasting artifact) allow a subsequent user to quickly determine
+whether the artifact will be of any use to him/her.   
+
+“Knowledge” refers to experience with a specific problem/situation
+or set of related problems/situations (D’Eredita and Barreto, 2006).  
+ We assume the following in regard to knowledge (D’Eredita and
+Barreto, 2006: 1824): 
+
+The nature of knowledge is episodic, thus personal,
+situation-/problem-specific and acquired through experience, i.e., there
+is no abstract or non-contextualized product “stored” somewhere in
+the brain.
+
+Experience results from the construction and relating of episodes, but
+does not necessarily result in specifically “intended” knowledge. 
+
+The proliferation of experience by individuals within a social context
+(e.g., dyad, group, team, organization, community, etc.) is the result
+of constructive and collaborative communicating behaviors by which two
+or more individuals collectively focus attention, thus collectively
+construct relatable episodes—from the perspective of both the intra-
+and interpersonal. 
+
+Logan (1988) defines an episode as follows: 
+
+Processing episodes consist of the goal the subject was trying to
+attain, the stimuli encountered in pursuit of that goal, the
+interpretation given to the stimuli with respect to the goal, and the
+response made to the stimulus (Logan 1988: 495).  
+
+To paraphrase Logan’s quote in Dervin’s (1983) terms, making sense
+of a situation involves the goal or end state that the individual has in
+mind, the situational conditions as perceived and interpreted by the
+individual as s/he moves through the situation, and the cognitive
+behaviors (especially those that serve to collaborate and to communicate
+with others) that the individual takes to move towards his/her goal. 
+This entire “chunk” of time and space (i.e., episode) is the context
+which is the central focus of user-based research put forth in this
+paper.  That we do this by collaborating and communicating (via
+language) with others implies that the constructed “meaning” is tied
+to social cognitive behaviors among individuals.  
+
+This is very similar to sense-making from the perspective of Carl Weick
+(albeit more specific): 
+
+The process of sensemaking is intended to include the construction and
+bracketing of the text-like cues that are interpreted, as well as the
+revision of those interpretations based on action and its consequences. 
+Sensemaking is about authoring as well as interpretation, creation as
+well as discovery (Weick 1995: 8).  
+
+Overlap among episodes allows for a stream of discrete episodes to
+result in a seemingly fluid flow of experience.  We would not be able to
+make sense of our experiences if this was not true (Weick, 1995).  For
+example, D’Eredita and Barreto (2006: 1829) suggest the following:    
+ 
+
+A new episode might be associated (individually and collectively) with
+previous episodes because of similar qualities as defined above.  That
+there is some type of incongruity results in the most obvious need for
+sensemaking (Weick, 1995).  It presents the need for constructing a
+potentially unique episode that is congruent enough for it to be
+associated with past episodes; or, for it to make sense.  This is not an
+abstraction, but a direct comparison made through human-cognitive
+behaviors.  Episodes are explicitly related or not explicitly related in
+some manner.  In the latter case, previous episodes, however, most
+likely continue to indirectly influence behavior whether individuals are
+aware of this influence or not (Reder, 1996).  
+
+On the other hand, a new episode might reinforce a previous experience
+because of similar qualities.  Here, one can assume a high probability
+that newly constructed episodes will be related to past episodes. 
+Unlike the previous case, the amount of effort required to make sense of
+an episode is minimal, thus allowing for specific stimulus-response
+behavior to be optimally reinforced (Wyer, 1997).   	
+
+A new episode might also fall between the two extremes.  This is perhaps
+the gray area in which one is said to rely upon previous experience with
+similar episodes/ situations/problems referenced by Nonaka and Takeuchi
+(1995) in their view of tacit knowledge.  Here, one is simply afforded
+the chance to do less sensemaking than in the first case presented while
+also being able to leverage an array of previous episodes that are
+functionally (or not) similar in quality.  
+
+Note that Bordieu’s (1999) notion of “habitus” can help us
+understand scenarios two and three above.  Habitus refers to familiarity
+with a particular situation/problem (through experience) such that the
+resources of the individual are more oriented towards the present
+uncertainty of situational conditions that are out of the ordinary
+(e.g., have changed since the last time the person has addressed the
+situation/problem).  This is not to be confused with “habit” which
+is a reflexive behavior (non-reflective) (Cohen, 2007).  
+
+To juxtasupose all of the above with ideas presented by D’Eredita and
+Barreto (2006): 
+
+A robust cognitive and social cognitive set of behaviors emerges if we
+assume experience is episodic and is the construction of and
+relationship among episodes.  This allows individuals to be practical
+and “reliable” (Weick & Roberts, 1993) in regard to behavior …  
+Episodes may be constructed given a specific problem, but not
+necessarily in a manner that makes them representative of an array of
+potential contingencies (D’Eredita and Barreto, 2006: 1829).   
+
+This leads us to assume the following in regard to episodes, ergo
+experience (see D’Eredita and Barreto, 2006, for a more complete
+discussion on these assumptions which are a juxtaposition of assumptions
+from a perspective representative of the field of cognitive psychology,
+particularly that of Logan (1988), with that of an i-field perspective):
+
+
+The constructing and relating of experience is episodic:  Each episode
+is associated with one or more previous episodes, but is constructed as
+a separate co-occurrence.    
+
+Constructing new episodes is obligatory upon attention:  That which is
+attended to is automatically perceived and embedded within the context
+of a given episode.
+
+Relating to previous episodes is obligatory upon attention:  Previous
+experience directly impacts behavior if a current situational condition
+is attended to and is associated with previous episodes in some way.  
+
+“Memory” refers to the ability of human beings to associate present
+situational conditions with perceptions of past situational conditions
+relative to the current episode.  The associating is not exact, so we
+see limitations in the objectiveness of human memory and we certainly
+should consider the individual’s criteria employed for associating as
+inexact.  The extent to which the associating is based on “habitus”
+or inherited criteria and logic represents increased likelihood that
+associations made for evolving uncertainty in situational conditions in
+the present and future will not be up to the task.  It is important to
+note that while our perspective is cognitively slanted, our notion of
+episode (given its relationship to problem/situation) applies to context
+and both individual and social behavior.  It is at this point in which
+we—if we have yet to do so—radically diverge from traditional
+cognitive theory.  
+
+We further diverge by suggesting that any notion of “storage” in
+relation to “memory” is misleading.  Our epistemological stance
+places the individual in the present and notions of “past” and
+“future”—thus time—as cognitive constructs that facilitate
+sense-making  from a functional perspective.   Simply put, we are not
+comfortable assuming the world is as it “seems” to be, but rather
+how the world seems to be is functionally similar to “how it is.” 
+We assume that the nexus of the cognitive behaviors described above is
+that of a neurological functioning organ—the brain.  The physical
+foundation from which more abstract cognizing emerges is assumed to be
+in a constant state of change as it interacts with the world.   It is
+because of this that we see no need to accept notions of “memory”
+like that adopted from a (computer-based) information-processing
+perspective.  While we assume experience is “bounded” in the
+episodic manner discussed above and that each episode is processed as
+separate co-occurrence, we do not assume that these episodes are
+“stored” in this manner waiting to be “retrieved” or
+“recalled” at a latter time.  We view behavior as resulting from
+cognitive behaviors that have been shaped by previous experience and as
+a response to a given problem given its (and an individual’s and/or
+group’s) state at a specific point in time and space. 
+
+Further, we do not assume behavior to be deterministic, albeit
+potentially implied given what has been said thus far.  We view behavior
+as being tied to experience in a probabilistic manner and to current
+constraints imposed by one’s interpretation of the problem (which is
+also relatively uncertain and probabilistic in nature).  More experience
+implies that the individual or group has a better chance of usefully, or
+functionally choosing, or creating steps that facilitate individual or
+group progress towards the desired goal or end state.  “Expert,” as
+its etymological roots imply, refers to one who has experience. 
+Culturally we have cast experts as the ones who can most effectively and
+efficiently respond to a specific problem by choosing or creating
+appropriate steps.  However, experience is based on past uncertainty
+rather than present or future uncertainty.  This past orientation may
+potentially limit the expert in dealing effectively and efficiently with
+emerging new situational conditions.  
+
+“Creativity” refers to an individual perceiving or taking steps that
+are beyond his/her existing (direct or vicariously “inherited”)
+experience with the problem/situation at hand.  As such, it is different
+from a judgment made externally, e.g., a “creative” work.  Given the
+necessary association with the problem/situation at hand, we view
+creativity as being best conceptualized as a time/space bound cognitive
+behavior rather than a personality-level characteristic of the
+individual.  The issue for researchers and managers thus changes from
+identifying “creative individuals” to identifying creative
+perceiving or step taking given the current collective experience
+available (e.g., Weisberg, 1993).  
+
+“Community” refers to the (direct and vicarious) communicating among
+individuals engaging with or involved in addressing uncertainty in one
+or more problems/situations.  Humans are social creatures whose
+development begins (usually) in “families” and is subsequently
+nurtured in extra-familial sub-communities (e.g., schools, religious
+activities, etc.) which serve to broaden the individual human’s
+perspectives from an existential self-centeredness towards (the
+inclusion at least) a more social- or network-centric focus.  Community
+is defined by the range of situations/problems with which the collective
+is engaged.  “Organization” differentiates itself from a more
+emerging community in that it has already organized—albeit in some
+cases continuously adapting in order—to address a distinctive set of
+problems.  In this sense, the more formal structure of an organization
+becomes more of a constraint (as discussed above) when compared to the
+more informal structure of a community.  This is not meant to imply that
+community or organization are simply less or more developed forms of the
+same social entity.  However, we do mean to imply some overlap in that
+they are a direct—albeit not exclusive—result of fundamental
+collaborative behaviors yoked by a set of common problems.  
+
+Below, we discuss how our agenda has and continues to unfold over time
+and how it relates back to the i-field-specific themes discussed at the
+beginning of the paper.  
+
+A Research Agenda Characteristic of the i-field 
+
+Constraints are logically tied to the problem/situation at hand and the
+more micro situational conditions that serve to contextualize the
+communicating behaviors which includes any potential IT (D’Eredita &
+Nilan, 2007).  If we as researchers move from an individual-as-unit
+perspective to something that includes a more time/space bound
+problem-as-unit as well as the embedded, and even more micro, cognitive
+step-as-unit perspective, we might make some headway in understanding
+and managing the changes that impact our field’s objective of
+providing access to resources.  {Note: there is an even more micro unit
+of analysis common in the Sense-Making research of Dervin and her
+colleagues (e.g., Dervin, 2003) which is the “gap” which facilitates
+inquiry into very specific information and resource use, resource
+evaluation, etc.  A “gap” is usually operationalized as questions
+that a respondent has in her/his mind at a particular cognitive step.  A
+separate unit of analysis is needed for this fine-grain issue because
+multiple gaps are possible at any specific step}.  
+
+As a field, we seek to create or discover patterns that serve to guide
+our organization of resources which in turn, must guide information
+seekers in locating resources for subsequent re-use.  We argue that
+patterns which are derived from the technological artifacts as we find
+them are ineffective in facilitating either appropriate levels of
+agreement in classification of artifacts or retrieval by users (who we
+know won’t “read the manual”).  The technology that produces the
+artifacts provides no insight into the logic of this
+organizing/retrieving endeavor whatsoever, it is a human behavior that
+ultimately dictates the function of any organizational scheme. 
+Therefore, to the extent to which we can find patterns (i.e., similar
+actions and sequences of actions, rationales, values, descriptions,
+behaviors, etc.) in the way people collaborate and communicate about
+their problems/situations, we can examine these patterns to see if they
+can be employed effectively for the organizing and subsequent retrieval
+of artifacts.  There is some evidence that indeed, they can be so
+employed (e.g., Nilan, 1992; Yoon & Nilan, 1999; Nilan & Mundkur, 2007).
+ We argue that these same patterns may be suitable for organizing
+non-traditional resources that our current approaches to the organizing/
+retrieval dilemma do not accommodate (e.g., maps, images, people,
+places, etc.).   After all, these patterns represent the universal
+“habitus” of human survival through collaborating and communicating
+which is far older than the mere 4,000 years since the invention of
+writing.  And the patterns (e.g., between “topic” and “comment”
+or between one step and the next step) represent associations readily
+interpretable to users.  
+
+Further, we believe that our functional understanding of these patterns
+will serve to inform our disciplinary design of systems and technology
+so that we can facilitate the organizing and retrieving of artifacts as
+those artifacts are generated.  Note that constraints associated with
+design should be viewed as necessarily balanced between enabling
+natural—and potentially idiosyncratic—human behavior and guidelines
+for effective creation and exchange of meaning through
+“information.”  For example, e-mail currently has only “To,”
+“From” and “Subject” fields.  As Yoon & Nilan (1999) suggested,
+these might be augmented with “comment” fields such as ‘how the
+email will help the recipient understand his/her problem better’ and
+or ‘how the email will help the recipient figure out what to do at
+this time’ and/or ‘why this email is important to the recipient.’ 
+The focus in this example is on “comment” and therefore the
+functional associations between users’ views of reality and their
+movement through that reality.  This kind of association – between
+“topic” and “comment” – represents one fairly concrete
+association (of potentially many possible) that might enable our field
+to actually guide the generation of artifacts that incorporate Bush’s
+“associative indexing” as the artifacts are generated.  We believe
+that in this way our discipline could lead insightful changes to
+relatively ubiquitous technologies that would serve subsequent
+organizing and retrieving.  Again, this relatively small change would be
+based on insight into the fundamental collaborating behaviors discussed
+above and not the technology per se.  
+
+Turning an Agenda into Action
+
+While we emphasize creation, use and re-use of experiences above, here
+we will focus on only the latter two, but with the assumption that all
+that is discussed below is directly applicable to the design of systems
+specifically focused on the creating of information.  Two courses of
+action are suggested in regard to use and re-use by the foregoing:  The
+first is to generate rich descriptions of the community-based
+communicating behaviors and subsequent cognitive behaviors (i.e.,
+perceptions and step taking) of the individual community members to
+search for patterns.  The second is, based on these rich descriptions,
+apply our field-specific experience/”habitus” proactively to
+facilitate the direct communicating behaviors and at the same time,
+facilitate the effective and efficient use (and re-use) of vicarious
+experience.  Since systems (including classification/ organization of
+artifacts) have been defined above as “a series of steps designed to
+solve a human problem,” empirically derived patterns will inform us as
+to the selection of appropriate steps and sequences of steps.  We see
+these patterns as superlative examples of associative dimensions alluded
+to by Bush (1945).  
+
+Based on this change in focus, the following user-based and
+problem/situation-based research agenda is proposed for the study of
+collaborative behaviors within communities, but with the assumption that
+a similar approach can be applied to, for example, teams:  
+
+First we would seek to describe behaviors within the collaborative
+communities that punctuate human lives (intra-community). Rich
+descriptions of the communicating and collaborating behaviors (not
+merely perusal of existing technological artifacts which are, by
+definition, meaning-challenged in-and-of-themselves) and their
+rationales (i.e., both topic and comment) can be examined for evidence
+of patterns in: (1) effective and/or efficient behaviors (steps); (2)
+sets of behaviors, e.g., roles (but NOT as characteristics of
+individuals) as functional sequences; and  (3) reward structures and
+constraints that facilitate communicating and therefore, collaborating. 
+Part of our disciplinary confusion vis-à-vis these behaviors are like a
+“fish in water” scenario – we are embedded in social interaction
+and therefore find it quite difficult to posit the behaviors as an
+object of inquiry.  We believe it to be an imperative initial focus of
+inquiry.  The flexibility of notion of “community” is particularly
+useful here because it would allow researchers to tailor their
+observations to groups with limited ranges of problems/situations (e.g.,
+specific organizations or organizations focused on providing similar
+products or services).  This in turn would allow us to pursue a basic
+research agenda into our primary phenomena and provide concrete
+practical insight into the targeted communities.  As we pursue our rich
+descriptions, “community” as a unit of analysis will facilitate many
+analyses across different communities to get at the essence of human
+communicating and collaborating as well as experiment with various
+artifact creation possibilities.  
+
+We can subsequently examine similar phenomena in the communicating among
+communities.  Of particular interest here is referrals from one
+community discussion to another – when, under what conditions, etc.
+given the “horizontal” communication engendered by the Web.  We
+believe that insight into this specific subset collaborative behaviors
+will be particularly useful for many information seeking scenarios in
+the digital age.
+
+Once we have adequately described these phenomena and looked for
+relationships among behaviors and various use criteria, our collective
+understanding of the human perquisites inherent in creating, using and
+re-using others’ experiences we can then become proactively engaged in
+research and design of the actual production of artifacts which
+incorporate these efficiencies to facilitate appropriate vicarious
+re-use of the documented experience (e.g., adding fields to
+email/voicemail/texting interfaces).  This will, in turn, facilitate
+subsequent re-use of the technological artifacts in more of a
+conversational manner as opposed to the current topical “keyword”
+strategy.  We believe this kind of search interface (e.g., specify
+“topic” and then specify “comments” [plural employed here is
+deliberate]) will be more natural for the large majority of users –
+with no manual or knowledge of Boolean logic necessary.  In essence,
+this is what Yoon & Nilan (1999) suggested - the organization of
+resources (both communicative and artifactual) within and between
+problem/situation-based communities.   Over the (currently unimaginably
+huge) hypertext data store of artifacts that tomorrow’s Web will
+contain, we believe that this communicative/collaborative framework will
+facilitate the sharing of resources within and among communities, and
+ultimately, facilitate the effective/efficient access of individuals to
+the communities which best “fit” their individual
+problems/situations.  
+
+Whether or not you subscribe to Bush’s (1945) “memex” vision, the
+potential power of his “associational indexing” to manage inherently
+unmanageably huge data set seems logically possible if we posit the
+associating as an extension of how human beings help each other make
+sense of and move through the sequence of situations/problems that
+punctuate their experiences.  Our position is that “meaning” is a
+product of human beings actively experiencing the world as they
+“move” through time and space.  As inherently social creatures, we
+attempt to share meaning linguistically (broadly cast) and generate
+artifacts through various technologies either as part of our
+communicating/collaborating with others or as an attempt to share
+meaning with another in the future who is in a similar situation or has
+a similar problem.  The artifacts are what we call information.  We
+believe that a useful way (if not the most useful way) to organize large
+numbers of such artifacts lies in the association between the active
+human being, his/her problem/situation and goal or envisioned end state
+and a co-collaborator (either in the present or in an envisioned
+future).  
+
+ 
+
+In Conclusion
+
+The Internet, and more specifically the Web, has changed the functional
+definition of community by illustrating the collapse of the
+geographical/spatial constraint on communicating.  Community implies an
+organizing principle more intimately tied to the problem/situation than
+to a person (or a set of people) per se, which has resulted in a
+multitude of virtual communities that are more narrowly focused on the
+range of problems/situations that define them.  Along the way, the Web
+has also spawned a multitude of types of artifacts (what our field calls
+“information”) that come in a seemingly increasing number of
+unpredictable forms.  Our inherited logic (so far at least) seemingly
+lacks the necessary coherency for the managing of these artifacts.  
+
+Another way to describe the Internet and its multi-media offspring, the
+Web, is the removal of many hierarchical or top-down constraints, both
+in terms of the “means of production” (à la Marx) and in terms of
+centralized organizational/political control (the Web would seem to be
+inherently un-manageable).  This has resulted in an immense and rapid
+increase in the total volume of various types of artifacts.  This will
+continue as various means by which people collaborate freely develop and
+evolve.  This makes accurately predicting new ways of collaborating and
+what is created in terms of resultant artifacts very difficult (we would
+argue, impossible).  However, the constant of fundamental human
+behaviors will remain.  They will be manifested in different
+technological ways, yet potentially be more exposed than ever before. 
+The i-field is seemingly the only community seeking profound insight
+into these behaviors through the lens that technology offers—albeit
+not formally so.  We argue in this paper that anchoring ourselves in a
+constantly shifting bed of technology and artifacts will not lead to
+stability or necessarily profound insight into either of these, yet the
+proliferation of ways to communicate and resultant artifacts continues. 
+This is why we believe a more focused and solidified agenda for the
+i-field based on fundamental human behaviors is not only timely,
+but—most importantly—necessary.  
+
+References
+
+Bourdieu, P. (1999). The social conditions of the international
+circulation of ideas.  Richard Shusterman (Ed), Bourdieu; a critical
+reade, Oxford: Blackwell, 220-228.
+
+Bush, V.  (1945).  As we may think.  The Atlantic Monthly.
+
+Carter, R. F. (1980).  Discontinuity and communication, paper presented
+at the East-West Institute on communication theory from Eastern and
+Western perspectives, Honolulu, HI. 
+
+Cohen, M.  (2007).  Insight from a delightful lunchtime conversation
+with Michael Cohen at the International Federation of Information
+Processing conference on Virtuality, Portland, OR, August.  
+
+D’Eredita, M. A., Barreto, C. (2006).  How does tacit knowledge
+proliferate?  An episode-based perspective, Organization Studies, 27,
+1821 –1841.
+
+D’Eredita, M. A., Nilan, M. S. (2007). Conceptualizing virtual
+collaborative work:  Towards an empirical framework.  K. Crowston, S.
+Sieber, E. Winn (Eds.), International Federation of Information
+Processing, Vol. 236, Virtuality and Virtualization, Boston:  Springer,
+21-34.  
+
+Dervin, B. (1983).  An overview of Sense-Making research: Concepts,
+methods and results to date.  International Communication Association
+annual meeting, Dallas, Texas, USA.
+
+Dervin, B. (2003).  Communication Gaps and Inequities:  Moving Toward a
+Reconceptualization.  B. Dervin & L. Foreman-Wernet (Eds), Sense-Making
+Methodology Reader:  Selected Writings of Brenda Dervin, Cresskil, NJ:
+Hampton Press, Inc., 17-46.
+
+Dervin, B., Nilan, M. S. (1986).  Information needs and uses, Annual
+Review of Information Science and Technology, 21, 3-33.  
+
+Giddens, A. (1991).  Action, Structure, and Contradiction in Social
+Analysis.  Cambridge University Press.  
+
+H.S. Kim, H. S. (2003).  A theoretical explanation of collective life:
+Coorienting and communicating.  B. Dervin, S.H. Chaffee and L.
+Foreman-Wernet, (Eds), Communication:  A Different Kind of Horse Race
+– Essays Honoring Richard F. Carter, Cresskill, NJ: Hampton Press,
+Inc., 117-134.
+
+Jakobson, R. (1963).   Essais de Linguistique Generale:  Volume 1
+Foundations du Language, Paris:  Editions de Minuit.
+
+Logan, G. D. (1988).   Toward an episode theory of automatization. 
+Psychological Review, 95: 492-527.
+
+Logan, G. D. (1992)   Shapes of reaction-time distributions and shapes
+of learning curves:  A test of the episode theory of automaticity. 
+Journal of Experimental Psychology:  Learning, Memory, and Cognition,
+18: 883-914.
+
+Nilan, M. S. (1992).  Cognitive space:  Using virtual reality for large
+information resource management problems.  Journal of Communication,
+42:4, 115-135.
+
+Nilan, M. S., D’Eredita, M. A. (2005).  Organizations as virtual
+communities: A sense-making approach for uniting knowledge consumers and
+knowledge workers, International Journal of Web Based Communities, 1:3,
+262-271.
+
+Nilan, M.S., Mundkur, A., Structuring virtuality:  A user-based example
+for e-commerce.  K. Crowston, S. Sieber, E. Winn (Eds), International
+Federation of Information Processing, Vol. 236, Virtuality and
+Virtualization, Boston:  Springer, 53-66.  
+
+Nonaka, I., Takeuchi, H. (1994).  A Dynamic Theory Of Organizational
+Knowledge Creation. Organization Science, 5:1, 14 - 37.
+
+Reder, L. M. (1996)  Implicit Memory and Metacognition.  Mahwah, New
+Jersey: Lawrence Erlbaum Associates.  
+
+Saracevic, T. (1997).  Users lost: Reflections on the past, future, and
+limits of information science.  ACM SIGIR Forum, 31:2, 16-27.
+
+Saracevic, T. (1999).  Information science.  Journal of Information
+Science & Technology, 50:12, 1051-1063.
+
+Sawyer, S., Huang, H. (2007).  Conceptualizing information, technology,
+and people:  Comparing information science and information systems
+literatures.  Journal of Information Science & Technology, 58:10,
+1436-1447.  
+
+Taylor, R. S. (1986).  Value Added Processes in Information Systems. 
+Noorwood, NJ:  Ablex.  
+
+Weick, K. 1995. Sensemaking in Organizations. Thousand Oaks, CA: Sage
+Publications, Inc.
+
+Weick, K., & Roberts, K. 1993. Collective mind in organizations: Heedful
+interaction on flight decks. Administrative Science Quarterly, 38:3,
+357-381.
+
+Wenger, E. (1998).  Communities of Practice.  New York:  Cambridge
+University Press. 
+
+Weisberg, R. W. (1993)  Creativity: Beyond the Myth of Genius.  New
+York, New York: W. H. Freeman and Company. 
+
+Wyer, R. S. (1997)  The Automaticity of Everyday Life.  Mahwah, New
+Jersey: Lawrence Erlbaum Associates.
+
+Yoon, K., Nilan, M.S.  (1999).  Toward a reconceptualization of
+information seeking research:  Focus on the exchange of meaning. 
+Information Processing & Management, 35, 871-890.
+

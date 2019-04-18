@@ -1,0 +1,79 @@
+Privacy and Participation in Ubiquitous Information Systems:
+Information Ethics when Mobile Phones are Sensors
+Ubiquitious information systems hold increasing promise for widespread participation in data
+collection and dissemination. Common and abundant devices such as mobile phones can
+sense and record data such as location, sound, and images. These systems can facilitate
+community participation in basic and applied research, improvement of quality of life, social
+change, self-reflection, and creative expression. But the design and use of these tools also pose
+new challenges for privacy, data security, and ethics.
+This paper explores responsible approaches to the design of systems for ubiquitous digital
+capture. The authors include an Information Studies researcher working alongside computer
+scientists and engineers from the Center for Embedded Networked Sensing (CENS). This
+ongoing partnership pairs ethical frameworks developed within Information Studies and
+Science and Technology Studies with system design expertise and concrete, real-world
+challenges. For example, CENS is developing a platform to share activity inferences generated
+with geospatial data from mobile phones to assess personal environmental impact. CENS is
+also exploring systems for capturing and sharing data about neighborhood walkability and
+other community assets. The ongoing research detailed in this paper investigates how such
+ubiquitous sensing projects can conscientiously collect personal data for social science and
+participatory research applications.
+
+Background
+
+Previous research has proposed a variety of technical
+approaches to privacy protection in a world of increasing
+information capture. These include encryption, privacyenhancing technologies (PETs), and statistical anonymization of
+data (Burkert, 1998). While these approaches to privacy
+protection are important in human-embedded sensing systems,
+we argue that privacy requirements for networks of sensitive
+personal data extend beyond such measures.
+
+Figure 1: A CENS project tracks
+and shares users’ movements.
+
+Individuals experience privacy as a fluid concept. Privacy
+concerns extend beyond anonymity or data protection; privacy
+can be a process of regulating boundaries or a method of
+portraying particular personal identities (Palen & Dourish,
+2003). Privacy expectations are shaped by social conventions
+(Waldo, Lin, & Millett, 2007) and by places and spaces of data
+capture (Cohen, 2008). Individuals may feel threats to privacy
+during data collection, during data sharing, or if data remains
+accessible indefinitely.
+
+Designing for Privacy and Participation
+
+This paper details design considerations and practices that promote a balance between
+participation and privacy. An interdisciplinary team hosted by CENS has iterativly developed
+design principles that respect a multi-faceted defininition of personal and social privacy. The
+paper will detail design guidelines such as targeted capture, data retention policy, and methods
+
+for identification of privacy pressure points in a
+ubiquitous information system. It will emphasise
+techniques for responsive system design based upon
+user-specified privacy needs. Finally, we will
+emphasize participation over restriction as a response
+to privacy ethics. We argue that by finding a balance
+between privacy and participation, embedded network
+sensing systems can reach their research,
+empowerment and documentary potential while
+respecting participant privacy concerns.
+
+Figure 2: CENS interns participate in cooperative data
+gathering and analysis.
+
+References
+Burkert, H. (1998). Privacy-enhancing technologies: Typology, critique, vision. In P. E. Agre
+& M. Rotenberg (Eds.), Technology and privacy: The new landscape (pp. 125-142).
+Cambridge, MA and London: The MIT Press.
+Cohen, J. E. (2008). Privacy, Visibility, Transparency, and Exposure. University of Chicago Law
+Review, 75(1).
+Friedman, B., Kahn Jr., P. H., Hagman, J., & Severson, R. L. (2006). The watcher and the
+watched: Social judgements about privacy in a public place. Human-Computer Interaction,
+21, 235-272.
+Palen, L., & Dourish, P. (2003, April 5-10). Unpacking "privacy" for a networked world. In
+Proceedings of CHI 2003, Ft. Lauderdale, FL: ACM, 129-136.
+Waldo, J., Lin, H. S., & Millett, L. I. (2007). Engaging privacy and information technology in a digital
+age. Washington, D.C.: The National Academies Press.
+
+

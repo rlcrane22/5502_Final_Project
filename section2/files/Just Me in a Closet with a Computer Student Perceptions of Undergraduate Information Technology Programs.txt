@@ -1,0 +1,706 @@
+“Just Me in a Closet with a Computer”: 
+
+Student Perceptions of Undergraduate Information Technology Programs
+
+         Heekyung Choi
+
+University of Illinois at Urbana-Champaign
+
+501 E. Daniel St.
+
+Champaign, IL 61820
+
+hchoi8@uiuc.edu
+
+ABSTRACT
+
+Many institutions of higher education in the US are offering an
+information technology (IT) education program at an undergraduate level.
+So far, not many studies about this young academic program have explored
+students’ perspectives. Students’ perspectives are important input
+for educators to implement an IT education program that properly
+addresses students’ needs. This study has investigated college
+students’ perceptions and expectations for formal IT education in
+college through in-depth qualitative interviews. Interviewees were
+college students who were enrolled in courses offered from an IT minor
+program. This study has revealed that many college students feel that
+there is a void in college education in dealing with issues emerging
+from recent developments of IT. The interviewees indicated that the
+existing computer science program did not satisfy their needs. Students
+perceived that IT is something that they would have to confront in their
+future, and sought IT education regardless of their fondness for using
+and learning IT. By taking the IT minor, students tried to supplement
+their knowledge in their major and be better prepared for the fields
+that they would pursue after graduation.
+
+Topics
+
+	Nature and scope of iSchools and iResearch
+
+Keywords
+
+IT education, IT learning, IT minor, computer science, programming,
+informatics, student perceptions
+
+Copyright and Disclaimer Information
+
+The copyright of this document remains with the authors and/or their
+institutions. By submitting their papers to the iSchools Conference 2008
+web site, the authors hereby grant a non-exclusive license for the
+iSchools to post and disseminate their papers on its web site and any
+other electronic media. Contact the authors directly for any use outside
+of downloading and referencing this paper. Neither the iSchools nor any
+of its associated universities endorse this work. The authors are solely
+responsible for their paper’s content. Our thanks to the Association
+for Computing Machinery for permission to adapt and use their template
+for the iSchools 2008 Conference. 
+
+INTRODUCTION
+
+Recently, a number of new information technology (IT) education programs
+have emerged in U.S. colleges and universities, in addition to the
+traditional computer-related education programs. The new IT programs are
+being identified with titles such as Information Science, Information
+Systems, Information Technology, or Informatics. These programs have
+been developed on the basis that there is a niche between IT and the
+contexts in which the technologies are situated, in terms of both
+further research and teaching. Many of these IT programs are providing
+IT education at an undergraduate level, either as a major or as a minor.
+
+
+While the IT programs in colleges have been gaining popularity, the
+identity of the IT programs still remains fuzzy, and the nature and
+scope of IT education are still being debated intensively. One reason
+may be that the new area of study is still young, and the existing
+studies have not had enough time to sufficiently integrate multiple
+perspectives from various stakeholders of college-level IT education.
+
+One of the most important stakeholder groups in the emerging IT
+education programs is college students. However, most previous studies
+have rarely examined what expectations and concerns students have
+regarding IT education. Instead, they have discussed educators’ and
+program administrators’ concerns in developing and administering an IT
+program. Therefore, this study proposes to shift attention from the
+perspectives of program developers to the perspectives of college
+students to get a better understanding of college level IT education.
+The big research question that guides this study is formulated as
+follows. 
+
+What are college students’ perceptions and expectations for an IT
+education program? 
+
+By investigating students’ perspectives, this study eventually aims to
+help educators answer the questions regarding the identity of the
+college-level IT education programs. 
+
+RELATED STUDIES
+
+College Students: The IT-savvy New Generation
+
+In a large body of literature, younger generation people are typically
+described as more tech-savvy than older generation people. The digital
+divide literature has long been discussing the inequality that exists in
+people’s access to IT. It points out that people’s age and education
+level are two important factors that make a big difference in their
+access to IT (e.g., National Telecommunications and Information
+Administration [4]; Hargittai and Hinnant, [3]). College students are
+considered to be a group of people who have the most access to
+information technologies, as they belong to the younger generation that
+has grown up with IT and is receiving higher education that often goes
+together with intensive use of IT. 
+
+Spontaneous Learning
+
+A significant improvement brought by the development of user-friendly
+information technologies is that those technologies have become easier
+to learn. Nielson [5], a usability consultant, points out that
+learnability, the ease of initial learning, is one of the top attributes
+in any good user-oriented system. One consequence of the enhanced
+learnability is that user’ spontaneous learning is greatly encouraged.
+Many people acquire IT skills and knowledge spontaneously, through
+informal learning embedded in their daily activities, rather than
+through formal training or written manuals. 
+
+In contemplating how people learn to use computers, Twidale [9] pays
+special attention to users’ informal help giving interactions that are
+frequently observed in workplaces. His idea of “over-the-shoulder
+learning” draws on education theories that students learn cognitive
+skills most effectively through informal, spontaneous learning
+opportunities embedded in natural classroom settings. According to these
+theories, interaction within peer relationships is essential when
+students learn complex cognitive skills (e.g., Vygotsky [10]; Rogoff,
+[6]). Other researchers, such as Spliter [8], also point out that a
+critical part of IT learning usually occurs in users’ social
+interaction with peers rather than through formal training.
+
+The Place for Formal IT Education in College
+
+As discussed above, college students are very active users of IT, and
+they acquire IT competency spontaneously in their daily lives rather
+than through any formal training. Previous studies suggest that the
+immediate value that learners attach to learning computers should be
+considered in thinking about IT education. Facer, Sutherland, Furlong
+and Furlong [2] point out that there is a fundamental gap between the
+reason that educators and parents place emphasis on computer education
+and the reason that children value computer expertise. They argue that
+while policy makers and parents tend to view computer skills in terms of
+the children’s adaptability to the future world of work, the actual
+reason that young children value IT expertise is that obtaining the
+expertise is instrumental in shaping their identity among their peer
+groups. 
+
+College students have different values from those of young children who
+are the target of Facer et al.’ [2] study. College students are
+situated in a transitioning period from education to “the real
+world”. Therefore, college years are the time when career-related
+decisions are important to students. Developmental psychologist Smolak
+[7] argues that occupation-related values are a significant part of
+college students’ identity formation. It implies that the reason that
+college students seek formal IT education may be closely related to
+their career-related issues. Also, many related studies have focused on
+computer skills, rather than on broad IT education which includes many
+conceptual parts of IT knowledge other than just computer skills. 
+
+If college students are generally savvy with information technologies,
+and they acquire IT competency more through informal paths, then what
+would be the place for formal IT education for them? What do they think
+they are not good at, and what causes them to consider formal IT
+education? 
+
+METHODOLOGY
+
+As the development of the college-level IT programs is a new phenomenon
+and students’ perceptions on these programs have rarely been studied,
+there is no strong theoretical framework that can guide this study to
+answer the research question. This lack of a strong research framework
+requires some exploratory research that identifies the major issues
+first. In this study, this exploratory research was performed through
+qualitative in-depth interviewing with college students. 
+
+Interview participants were college students who were enrolled in one or
+more courses in the IT minor program in a large Midwestern university.
+The purposive sampling method has been adopted to obtain participants
+from various majors. Enrollment in an IT class was taken as an
+indication of students’ interest in IT education. A total of 26
+students from the following majors were interviewed: English, History,
+Advertising, Sociology, Business Administration, Computer Science,
+Computer Engineering, Chemical Engineering, etc. Interviewees included
+15 male students and 11 female students. 3 sophomores, 8 juniors, and 15
+senior students were interviewed. There were no freshman students, as
+the IT classes require sophomore standing. For confidentiality,
+pseudonyms were used to identify the interview participants throughout
+the study. 
+
+Interviews were performed during the Spring 2007 and Fall 2007
+semesters. Students in the IT classes were given a brief introduction to
+the study and asked to sign up for an interview session. Each interview
+session lasted about an hour. The interviews were conducted in a
+semi-structured format. The semi-structured format allowed the
+interviewer to adjust interview questions flexibly to get in-depth
+understanding of each interviewee’s experiences with IT and meanings
+that they attach to IT education. 
+
+FINDINGS
+
+Major Interests in IT Education
+
+From the interview data, three major areas of interest that college
+students have about IT education were identified. 
+
+Learning practical hands-on IT skills
+
+The interview data revealed that one big interest that college students
+have regarding IT education is learning practical hands-on IT skills. IT
+broadly means any type of digital technology that processes information.
+But to students, IT in the context of college education primarily means
+computers, rather than other popular consumer IT devices such as cell
+phones and music players. It seems that their interest in personal
+computers is related to creating practical digital artifacts on their
+own. These digital artifacts include their personal web pages,
+portfolios for jobs, and tools to support the groups that they belong
+to. Emily, a psychology student, expressed how excited she was when she
+learned some practical hands-on IT skills from an IT class.
+
+Emily: The things that we created in the class, it was something that
+actually worked and could actually be used. We created things that I
+feel that we accomplished something, which is kind of cool. 
+
+Creating something on computers usually involves programming. However,
+students clearly indicated that what they are interested in is not the
+programming per se, which CS people would do. Their interest in
+programming is limited to some types of Web programming that are needed
+to make their own stuff. 
+
+ 
+
+Figure 1. Interests in learning practical hands-on IT skills
+
+Learning about social implications of IT
+
+Students also showed interest in learning about implications of IT use
+on people and society. They are interested in learning how people use
+IT, and what implications IT use has for society, but not necessarily
+interested in using IT products proficiently or learning hands-on IT
+skills. Two students, from English and Business respectively, described
+their interest in learning the social implications of IT implementation.
+
+
+Jenna: My expectations were not so much relating IT classes to technical
+stuff…but more relating it to culture… and current events more like,
+how the computers have evolved…. All I really thought about it was, I
+didn’t really think it would be too technical.
+
+Rachel: I’ve always liked learning about technologies and liked how
+people use it and how it affects people. I don’t necessarily like
+using technology itself. I took a class last semester…. It was a
+communications class, and it was a lot about TV, Internet, and different
+types of media and how they affect society and different groups and
+different stereotypes.. I thought it was interesting. So I thought that
+the IT minor is fairly similar to that. 
+
+These comments indicate that even students who are not very active in
+using IT products feel the need for some kind of IT education. Their
+focus on the impact of IT is clearly different from the focus of the
+established approaches of CS or other engineering fields. 
+
+Interest in Human-Computer Interaction 
+
+Human-computer interaction (HCI) is another area that many students
+showed interest in regarding IT education. Chris, a philosophy major,
+focuses on computers less as technologies, but more as people’s tools
+for communicating. 
+
+Chris: I am more interested in computing as interaction, less than
+computing as a goal and end itself. If people are interested in studying
+how people interact with computers, how computers shape their lives, the
+IT program is an ideal place to investigate some of that knowledge.
+
+Students perceive HCI as an important issue to pursue in higher
+education, because it is related to many current changes in society. 
+
+Jack: That class [Design Information Interfaces] was very helpful,
+because I think a lot of things are either on the web right now or going
+in that direction. I think usability is really important because I’ve
+been on so many websites, not being able to find a button or not knowing
+where to click, and that’s one of the big issues, it just does not
+allow people design for usability.
+
+Some students also view HCI as a gateway through which non-technical
+students can get into the study of IT. 
+
+Jenna: Because I am not really very experienced with computers, I asked
+the IT advisor what classes would be less technical, and more underlines
+of computers and culture, human interaction with computers… 
+
+It seems that HCI is a major area of IT education. By HCI, students mean
+not a narrowly defined sub-area of IT, but rather people’s interaction
+with computers in a broad sense. 
+
+Patterns found among the major interests
+
+Interesting patterns were found among the major interests. The first two
+interests, interest in learning hands-on IT skills and interest in
+learning social implications, tended to be negatively correlated. Those
+who were more interested in acquiring practical hands-on computing stuff
+tended to be less interested in discussing social implications of IT.
+Those who showed more interest in learning about social implications of
+IT tended to be less interested in learning technical stuff. Also, some
+common underlying interests were found in all three interests. First,
+most of the students showed interested in the practical aspects of IT
+education. Second, all the three interests were focused around
+user-level issues; students take IT classes to learn to make their
+websites, to make their own portfolio, to conduct their group project,
+or to learn how IT implementation affects end-users like themselves. 
+
+“I am not good at computers”: Conflicting Attitude towards their IT
+competency
+
+Many students had conflicting attitudes regarding their IT competency.
+While they said they use IT all the time for their school work and
+socializing purposes, many of them rated their overall competency in
+using IT not very high, with a comment like “I am not good at
+computers”. It seems that their intensive use of computers for school
+work and social purposes does not count as IT competency for them. A lot
+of times the feeling of incompetence came from their inability to do
+programming. 
+
+Jack: Technology, I do utilize it a lot. I think I’m pretty familiar
+with a lot of the IT technology in terms of the social use… utilizing
+different technologies…. The one thing that I don’t feel comfortable
+with is the coding itself. 
+
+It is noteworthy that students did not describe their IT competency as a
+standalone technical skill without a context. Most times, students
+described their IT competency in relation to some area expertise. For
+example, a journalism student Abby indicated that she is not competent
+to sit down and write a program by herself, but that her IT skills would
+be good enough to perform her work in the journalism area. 
+
+Abby: For the future, I’ll need to know more about online journalism.
+But could I sit down and make a web page, no, I think I would need more
+interaction. I think I have enough base knowledge to accomplish anything
+that I would want to accomplish.. if I want to learn more, I could
+figure it out on my own without struggling too much. 
+
+It seems that students feel that their IT competency is good enough if
+their IT skills and knowledge are functional in performing what they
+need to do. 
+
+Perceptions about the Existing CS Program
+
+The interview data revealed that many of the interviewees have some sort
+of interest in learning issues in computing. As a result, many students
+have taken or considered taking a CS class. Most students reported that
+the CS classes they tried did not satisfy their needs. 
+
+First, students generally perceived that computer science is very hard.
+CS classes are usually considered to be hard, because they require a lot
+of math background. Some students pointed out that CS classes are
+daunting even for people who already have some level of technical
+competency outside of class. 
+
+Chris: I joined the university with very sporadic knowledge of
+computing. I had fairly good knowledge of coding and software
+systems.… However, computer programming courses in computer science
+department are notorious, being exceedingly difficult even for people
+who already know the basics of the programming.
+
+Students also commented that the class atmosphere of CS classes is not
+very friendly to novices and less-experienced people.
+
+Second, the negative stereotype of CS work influences students’
+perceptions of CS education. Many students believed that CS work
+typically requires long hours of working alone with tedious tasks, and
+pointed to this as a very unattractive aspect of learning programming. 
+
+Dave: Programming is a good skill to have. It’s not something like for
+sure going for career, no way. I thought it’s too dull for me
+personally, because it’s solitary. I feel like I have more social
+skills, I would rather talk and interact with people on group work, than
+have just me in a closet with a computer.
+
+Third, they feel that what is being taught in CS is very theoretical
+rather than practical. They pointed out that CS classes typically
+require designing everything from scratch and producing outcomes that
+are not immediately usable. This is not practical for most students who
+are not CS majors, because the CS way of programming is not only hard
+for them, but also takes a lot longer time than necessary to get what
+they want. 
+
+Kelly: My friends have had taken them, they come home talking about
+their really arbitrary assignments, things that are not gonna help them.
+I didn’t want to deal with those assignments. I want to learn how to
+really get end up and do something that I can actually physically use,
+create a product. I know that you need to learn that in order to get to
+that. But that’s not what I need….
+
+Lastly, some students expressed their concern that CS does not consider
+the impacts of computing on human life.
+
+Chris: One of the things that I found which is really good about the IT
+program was that it really focuses more on the interaction between
+people and computers, instead of just the very low-level programming
+aspect, which is something that I really missed in the computer science
+department. There wasn’t really anything that computer science can
+offer me that I was really looking for. 
+
+Students’ comments about the CS program indicated that the focus of
+existing computing education does not go very well with non-CS
+students’ needs for computing education. 
+
+Perceived Gap in College Education
+
+Students reported that they feel some gap in current college education
+in terms of education for IT. First, students pointed out that most
+existing academic programs are very theory-based and not practical.
+Nathan is a computer engineering major. He described his experience that
+all the theoretical knowledge that he had obtained from his study was
+not very useful in performing his work assignment.
+
+Nathan: I do like a lot of practical things, and am not real big into
+studying theories. I don’t mind studying a theory to get an
+understanding of how software program works, like the course I had last
+semester, we used a computer design tool to help us lay-out a processor.
+So we actually made our own little processors, and one of things you had
+to connect a bunch of different wires between all these different little
+pins. If you do it manually, you will have a really big problem, you can
+use a choice of different algorithms to automatically do it for you. So
+I learned about different algorithms in class and used them in a
+practical way. That’s about the technology that I’d like… where I
+can say “All right, I can use this.” “Here’s an algorithm, you
+will use it maybe!” I am like, “okay…” Because I am not really
+big into theory, and just kind of good at research on that algorithm,
+it’s not all that useful…
+
+Second, students commented that most academic programs focus on
+“history”, and are slow at embracing issues of current affairs and
+recent developments. This complaint appears over a wide range of
+academic disciplines. 
+
+Dave, a political science major, mentions that political science deals
+more with historical stuff than the changes that he is experiencing
+right now. 
+
+Dave: Courses in my major deal a whole lot of government stuff, seem
+more of just history, looking back at the history of government. While
+in this [IT] course, I feel like what we are studying is going right
+now. I enjoy that, because it’s something that I feel like I am in
+actually a part of, because I am participating on the Internet which
+mostly these classes talk about, and how information is shared through
+different chat. I feel like it’s not just studying the past... it’s
+studying now. 
+
+Another criticism was that there are rigid boundaries among existing
+disciplinary programs across campus. Many classes are open only to the
+students enrolled in a specific program. Many social science classes
+deal with IT issues at an upper-undergraduate level. These upper-level
+courses usually require several prerequisite courses within a specific
+discipline. There is no social science class that is entirely devoted to
+discussions about IT. 
+
+Zachary, a CS major, is taking an IT course that fulfills his general
+education requirements for social sciences. He is very much into his
+study in CS, and is also interested in different kinds of discussion
+about computers and other technologies. As he did not want to go too far
+away from technical issues when choosing social science courses for his
+general education requirements, he decided to pick two IT courses that
+satisfy the general education requirements. He found that it is
+difficult to find such courses from other social science disciplines,
+because other disciplines usually offer technology-related courses only
+at a higher level for junior and senior students in their fields. 
+
+Zachary: [If I am looking for a social science course that deals with
+IT,] that’ll be five courses to get to anything that really about
+computers instead of two [introductory IT] courses. 
+
+As IT is increasingly being adopted in many settings in everyday life,
+students do have some sort of sense that there might be some education
+program on IT on campus, even without explicit knowledge. This is
+expressed in the conversation with Brad, an economics major who is not
+very fond of working with IT. 
+
+Heekyung: Did you know that there is an IT minor on campus?
+
+Brad: I guess I would’ve…. I don’t know explicitly, but I figured
+that there would be…IT isn’t something that I’m extremely
+interested in, so I wouldn’t have considered it, I wouldn’t look
+into finding whether there was, but yeah, I guess I didn’t. Not
+explicitly, but I would have if it was something I was interested in, I
+would have figured that you can you can get an IT minor. I had this
+feeling that there is something like an IT minor on campus….  I
+figured it would be there, but I didn’t actually know. 
+
+It seems that their perceived needs for IT education have to do with
+their perceived gap in current college education.
+
+Reasons for Choosing the IT minor
+
+While students choose their major based on what they like and what they
+are good at, the interview data showed that students choose the IT minor
+because of its practical value that IT education bears to them. 
+
+A few students reported that they chose IT courses because they
+generally like to work with IT. However, for many other students, IT is
+something that they will have to acquire knowledge about for their
+future, whether they like it or not, or whether they are good at dealing
+with it or not. Many students from various majors, from English to
+Computer Science, commonly perceive that IT is not very exciting, but
+something that they will need to learn eventually for their future life
+beyond education.
+
+Kate, a humanities student, has been hesitant to embrace new technical
+things since she was young. However, she feels that it is something that
+she would need to confront in developing her future career anyway. Kate
+repeated that learning IT is very hard for her, indicating that she is
+taking the IT minor for its instrumental value, not because of her
+fondness of what is being taught in IT education. 
+
+Kate: Technical things are hard, but worth learning. Especially I am
+coming into the graduate school of library and information science next
+year, so I know that I am gonna need to know things about Internet and
+technology. It’s just hard. It’s hard for me. 
+
+Zachary, a CS major, also talks about the need to learn about IT
+regardless of his willingness to stick to a CS job. In his mind, a CS
+job is a job that focuses on programming, as opposed to an IT job, which
+is more about providing technical support to other people. 
+
+Zachary: I know I am most likely ending up with being a coder somewhere.
+I will have to use code repositories, knowledge bases… a lot of tech
+support things. They put that in a repository. 
+
+Students said that they chose the IT minor because they believed the
+study of IT supplements their major field well. Abby, a journalism
+major, explained her need to learn IT to be up front in her area of
+study. 
+
+Abby: I feel like it [the IT minor] complements my major, journalism, as
+where the technology of journalism is going, and what new mediums we
+will be using to portray the news. I do think they are hard, and I
+haven’t understood everything they said, but I think overall I have a
+much better grasp of technology than I did
+
+Another student mentioned that he is taking the IT minor to narrow down
+his expertise in writing to an IT-related subfield, for example, to
+become a lawyer specialized in cyberspace law.
+
+Larry: I am going to law school, and I am planning on doing something
+very related to IT, or technology in general, maybe something like cyber
+law….
+
+Another important reason is to differentiate themselves from others with
+similar qualifications. Kelly is a humanities student who is planning to
+continue her study in library and information science after college. She
+thinks that there are so many librarians-to-be who have similar
+qualifications. She considers IT competency as something that would make
+her unique by showing her well-roundedness.
+
+Kelly: I feel like it’ll at least give me a little bit more a
+well-rounded aspect just than just doing humanities. Having any sort of
+IT competency is gonna put you so much higher in the rankings as far as
+finding positions than anyone else.
+
+Most students’ comments indicated that some practical value of
+receiving IT education, rather than an inherent interest in IT, is a
+critical factor in their decision to take the IT minor. 
+
+Factors that Influence Students’ Choice of IT minor 
+
+Students’ comments about the IT education program indicate that there
+would be numerous challenges in building and administering a successful
+undergraduate IT education program. 
+
+First of all, the IT minor is optional to students, unlike a major.
+Students mentioned that they have to weigh carefully the value of doing
+the IT minor with other valuable opportunities that they could possibly
+take, such as internships, study abroad opportunities, part-time jobs,
+campus honors’ programs, and participating in student organizations. 
+
+Another important factor in doing the IT minor is how flexible the
+course requirements within their major are. While some social science
+majors do encourage students to have a minor with an additional
+requirement like “20 hours of supporting coursework”, other majors
+leave no room for students to seek another interest. Nathan, who is a
+senior in computer engineering, cautioned that a student in his major
+has to be very careful in choosing to do something outside of his major.
+
+Nathan: In engineering, if you’re going to take courses that aren’t
+technical, a lot of times you need to make sure if those are counting
+for something. 
+
+For him, if he takes something outside his major without confirming that
+the outside course counts towards something for his degree, it would
+cause trouble in finishing his degree on time.
+
+Some students expressed their worries that other important people like
+hiring managers would not know what the IT minor is. Rachel, a business
+student, made an interesting comment, based on her interviewing
+experience for an internship. 
+
+Rachel: [In my interviews,] I asked some of the recruiters, what would
+they think of the IT minor. I think a lot of recruiters would
+misunderstand, they think IT as computer science, so they think oh,
+you’re an accounting major, we need you to do accounting, we don’t
+need you to fix computers. That’s their idea. I don’t think they
+would understand what it is. 
+
+“Fixing a computer” may be a popular stereotype about IT work.
+Rachel’s comment signals that raising other stakeholders’ awareness
+about an IT education program would be an important factor for students
+to have a positive impression about an IT program. If other people who
+have significant influence on students’ future do not understand what
+an IT program is, it would make students hesitant about choosing an IT
+program. 
+
+CONCLUSION
+
+In this study, students from different majors showed diverse interests
+in IT education. However, the existing computer science program does not
+seem to respond to those interests. Students also pointed out that
+higher education in general has a gap in addressing the issues emerging
+from increasing implementation of IT. In addition, most students
+indicated that they are anticipating some practical advantages by
+enrolling in an IT education program. The findings also signal that
+marketing of an IT program should be directed not only to students, but
+to various stakeholder groups whose perspectives have significant
+influence on college students. 
+
+Students’ comments also implied that IT education is facing many
+challenges. It seems that many of the challenges for an IT program come
+from its interdisciplinary nature. IT programs are usually built as an
+interdisciplinary endeavor, as they usually start with the recognition
+that there is a niche between technologies and their social contexts. To
+fill the niche, the IT programs emphasize gathering multiple
+perspectives for viewing computing, from sociology, from communications,
+and from computer science, etc. To sustain an interdisciplinary program,
+gathering and organizing supports from many disciplines is crucial.
+Berghel and Sallach [1] have already observed that many IT programs are
+being organized at a university level rather than at a departmental
+level. 
+
+The scope of this study is limited to an IT minor program in a specific
+university. Therefore, the findings may not hold for students in other
+universities or in other IT programs that are offered as a major
+program. This case study was conducted with the intention of getting an
+in-depth understanding of students’ perspectives. There are not many
+previous studies about students’ perceptions about IT education. At
+this stage, the benefits of identifying students’ various issues
+involved in receiving IT education outweigh the value of getting
+generalizable findings across a large number of college students. 
+
+The findings strongly suggest that students expect an IT education
+program that has a different focus than that of the other existing
+computing programs. “Just me in a closet with a computer” may be a
+common portrait of programming/computer science that students have.
+Wanting something different from that is a major reason that students
+seek IT education. Students from various majors want some computing
+education that is more interesting, more practical, and more meaningful
+than CS. This study is valuable in that it delivers this anticipation to
+the IT educators’ community.  
+
+REFERENCES
+
+Berghel, H., and Sallach, D. L. 2004. A paradigm shift in computing and
+IT education. Communications of the ACM, 47(6). 83-88. 
+
+Facer, K., Sutherland, R. J., Furlong, R., and Furlong. J. 2001. What's
+the point of using computers? The development of young people's
+expertise in the home. New Media and Society, 3(2). 199-219.
+
+Hargittai, E., and Hinnant, A. 2005. Toward a social framework for
+information seeking. In Spink, A. & Cole, C. (eds). New directions in
+Human Information Behavior. New York: Springer. 
+
+National Telecommunications and Information Administration. 1999.
+Falling through the Net. Available at   HYPERLINK
+"http://www.ntia.doc.gov/ntiahome/fttn99/contents.html" 
+http://www.ntia.doc.gov/ntiahome/fttn99/contents.html 
+
+Nielsen, J. 1994. Usability Engineering. Boston: AP Professional.
+
+Rogoff, B. 1990. Apprenticeship in thinking: Cognitive development in
+social context. New York: Oxford University Press.
+
+Smolak, L. 1993. Adult development. Englewood Cliffs, N.J.: Prentice
+Hall.
+
+Spliter, V. K. 2005. Learning to use IT in the workplace: Mechanisms and
+masters. Journal of Organizational and End User Computing, 17(2). 1-25.
+
+Twidale, M. B. 2005. Over the shoulder learning: supporting brief
+informal learning. Computer Supported Cooperative Work, 14(6). 505-547.
+
+Vygotsky, L. S. 1986. Thought and Language. Cambridge, MA: MIT Press.
+
+
+
+ PAGE   
+
+Computers
+
+Web technologies
+
+Programming
+
+Where students’ interests are
+

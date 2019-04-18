@@ -1,0 +1,1782 @@
+Understanding Information Ethics and Policy:
+Integrating Ethical Reflection
+and Critical Thinking into Policy Development
+Toni Carbo
+Professor, School of Information
+Sciences and
+Graduate School of Public and
+International Affairs
+University of Pittsburgh, 602 IS Building,
+SIS, 135 N. Bellefield
+Pittsburgh PA 15260 USA
+412 624-9310
+
+tcarbo@sis.pitt.edu
+ABSTRACT
+“By Toni Carbo
+University of Pittsburgh
+
+organizations. Then, building on policy
+frameworks and several models for ethical reflection
+and critical thinking, the paper will describe briefly a
+case-based learning approach with a model for critical
+thinking for a proposed undergraduate course on
+Information Ethics and Policy.
+
+CATEGORIES
+DESCRIPTORS
+
+AND
+
+SUBJECT
+
+GENERAL TERMS
+KEYWORDS
+
+Abstract: The development and implementation of
+information policies must begin with an understanding
+of underlying values, such from different cultural
+perspectives and points of view. As Capurro reminds
+us: “As a self-referential process ethics is an unending
+quest on explicit and implicit use of the moral code,
+that is to say of respect or disrespect, with regard to
+individual and social communication. . . .There is,
+indeed, no unbiased ethical observer. (Capurro et al.
+2007, 21). In her work on ethical warrant, Berghtol
+has noted the importance of understanding context
+(Beghtol 2002). Her concept of “cultural hospitality”
+provides a theoretical framework for the ethical
+warrant of knowledge representation and organization
+systems, and it helps in representing new knowledge
+and organizations systems and for revising existing
+systems, and the diverse cultures to which each
+individual belongs. Using these two foundations, this
+paper provides an overview of some of the critical
+information ethics issues challenging policy makers in
+government and in
+
+Information Ethics,
+Information Policy
+
+Undergraduate
+
+Education,
+
+1. INTRODUCTION
+1.1 Background and Context
+Ethics as reflection on morality is widely accepted
+among philosopher beginning with Aristotle, the
+founder of ethics as an academic discipline. As Rafael
+Capurro, who heads the International Center for
+Information Ethics (ICIE), reminds us:
+As a self-referential process ethics
+is an unending quest on explicit
+and implicit use of the
+moral code, that is to say of
+respect or disrespect, with
+regard to individual and
+social communication. In
+other words, ethics observes
+the ways we communicate with
+each other as moral persons
+and the ways this moral
+identify is understood.
+There is, indeed, no unbiased
+ethical observer.[1]
+
+In the rapidly changing environments in which
+information professionals work and in which iSchool
+
+educators teach, ethical issues are increasingly being
+raised, demanding attention and efforts toward
+resolution. Of particular interest for iSchools and the
+information field are those related to information
+throughout its life-cycle. Originally called the ethics of
+information in society, this topic has more commonly
+been referred to as Information Ethics (IE) [2].
+Beginning in 1997, conferences on the Ethics of
+Electronic Information in the 21st Century were held at
+the University Memphis [3]. The subject of IE has also
+gained international interest as demonstrated by recent
+activities, starting with the first UNESCO Conference
+of InfoEthics in 1997 [4]. In 2003, an invitational
+conference was held in Karlsruhe, Germany under the
+leadership of the ICIE with support from the
+Volkswagen-Stiftung [5]; in 2004. The World Summit
+on the Information Society (WSIS 2003) developed
+the “Declaration of Principles: Building the
+Information Society: A Global Challenge in the New
+Millennium,”[6] and in February 2007, the First
+African Conference on Information Ethics was held in
+South Africa (First African Conference on Information
+Ethics) [7]. Building on the 2007 conference, in
+August 2008 a UNESCO and the South African
+government sponsored training workshop on IE and EGovernment in Sub-Saharan Africa twill be held in
+South Africa.
+Of course, many professional associations in the
+information field have had codes of ethics for years,
+and the Association for Library and Information
+Science Education (ALISE) recently established a
+taskforce to develop a code of ethics for ALISE, with
+a report due at its annual conference in January 2009.
+The topic of Information Ethics has been addressed in
+the literature, with an annual review of the literature
+on the topic first appearing in the Annual Review of
+Information Science and Technology in 1992 [8]. Over
+the past nearly 20 years, several iSchools have
+incorporated information ethics into their curricula,
+both as stand-alone courses and as part of other
+courses, many of which are required core courses.
+
+2. IE EDUCATION AT PITT’S
+iSchool
+In 1989 the School introduced a lecture series on “The
+Ethics of Information in Society” to help in shaping
+the Information Ethics course that was introduced the
+following year.
+The course seeks to provide a background to applied
+ethics as a prelude to learning the skills of ethical
+decision-making and, then, to applying those skills to
+the real and current challenges of the Information
+
+Profession.
+The scope of the coursework and
+discussions includes decision-making and challenges
+related to information sources and services in all
+formats and media; to the Internet and other digital
+sources (cyber ethics); and to information-related
+topics in management. The objectives of the course,
+described as what students will be expected to have at
+the completion of the course, are:
+Developed a better understanding
+of themselves (in the ongoing
+endeavor to “Know thyself”);
+Learned how to identify an issue,
+reflect on it (which is ethics) and
+make a decision that is moral;
+Engaged in reflective thinking and
+careful choice of words, which
+result in civil discourse;
+Developed an understanding of the
+art and science of applied ethics as
+related to the main challenges
+currently confronting the
+Information Profession.
+The course is not a philosophy or religion course, but
+instead concentrates on the application of ethical
+reasoning to the Information Profession, with its
+many, diverse specializations. It is divided into three
+main sections: an introduction to applied ethics, the
+necessary steps for facing up to and resolving a moral
+dilemma and making a decision, and ethical issues in
+our field. The approach combines “knowing how”
+with “knowing why” and concentrates on the many
+questions to be asked in resolving complex issues,
+beginning with the individual. It is about each of us as
+an individual even though it is often easier to think of
+someone else’s ethics, and also relates to interactions
+with other components of life (e.g., the environment,
+animals, etc.). The importance of the relationship
+between one individual and another and the need to
+learn to understand that each of us is a human worthy
+of respect – that we are fundamentally the same – is
+stressed. The initial assignment is for students to read
+and reflect on the U.N. Universal Declaration of
+Human Rights and Martin Luther King’s “I Have a
+Dream” speech and to write a short paper on the
+Fundamental Moral Experience. They then identify a
+personal problem or issue (whether related to personal
+or professional life) and work throughout the course
+towards solution of the problem.
+For the course, the definition of ethics used is:
+Ethics is the art and science
+that seeks to bring sensitivity
+
+and method to the discernment of
+moral values. (Stephen Almagno
+and Toni Carbo)
+Students read a series of books and articles, which
+change over time and are drawn from a number of
+disciplines, including philosophy, library and
+information science, business, and many others. The
+readings usually include at least two books, such as
+Stephen Carter’s Integrity and the Dalai Lama’s Ethics
+for the New Millennium, as well as articles from the
+Journal of Information Ethics, the Harvard Business
+Review and numerous other journals in the library and
+information field and from other disciplines.
+
+3. MODELS FOR ETHICAL
+DECISION-MAKING
+3.1 Context
+Several readings and references to websites (including
+ICIE’s website) have been included throughout the
+course to provide the context for ethical reflection and
+decision-making, in particular to emphasize the
+importance of different perspectives from cultural,
+social, and individual viewpoints. This broader
+understanding is essential to any course, especially
+this course. The course is taught in English to
+English-speaking students and is thus limited in the
+readings that are used, although students are
+encouraged to bring in examples from their own
+readings in different languages and from experience in
+their own countries and cultures. I have consistently
+emphasized my own limitations and encouraged others
+to broaden the views of everyone in the course.
+One very helpful, if complex, source for
+understanding context is Clare Beghtol’s work on
+ethical warrant [9]. Dr. Beghtol, who is on the faculty
+of the University of Toronto, Faculty of Information
+Studies, draws upon her extensive research to address
+problems of creating ethically based, globally
+accessible, and culturally acceptable knowledge
+representation and organization systems and
+foundation principles for the ethical treatment of
+different cultures. Basing her work on the U.N.
+Universal Declaration of Human Rights, she presents
+the concept of “cultural hospitality,” to act as a
+theoretical framework for the ethical warrant of
+knowledge representation and organization systems.
+She concludes that the concept of cultural hospitality
+is promising for assessing the ethical foundations of
+systems for representing new knowledge and
+organizations systems and for revising existing
+
+systems. Reminding us that each individual belongs
+to a number of different cultures at different levels
+(e.g., living in one country, speaking different
+languages, adhering to policies and practices of
+different religions and/or political parties, belonging to
+different social organizations, etc.), she notes that
+individuals may and do legitimately disagree. She
+also argues that the boundaries among cultures can
+themselves be fuzzy and create tensions within an
+individual. In her discussions of the relationships of
+any particular culture to its information needs and
+systems and noting differences among oral and written
+cultures, she raises questions concerning what kinds of
+information people need; what they do with it; the
+extent to which they value it; and whether they choose
+to perpetuate the information. Her thoughtful, if
+somewhat densely packed, paper raises several
+questions, such as whether principles of cultural
+hospitality can be used to develop culture-neutral
+systems and theories, which deserve much more
+discussion. Her paper continues to stimulate thinking
+and discussion by students.
+
+3.2 Models and Frameworks
+3.2. 1The Wheel
+Over the fifteen years of teaching the course, we have
+used a series of models to assist students with ethical
+reflection and decision-making. Initially, Prof.
+Almagno used the model of a wheel with four groups
+of questions in the center hub: 1.) What; 2.) Why?
+How? Who? When? Where? 3) Foreseeable effects?
+And 4.) Viable alternatives. The spokes of the wheel
+are: Creative/imagination, reason/analysis, principles,
+affectivity, individual experience, group experience,
+authority, comedy, and tragedy. The questions in the
+hub provided questions for gathering information and
+to help in revealing other questions to be asked to
+determine reality. They also provide a reminder that
+ethical thinking requires dialogue, even if only with
+one’s self. The spokes serve as evaluation resources
+through which moral consciousness and awareness can
+unfold, and they provide a systematic process to
+address the concerns about how to evaluate each step
+in making a decision. While some students found the
+wheel helpful in assisting their decision-making
+process, many found the steps suggested by the spokes
+to be somewhat confusing and to overlap.
+
+3.2. Mason et al. Checklist
+One example used is that proposed by Mason et al. in
+Ethics of Information Management [10]. They remind
+the readers that ethical dialogues are dynamic and
+nonlinear and suggest a “checklist” of six
+considerations to be taken into account when resolving
+an ethical issue [11]. These steps are:
+1)
+2)
+
+3)
+4)
+5)
+6)
+
+What are the facts?
+What ethical principles,
+standards, or norms should be
+applied?
+Who should decide?
+Who should benefit from the
+decision?
+How should the decision be
+made?
+What steps should be taken to
+prevent this issue from
+occurring again?
+
+Step one relates to morally relevant considerations and
+requires both determining pertinent information
+(understanding the life cycles involved and
+identification of key decision-making processes) and
+identifying all the key stakeholders, their values,
+motivation, and physical history). This step
+establishes ‘what is.’ The second step concentrates on
+‘what ought to be,” and identifies ethical
+considerations to be applied. The third step seeks to
+identify who should take necessary actions, how to
+ensure that all stakeholders are included, and
+legitimacy and right to make decisions, as well as the
+ability to affect a resolution. Step four addresses the
+various benefits of all the stakeholders and how to
+balance these, including both short-term and long-run
+considerations. Step five addresses the method of
+decision-making, which must be and perceived to be
+fair and ethical. The final step recognizes that each
+decision becomes a precedent and seeks to decide
+what procedures should be used in the future and what
+decision will be best for the future. Of course, this
+process must be used within the specific context of the
+stakeholders making the decision and within the wider
+societal context.
+This framework has been somewhat useful in the
+course, but many students have found that it does not
+provide sufficient guidance for them. A key problem
+is that is starts with gathering facts before reflecting
+on the questions related to fully understanding what
+are the initial questions to be asked to help identify
+exactly what problems and issues need to be
+
+addressed. Also, little guidance is provided to address
+other questions, especially the second one.
+
+3.3 Woodward Framework
+The late Diana Woodward, formerly on the faculty of
+Drexel University, presents a framework for deciding
+issues in ethics [12]. She discusses advantages and
+disadvantages of consequentiality and deontology as
+bases for ethical reasoning in general, and intellectual
+freedom in general, concluding that a deontological
+defense of intellectual freedom is “safer” than one on
+consequential grounds. The article, while helpful for
+introducing some of the philosophical foundations and
+theoretical bases for ethical reasoning, does not
+provide a useful framework for addressing many
+practical, “real-world” issues.
+
+3.4 O’Boyle
+O’Boyle [13] concentrates on the use of the Code of
+Ethics from the Association for Computing Machinery
+(ACM), described as deontological because of its
+enumeration of rights (what is owed by others) and
+duties (what is owed to others), within a general
+ethical decision-making process to determine an
+action. Providing a sound discussion of earlier
+writings on the ACM Code, he places the Code within
+a general ethical decision-making process, he
+differentiates between to human faculties: intellect and
+will. O’Boyle builds on work of Rest and Kohlberg
+and identifies a six-stage process: 1) Moral perception
+and personal knowledge of the moral good
+(recognition that the problem exists); 2) Moral
+discernment and personal ability to think logically
+(stating the problem clearly); 3) Moral resolution and
+personal ability to think analytically (tackling the
+complexities of the problem to arrive at an individual
+position); 4) Moral assessment and personal ability to
+assess one’s freedom (assessment, including being
+aware of the double-edged sword of new
+technologies); 5) Moral decision and personal
+knowledge of one’s duties (decision, including
+personal duty and obligations); and 6) Moral action
+and personal willingness to follow one’s intellect (free
+will used to take action). O’Boyle finds that the ACM
+Code is helpful with the first three stages, but not with
+the other three, and that training is needed to apply the
+Code effectively. He raises two provocative
+suggestions: that implementing the Code could be
+advanced by 1) making an individual ethical audit part
+of an employee’s performance review, and by 2)
+hiring people who have some understanding and
+
+training in ethical behavior. The students have found
+it helpful in applying codes of ethics to actual
+situations and problems, and they find the questions to
+be provocative. Because the article concentrates
+specifically on the ACM Code, the six-stage
+framework also has limitations. Also, it does not
+include extensive discussion of the various needs and
+perspectives of the various stakeholders, nor does it
+address many of the complex cultural issues.
+
+3.4 Ottoson
+One example from the corporate sector was Gerald
+Ottoson [14], a retired industry executive, who is now
+a consultant. Ottoson has conducted numerous ethics
+seminars over the years for workers in corporations.
+His approach is to spend a small amount of time on
+fundamental ethical values (e.g., honesty, mercy,
+justice, etc.) and to concentrate on models to examine
+real cases. “A Suggested Pattern of Inquiry,” is
+presented as a checklist in reviewing and evaluating
+past actions. The model uses a series of questions: 1)
+Who should make the decision (includes where the
+legitimate power to make the decision lies, limits on
+authority, obligation/responsibility, need for
+knowledge—the essential facts, and
+neutrality/objectivity); 2) Who are the stakeholders
+(principle of regard for others); 3) What are the
+alternatives (including competing claims,
+costs/benefits, etc.); and 4) How should the decision
+be reached (inclusion in the process, perception of
+involvement, avoidance of paternalism). He notes that
+decision-making is always a compromise; there is no
+“perfect” solution; and that there will always be some
+regrettable aspects of the ultimate decision. He also
+realistically argues that the final decisions often leave
+the decision maker feeling a bit uncomfortable. While
+his framework is incomplete and open to many
+different interpretations, the students find this
+example, used in conjunction with others, to be helpful
+because of its emphasis on the workplace and its
+realistic questions.
+Dr. Christine Altenburger, a retired faculty member
+from the University of Pittsburgh Graduate School of
+Public and International Affairs, taught applied ethics
+for many years. In her teaching, she developed a
+series of principles and a framework (unpublished),
+which she has given permission to use in our classes.
+The basic principles she identifies, summarized from
+those frequently found in the literature, are: 1) Do no
+harm. Do good if possible. 2) Observe the cannons of
+justice. Be fair. 3) Respect the rights, dignity, and
+
+freedom of all individuals. She also presents a flow
+diagram, beginning with gathering facts, leading to
+analysis and judgment, and incorporating decision
+loops to reconsider answers to questions.
+These and numerous readings have been used
+throughout our course, but none provided the kind of
+framework or guide needed for our students as they
+worked towards resolutions of their problems. One
+very helpful resource I have used is The Thinker’s
+Guide to Understanding the Foundations of Ethical
+Reasoning Critical Thinking Concept and Tools by
+Richard Paul and Linda Elder [15]. This brief Guide
+provides a concise discussion of the importance of
+critical thinking and the elements of thought, a
+checklist for reasoning, and a series of questions using
+these elements. It also summarizes problems of
+egocentric thinking and introduces a concise and
+straightforward introduction to the function of ethics,
+expanding on the discussion of egocentric thought,
+and addressing problems of “pseudo-ethics”. It
+discusses the differences between ethics and: religion,
+social conventions, sexual taboos, political ideology,
+and the law. The authors also remind the readers of
+why it is important to distinguish among questions of
+ethics, social conventions, religion and law, and they
+present a series of elements of ethical reasoning. They
+propose an eight-step process to determine the logic of
+an ethical question: 1) purpose (considering an
+individual’s rights and needs as well as those of
+others); 2) key ethical question(s); 3) information
+needed to answer the question(s); 4) concepts and
+principles to guide thinking; 5) main assumptions
+used; 6) points of view of all stakeholders; 7) main
+inferences/conclusions (what are the alternatives, are
+all being considered, etc.); and 8) implications (for self
+and others, including consequences, questions of
+harm/good, etc.).
+This framework has worked successfully for students
+to address a wide range of questions and problems. I
+have also used it effectively as part of a brief
+introduction to Information Ethics is our required
+introductory course for Library and Information
+Science Students, “Understanding Information,” in
+other classes, and in continuing education workshop.
+In the introductory course, students worked in groups
+of six to discuss the process they would use (walking
+through the eight steps) to respond to one of several
+hypothetical examples based on a real-world case. In
+each case, the students indicated that the framework
+encourages them to ask many questions and to
+examine different perspectives and issues. They also
+noted the usefulness of the framework in working
+
+through individual problems. A significant flaw in the
+framework is that it focuses on logic and does not
+recognize the individual’s emotions and subjective
+feelings. This leads to a discussion of the importance
+of recognizing that no human is ever totally objective
+and of learning one’s own biases, personal values, and
+cultural perspectives. The Guide seems to be the best
+tool in our courses to help students work through
+ethical reflection towards making moral decisions,
+because it focuses on steps in critical thinking and
+encourages students to work through the steps, looping
+back to earlier steps, in the process. The steps rely on
+logic and objectivity and do not take into account the
+fact that no human is ever completely objective. This
+shortcoming can, of course, be addressed by the
+teacher through readings and by raising questions in
+the discussion. The guide also serves to help stimulate
+discussion among students and encourage raising
+questions about the many options to be considered
+throughout the steps.
+
+4. PROPOSED UNDERGRADUATE
+COURSE
+At this point, the undergraduate course is in the
+earliest planning stages. Several challenges must be
+addressed: 1) teaching undergraduates, rather than
+graduate students, 2) making the course both attractive
+and relevant for undergraduates, and 3) incorporating
+appropriate technologies. Although I have had the
+occasional undergraduate in my classes (usually from
+our BSIS program or the Honors College, with one
+student from the School of Engineering), I have not
+taught undergraduates. While I have done some
+research about differences in expectations, learning
+styles, and experiences in the Social Web, I must
+admit to some trepidation.
+Recognizing that an increasing number of students in
+my introductory courses enter directly from college
+and knowing that students in this upper-level course
+will be predominantly college seniors reduces this
+concern to a great extent.
+Building on the extensive use of case studies and
+online discussions and group interaction in my
+courses, I enrolled in a day-long workshop in casebased learning. This workshop was extremely helpful
+and helped me determine that this was the approach to
+use. I have decided to use cases based on three
+primary areas: 1) intellectual property protection and
+use (particularly downloading of music and videos); 2)
+freedom of expression (e.g., restrictions on hate
+speech at universities, content on Facebook, MySpace,
+
+etc.); and 3) gaming. I am currently examining the
+growing literature on these three areas, especially
+existing case studies, to determine which readings and
+examples to include. I plan to use fiction and nonfiction, if possible, getting the assistance of an
+undergraduate to help identify pertinent literature.
+Simulation models related specifically to Information
+Ethics are starting to appear in the research literature.
+At the ALISE 2008 conference, I learned of one being
+developed by Ken Fleischmann at the University of
+Maryland and his colleagues [16], and we have agreed
+that we will collaborate. He will make available the
+beta version when it becomes available from his
+research project, which will probably not be for at
+least two years , and I will provide ideas on content
+and presentation. In addition, as part of a proposal I
+am developing with colleagues in Information Science
+and Telecommunications, we will identify ways our
+two projects (if ours is funded) can share information
+and learn from each other’s. Even if our proposal is
+not selected to go forward as the single proposal from
+the University, or if it is not funded, I plan to work
+with these colleagues to develop and incorporate
+simulations into the course.
+This work is in the earliest stages, and I would
+appreciate comments and suggestions for the proposed
+course to help make it as good as it can be.
+
+5. REFERENCES
+[1] Capurro et al. 2007, 21
+[2] Froehlich 1992 and 2004
+[3] See, e.g., Mendina 2000, Rockenbach and
+Mendina 2003.
+[4] Info-Ethics: First International Congress on
+Ethical,Legaland Societal Aspects ofDigital
+Information.Sponsored by UNESCO. Monaco,
+March 10-12, 1997. In: Carbo, T. (Ed.) The
+International Information and Library Review,
+29(2) and 29(3/4).
+[5] International Center for Information Ethics
+Symposium, Karlsruhe, Germany, 4-6 October
+2004. IJIE: International Journal of Information
+Ethics 2(11)http://container.zkm.de/ijie/n0002/ijie
+[6] World Summit on the Information Society. Geneva
+2003-Tusin 2005. Declaration of Principles. 12
+December 2003. (WSIS-03/GENEVA/DOC/4-E)
+
+[7] First African Information Ethics Conference:
+Ethical Challenges in the Information Age,
+Pretoria, South Africa. 5-7 February 2007. (2007)
+Proceedings. International Review of Information
+Ethics. number 7. http://www.i-r-i-e.net
+[8] Froehlich, T. J. 1992. Ethical considerations of
+information professionals. Annual Review of
+Information Science and Technology, 27, 291-324.
+[9] Beghtol, Clare. 2002. A Proposed Ethical Warrant
+for Global Knowledge Representation and
+Organization Systems. Journal of Documentation.
+58, no. 5 (2002), 507-532.
+[10] Mason, Richard O., Florence M. Mason, and
+Mary J. Culnan.1995. Ethics of Information
+Management. Sage, Thousand Oaks, California.
+1995. 85-107.
+[11] Ibid., 103-104
+[12] Woodward, Diana. A Framework for Deciding
+Issues in Ethics. 1990. Library Trends. 39
+(summer & Fall 1990). 8-17.
+
+[13] O’Boyle, Edward J. 2002. An Ethical DecisionMaking Process for Computing Professionals.
+Ethics and Information Technology. 4 (2002) 267277.
+[14] Ottoson, Gerald H. A Model for Ethical
+Decision-Making. 1988. Ethikos. July/August
+1988. 8-11.
+[15] Paul, R., and L. Elder. 2006. The Thinkers Guide
+to Understanding the Foundations of Ethical
+Reasoning. Dillon Beach: The Foundation for
+Critical Thinking.
+[16] Fleischmann, K. R., Robbins, R. W. Robbins, and
+Wallace, W. A. Educational Simulation for
+Information Ethics. Presentation at the Association
+for Library and Information Science Education.
+January, 2008. Philadelphia, PA.
+
+Ethics, Information Technology and
+Today’s Undergraduate Classroom
+Paul Conway
+University of Michigan
+1085 S. University Ave.
+Ann Arbor, MI 48109
+734-615-1419
+
+pconway@umich.edu
+ABSTRACT
+This paper highlights interdisciplinary research grounding a
+course that is one of the core requirements of a new
+undergraduate informatics curriculum. Ethics and Information
+Technology explores the ethical dilemmas that exist where human
+beings, information objects, and information systems interact. The
+course tests the notion that the most effective way to explore how
+new technologies relate to integrity, truthfulness, trust, respect for
+privacy and individuality is to become immersed in a
+technological environment where unethical behavior as well as
+ethical norms can be safely and confidentially tested, evaluated,
+observed, and experienced. The paper will summarize an
+emerging literature in three areas: (1) the theories of ethics and
+information technology, (2) the characteristics of the “Net
+Generation” regarding the use of new technologies, and (3) the
+central role played by “trust” in assessing the ethical implications
+of new technologies, including online multiplayer games, image
+editing, collaborative authoring, and open source coding
+conventions. The paper will then demonstrate how this literature
+informs the design and implementation of the course.
+
+Topics
+Information policy, ethics and law
+
+Keywords
+Undergraduate education, Information ethics, Pedagogy
+
+1. INTRODUCTION
+A new course, Ethics and Information Technology, is a significant
+contribution by the University of Michigan’s School of
+Information to a new undergraduate concentration in Informatics.
+The course is one of four required core courses for the newly
+approved major, which itself represents a deep collaboration
+among faculty across three University schools. The uniqueness of
+the undertaking raises the stakes, challenging the faculty of each
+
+school to define a rich field of study in ways that resonates
+intellectually across the entire partnership. The nature of this
+cross-campus collaboration influences the design of new courses,
+as well as the approaches to undergraduate education. Ethics and
+Information Technology tests the notion that the most effective
+way to explore how emerging technologies relate to information
+ethics is to immerse students in a technological environment
+where unethical behavior as well as ethical norms can be safely
+and confidentially tested, evaluated, observed, and experienced.
+In this regard, the course exists at the intersection of technology,
+ethics, and pedagogy. This paper frames the principal theoretical
+issues that underlie the design of the course and outlines its most
+salient pedagogical features.
+
+2. CONTEXT
+“Ethics” is variously defined [O.E.D.] as a branch of philosophy
+concerned with evaluating human action, the study of individual
+or group values, or a system of defining right and wrong
+behaviors. When applied to the professions, ethics defines a code
+of standards governing fair and responsible conduct with other
+members of a profession and the general public. In association
+with computer and information technologies, ethics concerns the
+relationship of systems with the people who use them. [14] Most
+recently, the concept of information ethics has extended
+philosophical consideration well beyond the human behavior to
+explore the ethical properties of information objects. [9]
+The study of ethics within the context of information technology
+is international in scope. The International Center for Information
+Ethics (ICIE) identifies 104 individuals in over 90 organizations
+around the world whose primary field of scholarship and teaching
+is information ethics, with Germany, Japan, the United Kingdom,
+and the United States having a particularly strong presence in the
+field. [13] For the United States, ICIE’s selective database lists 32
+individuals in 30 universities with a primary focus on information
+ethics research. Nearly a dozen scholarly journals, continuing
+sequences of international conferences, and highly touted
+monographs and compendiums attest to the deepening scholarly
+interest in ethics and emerging technologies.
+The teaching of ethics has traditionally been an important element
+of the university curriculum. The University of Michigan’s Ethics
+in Public Life Initiative, for example, has compiled a current list
+of over 300 regularly-scheduled courses that involve ethics as a
+substantial component. [22] Academic disciplines offering these
+courses range from the traditional and obvious (e.g., philosophy)
+to the more subtle and nuanced (e.g., environmental studies).
+Every professional school at Michigan offers at least one course
+
+at the graduate level focused on either professional ethics or
+ethics policies appropriate to the profession. Those professional
+schools that offer undergraduate courses or degrees include, but
+do not necessarily require the study of ethical issues to complete a
+major.
+Ethics in the iSchools, however, presents a paradox. Ethics is
+simultaneously a core principle governing the formulation of their
+teaching missions and a minor or peripheral area of research. On
+the one hand, the websites for all of the 19 iSchools describe
+ethics as one of their important areas of concern. Nearly all
+iSchools offer specific graduate-level courses that include an
+investigation of either professional ethics or ethics policy issues.
+And yet, six of the 19 members of the consortium of iSchools
+account for a total of only eight faculty in the ICIE database of
+research specialists in information ethics. Although the ICIE
+database does not reflect the efforts of faculty who primarily or
+exclusively teach ethics, it is clear that research on ethics is not at
+this point in time a central research or teaching strength of most
+iSchools.
+
+3. A FRAMEWORK
+The undergraduate course Ethics and Information Technology
+exists at the intersection of three distinctive concepts: (1) the
+philosophy of ethics, (2) the social characteristics of emerging
+information technologies, and (3) the learning styles of a
+particular cohort of students. Although literature on the theoretical
+foundation for each of these areas is vast, there is a particular
+
+The McRobb framework and its supporting literature is oriented
+toward the ethical issues involved in distance learning, drawing
+for support on the literature of computer supported collaborative
+learning. The conceptual model represented by the McRobb
+illustration, however, provides a convenient mechanism for
+highlighting how the issues that are at the heart of the Michigan
+course overlap and intersect. The framework includes three
+pressures that constrain the content of the three issue areas,
+among them the expectations of a wider audience regarding the
+evolving role of ethics education in the academy, the limitations
+imposed by university technology systems, and perspectives of
+various professional bodies or academic disciplines on the
+appropriate approaches to ethics education. Each of these
+constraining issues is at work in the design of a course that
+purports to exist outside the boundaries of the existing curriculum.
+Ethics and Information Technology is not only a new course but
+one that straddles and attempts to incorporate the perspectives of
+the three disciplines that are contributing to the new Informatics
+curriculum.
+The framework is most relevant in identifying three distinctive
+intellectual spaces where conceptual overlap creates interesting
+new perspectives. First, the boundary where the study of ethics
+and the characteristics of emerging technology overlap, labeled in
+the figure as “Computer Ethics,” provides a set of useful ethical
+models that are the intellectual structure of course. Second, the
+boundary where ethics and pedagogy overlap orients the course’s
+interactive design and the flow of the individual course modules.
+Third, the boundary where technology and pedagogy overlap
+provides the rationale for an immersive technology environment
+in which students and instructor model the challenges posed by a
+suite of technologies.
+
+4. ETHICS AND TECHNOLOGY
+Scholarship on the relationships between information technology
+and ethical beliefs and behaviors have been debated and refined
+for the past fifty years. How this scholarship informs the teaching
+of these relationships is less well understood.
+
+Figure 1. The links between technology, pedagogy and ethics
+
+absence of literature that addresses the theoretical foundations
+challenges at the intersection. McRobb, Jefferies and Stahl [16]
+propose a framework that describes research findings in the areas
+where the concepts overlap and establishes a domain where the
+concepts of ethics, technology, and pedagogy are most dynamic.
+Figure 1 is the authors’ graphic illustration of their framework.
+
+Terrell Bynum [1] credits the American philosopher/scientist
+Howard Weiner (the founder of the science of cybernetics) with
+foreseeing the enormous ethical and social impacts of information
+technology and laying the groundwork for the study of computer
+ethics. Writing in the 1950s, Wiener grounded his ethical theories
+of computer technology in the view that human beings are
+complex information feedback system that govern their
+relationships with other humans and the world around them.
+Drawing on Aristotle and flowing through Weiner’s systems
+perspective, Bynum proposes that the purpose of human life is to
+flourish as a person [2] and to do so through a diversity of
+information processing activities. In this regard, the principal
+value of information technology is to extend human potential by
+reinforcing the principles of freedom, equality, and benevolence.
+Weiner simultaneously defined the ethical underpinnings of
+Vannevar Bush’s Memex and anticipated the collaborative social
+technologies of Douglas Englebart. Bynum and others see the
+culmination of Wiener’s vision of “flourishing ethics” in the
+theoretical constructs of Luciano Floridi’s “Infosphere.” [8]
+James Moor is a bridge from the discipline of computer ethics to
+the broader world of information ethics. Moor [18] initially
+defined computer ethics in terms of a policy vacuum that occurs
+
+when “new technological capabilities provide new choices for
+action in an environment where existing policies seem
+inadequate.” Computer ethics includes consideration of both
+personal and social policies for the ethical use of computer
+technology. Writing twenty years later, following the explosion of
+the World Wide Web and the emergence of widespread social
+computing applications, Moor called for a more flexible and agile
+approach to investigating the relationship of new technologies to
+human ethical behavior.
+Moor [19] establishes a three part progressive model of
+technology development that relates the maturity of revolutionary
+technology to increasing ethical complexity. According to his
+model more people will be involved, more technology will be
+used, and hence more policy vacuums and conceptual muddles
+will arise as the revolution advances.” In the case of emergent
+(immature or experimental) technologies, such as the socially
+oriented tools and systems typified by the over-used moniker Web
+2.0, Moor postulates his own “Law,” which states that “as
+technological revolutions increase their social impact, ethical
+problems increase,” because revolutionary technology provides
+many new opportunities for action “for which well thought out
+ethical policies will not have been developed.” Moor lays out
+three approaches to study new technologies from an ethical
+perspective, including investigating new technologies before they
+have stabilized, using multi-disciplinary approaches to research,
+and adopting sophisticated ethical analyses to avoid the tendency
+to revert to simplistic cost/benefit analyses that translate ethical
+choices into monetary terms. “We need to learn about the
+technology as it is developing and to project and assess possible
+consequences of its various applications.” The Michigan course
+places students into a policy-weak environment populated by
+technologies whose use and abuse are not fully understood.
+An important open question at the intersection of ethics and
+technology is whether the social dynamics of new technologies
+are generating new ethical models of behavior. In addressing this
+question, Himma [11] focuses on the role of ethics in informed
+decision making. He reviews and ultimately dismisses claims that
+computer ethics has a claim to theoretical uniqueness.
+“Understanding computing technologies will help to produce
+well-informed ethical views – regardless of how we characterize
+those technologies.”
+Rafael Capurro [4] adds another dimension by highlighting the
+nature of the content that is embedded in or made accessible by
+networked technologies. He argues for a holistic view of
+information that is attentive to the mass transformation/transition
+of content from analog to digital. “In this broader sense
+information ethics deals with questions of digitalization, i.e., the
+reconstruction of all possible phenomena in the world as digital
+information and the problems caused by their exchange,
+combination and utilization.” Capurro makes an essential
+connection between communication technologies and the human
+propensity to share and preserve. A basic moral principle of the
+information environment, he claims, “is to share knowledge, or
+the right to communicate in a digital environment which includes
+the right to preserve what we communicate for future
+generations.” Capurro reminds us that the appropriation of
+modern information technology is not just a technical also but a
+culturally-bounded endeavor.
+
+Luciano Floridi [9] presents, perhaps, the most well developed
+philosophical perspective on the ethical issues associated with
+information and communication technologies. Floridi’s
+“Infosphere” encompasses not only cyberspace but also off-line
+and analog information spaces. Adopting an object-oriented
+approach to the design of a new ethical model, Floridi defines
+moral action as a “dynamic system” arising out of the interaction
+of seven principal components: 1) the agent, 2) the patient, 3)
+their interactions, 4) the agent’s general frame of information, 5)
+the factual information concerning the situation that is at least
+partly available to the agent, 6) the general environment in which
+the agent and patient are located, and 7) the specific situation in
+which the interaction occurs. Drawing deeply on environmental
+physics, Floridi restates that the fundamental principles (or rules)
+of this dynamic system are grounded in the notion of information
+entropy – that is the destruction, pollution and depletion of
+information objects – ought not to be caused, ought to be
+prevented, ought to be removed, and ought to be protected,
+extended, improved, enriched and enhanced. [7] Information
+ecology as a parallel. Floridi’s model and the norms it proposes
+structure the flow of the Michigan course.
+The real question for the intersection of ethics and technology is
+the extent to which new technologies and the ways that people use
+them foster new rules of ethical behavior (perhaps culturally
+determined) or whether long standing principles are transferred to
+new technological contexts. The pedagogical focus of the course
+is designed in part to explore this issue dynamically and
+interactively.
+
+5. NET GENERATION PEDAGOGY
+A course that examines ethical issues associated with new
+technologies must necessarily take account of the learning styles
+and the general attitudes of the undergraduates who enroll. The
+conceptual design of the course, as well as its intellectual flow of
+the individual modules and use of technology tools in and outside
+the classroom are in part predicated on the notion that today’s
+generation of undergraduates is somehow different than previous
+generations.
+Allowing for fluidity in the boundary lines, a case can be made
+that at any point in time, generational cohorts bound by shared
+experiences and history exhibit behavioral and attitudinal
+cohesion. Commentators have labeled the generation of students
+born since 1981 (a somewhat arbitrary point in time) as the Net
+Generation, in part because they have grown up with the
+widespread availability of personal computers and the Internet.
+Strauss and Howe [21] characterize the members of the Net
+Generation as sheltered and protected but pressured to excel,
+endowed with a strong sense of their own specialness ( indicated
+by high self-esteem), confident, and optimistic. They may be
+more team oriented than previous generations, more comfortable
+than average with multi-tasking, and very literate in the realm of
+digital and visual technologies. Gibbons [10] argues that the
+affinity of today’s undergraduates for information technology
+“translates into new and different expectation about how to
+gather, work with, translate, and share information.”
+The apparent naturalness with which undergraduates embrace
+new technologies leads some commentators to see technological
+determinism at work. Lippincott [15] argues that “digital natives”
+
+have acquired styles of learning and modes of interpersonal
+interaction as a direct result of the availability of network
+technologies, suggesting that the implications of this fact extend
+beyond the classroom to challenge and change the mission and
+purposes of libraries and other information services. Nye [20] and
+most scholars of the history of science and technology reject the
+deterministic thesis, arguing instead that “people become
+enmeshed in a web of technical choices made for them by their
+ancestors,” helping to explain why people may seem trapped by
+the choices others have made.
+The design of the Michigan course rejects a deterministic view of
+the technologies it utilizes but starts with the premise that there
+are generational differences in the perspectives of students and
+teachers. Such differences may be manifested genuinely in
+varying comfort levels with new and emerging technologies. But
+the course’s structure, flow, and assessment methodologies leave
+open the question of whether Net Generation learners harbor a
+distinctive ethical world view in the use of these technologies.
+
+6. THE CENTRALITY OF TRUST
+The McRobb et al. framework (Figure 1) places a question mark
+at the center of its analytical framework where ethics, technology,
+and pedagogy meet. In their review of the associated research
+literature, the authors found that “there seems to be little interest
+in the exploration of the intersection of those areas…What
+appears to be lacking is a good overview of the relationships of
+the different issues involved.” [16]
+In adapting the McRobb framework, course designers used the
+concept of “trust” as an organizing principle for the individual
+modules. The O.E.D. defines trust as: “confidence in or reliance
+on some quality or attribute of a person or thing, or the truth of a
+statement.” In placing trust at the intersection of ethics,
+information technology, and pedagogy, the Michigan course
+opens students to an examination of trust from multiple
+perspectives, for example trust in individual identity, trust of the
+integrity of digital content, trust in the transparency of open
+source code and the community of people who create it. As the
+case studies in Hutchings [12] demonstrate, the notion of trust
+also enters into the dynamic engagements between teacher and
+student, as well as student to student interactions inside and
+outside of class.
+In terms of identity with the context of the course, Buchanan and
+Ess [3] demonstrate that trust bears on the extent to which
+behavior within a virtual environment is conditioned by
+knowledge of the identity of the agents within the environment.
+The creation, modification, and behaviors of avatars in an online
+environment is a particularly apt example of identity trust.
+Chesney [5] follows the same line of reasoning in examining the
+trust metrics underlying such collaborative writing efforts as
+Wikipedia.
+In terms of content, trust is intimately related to the notion of
+“integrity,” which Duranti [6] defines universally for textual
+documents in terms of reliability and authenticity. “It is generally
+accepted by all literate civilizations that documents are
+trustworthy (that is, reliable) because of their completeness and
+controlled procedure of creation, and which are guaranteed to be
+intact and what they purport to be (that is, authentic) by
+controlled procedures of transmission and preservation, can be
+
+presumed to be truthful (that is genuine) as to their content.”
+Mitchell [17] reaches a less technical but no less measurable
+conclusion in reference to trust in visual content. “If an image
+follows the conventions of photography and seems internally
+coherent, if the visual evidence that it presents support the
+caption, and if we can confirm that this visual evidence is
+consistent with other things that we accept as knowledge within
+the framework of the relevant discourse, then we feel justified in
+the attitude that seeing is believing.”
+
+7. DESIGNING A COURSE
+As conceived at Michigan, Ethics and Information Technology is
+one of four courses of a new undergraduate concentration in
+Informatics. The multidisciplinary concentration is a collaborative
+undertaking among faculty from the university’s Computer
+Science & Engineering division within the College of
+Engineering, the Department of Statistics within the College of
+Literature, Science and the Arts (LSA), and the School of
+Information. The undergraduate concentration is based in LSA
+but draws on faculty from all three schools. Program development
+is led by a steering committee of two senior faculty from each of
+the participating schools. Ethics and Information Technology is
+guided by the collaborative spirit of the faculty development
+team, but is being designed and will be taught by a team of two
+faculty, one from the College of Engineering and one from the
+School of Information.
+Ethics and Information Technology explores the ethical dilemmas
+that exist where human beings, information objects, and
+information systems interact. Modular in design, the course
+introduces students to a variety of ethical models from historical
+and cross-cultural perspectives and then explores the relevance of
+these models to a variety of new and emerging technologies that
+are inherently social in their construction and use. Initial
+examples of issues that the course covers in discrete modules
+include:
+
+
+interpersonal engagement through online games and
+virtual environments,
+
+
+
+the integrity of digital content in a networked world,
+and
+
+
+
+tradeoffs between security and openness of code, data,
+and information systems.
+
+Students explore the technological underpinnings of associated
+technology systems, experiment with individual and group
+interaction with technologies, and examine the mechanics of
+ethical and unethical behaviors.
+The course has two major instructional objectives: (1) integrate
+opportunities for direct hands-on technical experiences, in order
+to enhance understanding of ethical challenges presented by new
+information technologies, and (2) offer opportunities to
+participate via in-class discussions, short posts submitted to an
+online discussion board, and longer written assignments; in order
+to encourage multimodal contributions by students. Associated
+with the objective are three related learning outcomes: (1)
+demonstrate knowledge of current theories in information ethics;
+(2) apply ethics theories to interpret behavior when using a
+variety of information technology tools; and (3) evaluate the
+nature of ethical choices made by self and others when serving
+various roles.
+
+New information technologies raise knotty issues regarding
+integrity, truthfulness, trust, respect for privacy and individuality,
+as well as the variations in ethical behavior across gender, racial
+and ethnic group, socioeconomic class, sexual orientation, and
+global cultures The course tests the notion that the most effective
+way to explore these issues is to become immersed in a
+technological environment where unethical behavior as well as
+ethical norms can be safely and confidentially tested, evaluated,
+observed, and experienced. The course will mix experiential
+learning with individual and group interaction with a variety of
+technologies.
+This course is unique in its construction and in its mix of
+technological tools for instruction. Although a vibrant literature is
+emerging on approaches to teaching ethics and information
+technology and on the use of technology in the classroom,
+relatively little is known about learning processes and learning
+outcomes in the combination of ethics and emerging social
+technologies. The course will, in part, form a test environment for
+learning about how to use innovative technological tools to teach
+about the ethical dilemmas posed by these same technologies.
+Significant instruction takes place with the aid of technological
+tools available through an online virtual environment build on the
+Sakai platform that most University of Michigan students
+recognize as CTools.
+
+In a three-part exercise, students examine a set of photographic
+images to which various enhancement algorithms and editorial
+techniques have been applied. Working in teams of two to four
+individuals, students will then categorize a set of existing
+digitized photo images according to a four part rendering scheme
+and evaluate the truthfulness of the images within the scheme.
+Finally, students will assess how meaningful and trustworthy are
+a set of images in an online exhibit by comparing and contrasting
+the messages of the image with the messages of the
+accompanying text.
+Assignment 4: Information Integrity: Collaborative editing roll
+playing
+Students will be assigned randomly to one of four roles: known
+author; anonymous author; known editor; anonymous editor.
+Students will play their roles in creating and editing content in a
+class-limited wiki. Topics chosen for creation and editing will be
+determined by the class. Students will be given explicit
+assignments regarding the submission of truthful and untruthful
+content and on the “rules of engagement” for adding, editing, and
+deleting content. Students will log their activities and seek to
+create together a set of trustworthy wiki entries. Discussion
+during and after the exercise will explore the challenges of
+establishing and keeping trust.
+Assignment 5: Secrecy and Openness: Cryptography
+
+7.1 Example: Module Assignments
+Assignment 1: Virtual Environments: Anonymity
+Students will create an avatar in a virtual world and adopt an
+anonymous persona. They will interact with their classmates in a
+secure environment over a period of several days, and then
+attempt to guess which student each avatar represents. Students
+will maintain awareness of such factors as whether they
+encountered any challenges in maintaining anonymity on a longterm basis; whether they employed confounding strategies to
+actively deter detection; how frustrated they were by others’
+anonymity; whether their anonymous status conferred a sense of
+freedom to behave transgressively; the extent to which their or
+others’ personalities were identifiable through language,
+appearance, or gestures, etc. What are some of the unexpected
+disadvantages of anonymity in this environment? Apply ethical
+theories discussed in class in your analysis.
+Assignment 2: Virtual Environments: Cheating
+Students play videogames with colleagues: (1) cooperatively as a
+member of a team, and (2) competitively in an individual PvP
+exercise. (1) Students on each team first must discuss and decide
+as a group whether their team will collectively condone and
+engage in cheating behaviors in order to advance their progress,
+and note the results generated by their decision whether or not to
+cheat. Each team also must determine whether they have
+identified evidence of cheating by their opponents, and if so, what
+their response will be in return. (2) As individual players, students
+will be encouraged to cheat in one-on-one interactions in order to
+succeed. They must note their emotions, as well as their
+intellectual rationalizations, when engaging in transgressive
+behavior. Is the game more or less enjoyable when both players
+are known to be cheating? Apply ethical theories discussed in
+class in your analysis.
+Assignment 3: Information Integrity: Critical judgment
+
+The purpose of assignment is to assess the level of knowledge of
+the cryptography section of this course. An exam on the topic will
+be offered. The exam key will be posted on the CTools site in
+advance of the students taking the exam. However, the key will
+be posted in an encrypted form. The students will not be told
+which encryption scheme was used for encoding. Students will
+have the choice of studying for the exam in a traditional way, or
+putting their effort towards decrypting the answer key and
+guaranteeing full credit on the exam.
+Assignment 6: Secrecy and Openness: Role playing
+Homework is a role-playing assignment. Students are given a list
+of ‘artifacts’ of varying levels of importance to them personally,
+and to society in general. Students will then be asked
+(individually or in groups) to prioritize artifacts in terms of
+importance and need for secrecy. The initial evaluation will be
+from their current perspective as a UM student. Next, students
+will be randomly assigned a role for role-play. Students will again
+be asked to prioritize artifacts and reflect upon any changes in
+their prioritization scheme.
+
+8. CONCLUSION
+The design and implementation of an innovative course on ethics
+and information technology is a somewhat risky undertaking.
+First, we do not yet know of the market for the concentration and
+the extent to which the new course will both attract students to the
+concentration and fulfill critical learning objectives for the new
+Informatics Program. Second, we cannot anticipate the extent to
+which experiential teaching in the domain of ethics and
+information technology will lead to specific learning outcomes.
+Toward this end, the course instructors have partnered with the
+university’s Center for Research on Learning and Teaching to
+develop assessment metrics new student feedback mechanisms.
+Third, we are not sure that the course will or should result in
+behavioral changes in the students who complete the course. We
+
+believe the risk of failure (measured by either low enrollment or
+low student evaluations) is offset by the opportunity to create a
+learning environment that serves as a model laboratory for new
+research on teaching ethics at the undergraduate level.
+
+9. ACKNOWLEDGMENTS
+The author offers thanks to David Chesney, College of
+Engineering, and Marianne Ryan, School of Information,
+University of Michigan, for collaborating in the development of
+the course described in this paper. At the University of Michigan,
+the Provost’s Multidisciplinary Learning and Team Teaching
+initiative and the President’s Ethics in Public Life initiative
+provided generous support for planning and start up of the course.
+
+10. REFERENCES
+[1] Bynum, T. W. 2004. Ethical challenges to citizens of ‘The
+Automatic Age’: Norbert Weiner on the information society.
+Journal of Information, Communication and Ethics in
+Society 2, 2 65-74.
+[2] Bynum, T. W. 2006. Flourishing ethics. Ethics and
+Information Technology. 8, 2, 157-173.
+DOI=10.1007/s10676-006-9107-0
+[3] Buchanan, E. and Ess, C. 2005. The ethics of e-games.
+International Review of Information Ethics 4 (December), 26.
+[4] Capurro, R. 2006. Towards an ontological foundation of
+information ethics. Ethics and Information Technology 8, 2,
+175-186. DOI=10.1007/s10676-006-9108-0
+[5] Chesney, T. 2007. An empirical examination of Wikipedia’s
+credibility. First Monday 11 (November).
+http://www.firstmondya.org/issues/issue11_11/chesney/inde
+x.html
+[6] Duranti, L. 1995. Reliability and authenticity: the concepts
+and their implications. Archivaria 39, p. 8.
+[7] Floridi, L. 1999. Information ethics: on the philosophical
+foundations of computer ethics. Ethics and Information
+Technology 1, 1, 37-56.
+[8] Floridi, L. 2002. On the intrinsic value of information
+objects and the infosphere. Ethics and Information
+Technology 4, 4, 287-304.
+[9] Floridi, L. 2008. Information ethics: its nature and scope, In
+Moral Philosophy and Information Technology, J. van den
+Hoven and J. Weckert (eds.). Cambridge University Press.
+
+[10] Gibbons, S. 2007. The academic library and the net gen
+student: making the connections. Chicago: Amer. Lib.
+Assoc..
+[11] Himma, K. E. 2007. Foundational issues in information
+ethics. Library Hi Tech 25, 1, 79-94.
+DOI=10.1108/07378830710735876
+[12] Hutchings, P. (ed.). 2002. Ethics of inquiry: issues in the
+scholarship of teaching and learning. Menlo Park: Carnegie
+Publications.
+[13] International Center for Information Ethics.
+http://icie.zkm.de/
+[14] Introna, L. 2005. Phenomenological approaches to ethics and
+information technology. Stanford Encyclopedia of
+Philosophy. http://plato.stanford.edu/entries/ethics-itphenomenology/
+[15] Lippincott, J. 2005. Net generation students and libraries. In
+Educating the net generation. Boulder: EDUCAUSE.
+http://www.educause.edu/ir/library/pdf/pub7101m.pdf
+[16] McRobb, S., Jefferies, P., Stahl, B. C. 2007. Exploring the
+relationship between pedagogy, ethics and technology:
+building a framework for strategy development. Technology,
+Pedagogy & Education 16, 1, 111-126.
+DOI=10.1080/14759390601168122
+[17] Mitchell, W. J. 2001. The reconfigured eye: visual truth in
+the post-photographic era. Cambridge: MIT Press, p 43.
+[18] Moor, J. H. 1985. What is computer ethics? In T. W. Bynum,
+ed. Computers and Ethics. Basil Blackwell, pp. 266-275.
+[19] Moor, J. H. 2005. Why we need better ethics for emerging
+technologies. Ethics and Information Technology 7,2, 111119. DOI=10.1007/s10676-006-0008-0
+[20] Nye, D. E. 2006 [check pub date]. Technology matters:
+questions to live with. Cambridge: MIT Press.
+[21] Strauss, W. and Howe, N. 2006. Millennials and the pop
+culture. Great Falls, VA: Life Course Assoc.
+[22] University of Michigan, Ethics in Public Life Initiative.
+http://www.umich.edu/pres/ethics/about/
+
+Ethics and Social Justice in Undergraduate Informatics
+Education
+Lynette Kvasny
+Pennsylvania State University
+329C IST Building
+University Park, PA 16802
+814-865-6458
+
+lkvasny@ist.psu.edu
+ABSTRACT
+This paper examines social justice as a praxis oriented approach
+for infusing ethics and multiculturalism in undergraduate
+informatics education. Social Justice education includes an
+interdisciplinary study of information and communication
+technologies (ICT) that analyzes unequal power relations that
+exist in society, and a set of interactive, experiential pedagogical
+principles that help students understand the meaning of social
+difference in their personal lives, in their professional lives, and in
+their civic lives. The paper summarizes the theoretical basis of
+social justice and its relationship to ethics, multiculturalism and
+ICT. The paper also presents a pedagogical approach used in the
+design and implement of an existing undergraduate informatics
+course. Social justice education has the potential to prepare
+students who are (1) able to critically evaluate the intended and
+unintended consequences of ICT adoption and use, (2)
+sophisticated in their understanding of social institutions in
+shaping the meaning and intended uses of ICT, and (3) able to
+work with diverse others.
+
+Topics
+Information policy, ethics and law
+
+Keywords
+undergraduate education, ethics, social justice, pedagogy
+
+1. INTRODUCTION
+ICTs provide new and exciting ways for people to work,
+coordinate schedules, share information, maintain relationships
+and seek entertainment. In this paper, the information and the
+technologies that are employed by humans to create, organize,
+transfer and utilize that information in a networked environment
+are collectively known as “the information environment”. This
+information environment is changing the ways in which we
+Copyright and Disclaimer Information
+
+interact, communicate, and function on the job and in our daily
+lives. Emerging technologies also raise new economic, cultural,
+legal, ethical, and social issues that are of grave importance to
+society.
+The College of Information Sciences and Technology (IST) at the
+Pennsylvania State University offers an existing course, IST431:
+The Information Environment, which surveys these diverse issues.
+This course examines how and why the evolving information
+environment influences the design, development and use of ICT.
+This course also examines the social impacts of ICT on people,
+organizations, and societies.
+The information environment is a messy. The issues are not
+clearly identified, there are competing interests, and solutions are
+extremely difficult to develop because there is no one, best
+answer to the problem. To assist students in developing the skills
+necessary for coping with this situation, the course employs a
+social justice approach to education. The subject matter of the
+course is learned through a series of problems that enable students
+to learn about the layers of the information environment and the
+factors embedded in them. The learning format emphasizes a
+student-centered classroom activities and team-based projects that
+feature participation, inclusiveness, affirmation of human agency,
+social responsibility, and collaborative work in small groups.
+Through individual and group learning activities, students and the
+educator examine the influence of environmental factors on ICT
+and the impact of ICT on the environment. This paper
+summarizes the primary theoretical and pedagogical features of
+this course and the broader implications of social justice
+pedagogies for educators.
+
+2. THEORETICAL FOUNDATIONS
+According to Adams, Bell and Giffin [1], social justice education
+seeks the full and equal participation of all groups in a society.
+This is a vision of society in which diverse social groups mutually
+shaped ICT to meet their needs. In such a society, individuals are
+both self-determining (able to develop their full capabilities) and
+interdependent (capable of interacting democratically with
+others). Students should have both a sense of social responsibility
+as well as a sense of their own agency to speak and act in a
+manner that supports their beliefs.
+Social justice education is also praxis oriented [2]. Praxis posits
+that theory and practice are interwoven, with practice being
+shaped by informal and formal, tacit and explicit theories. Hence,
+the way that we identify and articulate problems that exist in the
+information environment, the solutions that we entertain as viable,
+
+and the methods that we choose as appropriate for realizing those
+solutions are all theoretical as well as practical questions [1].
+Consequently, theory serves three important functions. First,
+theory enables us to reflect critically upon our intentions,
+decision-making, and the means we use to actualize our choices in
+the design of ICT. Computerized information systems, for
+instance, are generally designed for some idealized audience.
+Ethical problems surface when users with different knowledge
+requirements attempt to use the system. Hoesle [3] notes that
+computerized information system use requires people to act and
+think in prescribed ways that privilege Western cultural traditions
+while marginalizing the cultural traditions of others. Third-world
+cultures have unique forms of knowledge embodied in cultural
+artifacts such as mythologies, storytelling, proverbs, art and
+dance. While these forms of knowledge are legitimate and deserve
+to be preserved, Hoesle [3] posits that they cannot be equally
+well-represented through computerized ways of storing,
+representing and transmitting knowledge. In the 15 years since
+Hoesle authored this manuscript, ICT has advanced significantly.
+With Web 2.0 technologies, relatively low skilled users can
+author content in a variety of social media formats such as video,
+podcasts, wikis, and blogs. With these diverse formats, users now
+have more options for representing their unique worldview, and
+Hoesle’s concern may be less salient. The challenge may be less a
+problem of inadequacies in computerized representations of
+knowledge, and more a problem of providing access to the tools
+and competencies that make self authoring possible. Open source
+applications provide lower cost technology solutions to
+organizations and individuals seeking alternatives to proprietary
+information systems. Both Web 2.0 and open source are based on
+community-oriented design intentions and choices, and expand
+the usage options for non-traditional users of ICT.
+Second, theory has the potential to help us stay conscious of our
+position as historical subjects. Ethical implications arise from
+these historically situated power relations. For instance, ICT is
+often seen as an essential component of development and
+democratic practices. This viewpoint is expressed in the context
+of developing countries and historically underserved groups in the
+developed world. These groups are seen as excluded from the
+information society, and, consequently, should apply ICT or risk
+being left behind. This line of reasoning not only supports the
+technology imperative, but also subscribes to a development
+ideology that is based on a concept of history as linear and
+universal. All societies and people go through the same stages
+until they reach the same economic levels as countries and people
+considered developed [4]. The assumption is that ICT is neutral
+and nondiscriminatory in that it potentially provides equal
+opportunities to everyone; equal access to ICT ensures equal
+benefits. However, this ignores historical power relations such as
+colonialism, racism, and sexism to which ICT is inextricably
+linked. The perception that ICTs are necessary for development
+also ignores that technology invents its own needs such as
+software and hardware upgrades and training [5], as well as
+problems such as the environmental degradation that results from
+a Western lifestyle. Ecologically, it is impossible for the whole
+world to adopt a Western lifestyle [3]. Yet a Western lifestyle is
+offered as the standard for development.
+Third, and perhaps most importantly, theory provides a
+framework for interrogating our practices and creating novel
+
+approaches to addressing issues in the information environment.
+Many of these issues, such as social and digital exclusion
+[6][7][8], privacy [9][10][11], and community and democracy
+[12][13], have strong ethical and multicultural implications. For
+instance, the digital divide is at least as much about cultural
+differences as it may be about disparities in income and
+infrastructure. Because the internet enables users to focus solely
+on receiving information from and communicating with likeminded individuals, Paterson [4] worries that the internet may
+foster fragmented existences that exacerbate existing social
+differences based on ethnicity, gender, geography, age and race.
+The central implication underlying these issues of ethics and
+multiculturalism is how diverse people in different parts of the
+world experience the effects of the computerization. For some, the
+challenge is to continuously innovate and create new
+technologies, others grapple to keep up with the continuous
+changes enabled by ICT, and still others struggle to put in place
+the basic infrastructure that may allow them to participate in the
+global, knowledge-based society.
+Praxis forces us to examine how power operates through
+normalizing discourses about ICT and power relations. Praxis
+reminds us to continually ask “in whose interest” prevailing
+systems operate [1]. The question of who is served by ICT
+provides a useful analytic tool for exposing hierarchical
+relationships, as well as the hidden advantages and penalties
+embedded in technologies that are purportedly neutral. A
+commitment to social justice requires an ethical attitude towards
+inclusion of diverse cultures and the potential of ICT to improve
+the capacity of human agents to transform their world.
+
+3. COURSE DESIGN
+The social justice approach evolved over five years of teaching
+and continuously improving The Information Environment course.
+The context in which the course is situated as well as the
+pedagogical mechanisms that were used in the evolution of the
+course are presented.
+
+3.1 Context
+The College of IST prepares undergraduate students to confront
+and manage the complex interactions among technology, people,
+and information. Students are broadly trained in the areas of
+software engineering and networking, user interface design,
+information systems development, human-computer interaction,
+and social informatics. Our curriculum integrates these areas
+through problem-based learning, often with industry-based
+collaborators. Students emerge from our program with a systems
+view of ICT, experience working in teams on unstructured
+problems, and an understanding of the contextual factors (from
+the technology itself to cognition, ethics, economics, and policy)
+that shape the design, adoption and use of ICT. In 2007, over 90%
+of our graduates were placed in technology-oriented career
+positions in diverse industries such as consulting, banking,
+manufacturing, healthcare and government.
+Given the industry orientation of the IST curriculum and my
+professional experience and graduate education in information
+systems at an American business school, the initial design of the
+course focused primarily on professional ethics. Using the ACM
+and IEEE Codes of Professional Ethics as a basis, students were
+
+grouped in teams and presented with fictitious scenarios that
+portrayed ethical dilemmas that they may face in their careers.
+The scenarios included breaches in the confidentiality of
+information, programmers’ and analysts’ obligation to act in a
+socially responsible manner, use of company computers for
+personal benefit, ownership of intellectual property, and
+electronic monitoring of workers. While the scenarios generated
+good discussion, students didn’t seem to internalize the material.
+A second approach was to replace the fictitious scenarios with
+real-world cases from the popular press. Student teams were
+asked to evaluate and debate the behaviors of the various
+stakeholders presented in the cases. Again, most students failed to
+personalize the ethical issues
+To obtain insights as to how I could improve the course, I
+instituted a student quality team. In our college, student quality
+teams assess the classroom learning environment and provide
+educators with feedback to help them improve course design. The
+student quality team program is student-organized and managed.
+Team leaders are trained in quality principles, team management,
+survey design, and diplomacy. They also receive nominal salaries.
+Team members are recruited from students enrolled in the course,
+and they receive one credit of independent study for their effort.
+Students noted that the scenarios seemed abstract and removed
+from their daily lived experiences. They had little formal
+experience working in a business organization. Consequently,
+they had yet to develop a strong professional identity. Also,
+because ethics was isolated in a course module and presented
+solely as a professional concern, the importance of ethical
+considerations was minimized.
+While considering the student feedback, I attended the
+Multicultural Teaching Academy at the Schreyer Institute for
+Teaching Excellence at the Pennsylvania State University. Social
+justice was presented as an approach for infusing multiculturalism
+and ethics in undergraduate education. Social justice also fit with
+my research interests in ICT and social exclusion, and personal
+commitment to improving the recruitment, retention and academic
+excellence for women, students of color and international students
+who are severely under-represented in our program. Hence, social
+justice formed the basis for the third iteration.
+
+3.2 Pedagogical Approach
+A pedagogy respectful of social justice and human diversity
+begins with the educator’s sense of social responsibility [14].
+Education is fundamentally ethical and political in nature. Ethics
+and politics are inherent in the teacher-student relationship, in the
+physical conditions of the classroom, in the grading, and in the
+readings and course content that are chosen or excluded from the
+syllabus.
+To achieve a democratic learning environment that is inclusive
+and meaningful to students, the first day of class begins with the
+educator presenting an overview of the course and the key
+learning objectives. These learning objectives include:
+•
+
+identify major themes in information policy studies (e.g.
+ethics, privacy, workplace monitoring, security) and relate
+these themes to the applications of ICTs
+
+•
+
+use conceptual frameworks to frame analysis of ICTs in their
+context of use, at varying levels of analysis (e.g. individual,
+
+organizational, societal, global) reflected in the information
+environment
+•
+
+analyze the impacts of information systems and technology,
+and make appropriate policy recommendations
+
+Students are then broken into teams and asked to identity three
+important topics that they would like to explore. The class then
+organizes the topics into themes that are then incorporated into
+the syllabus. Table 1 provides an example of topics that were
+explored during the Spring 2007 semester.
+Modules
+Theories of technology
+and social change
+Technology and
+consumerism
+
+Sample Topics
+technology determinism, social
+determinism, social informatics
+sign value, use value, media
+consolidation, consumption,
+technology fetish, identity, data
+warehousing, personalization
+Technology and the body
+reproductive technologies,
+genetic testing, cloning
+Technology and
+social media, digital divide,
+communities
+online gaming communities,
+community wi-fi
+Technology and deviant
+cyberstalking, identity theft,
+social behavior
+sexual predators, virtual rape
+Technology and work
+electronic monitoring, global
+workforce, deskilling /
+upskilling
+Table 1: Learning Module
+In addition to inclusiveness, the educator seeks to leverage the
+cultural diversity that exists in the classroom. Being socialized
+and living in the dominant culture often lessens our awareness
+that our beliefs and behaviors reflect a particular racial, ethnic, or
+gender affiliation. According to Wlodkowski and Ginsberg [15],
+white males have a more difficult time acknowledging the idea
+that Anglo-Americans and Western norms enjoy a privileged
+position in the United States’ educational system. Culture is
+taught and understood implicitly, which is why it is difficult to
+explicitly describe who we are culturally. Consequently, we are
+more likely to experience uniqueness of our own culture when we
+are in the presence of those who are different from ourselves.
+Since, on average, 85% of the students enrolled in the course are
+white males, the challenge is to exploit the cultural diversity that
+exists within this group.
+For example, students vary in their political affiliation. The social
+media learning activity exploits this difference by asking students
+to compare and contrast the use of You Tube, Facebook and other
+social media applications by 2008 presidential candidates. To help
+students understand how gender mediates social interactions, male
+students create female avatars and interact with others in a virtual
+world. They then report on their experiences. In the assignment
+on digital divide and internet indispensability, students keep
+journals on their internet use for a 24 hour period. They then
+reflect on the benefits of their use as well as the losses they may
+have suffered if they lacked internet access. After they complete
+this assignment, I ask students to collect statistics about ICT
+diffusion and other e-Readiness indicators for a developing
+country of their choice and compare these to comparable
+indicators for the US. Students are often astounded by the
+disparities that they uncover, and in some cases express a deeper
+appreciation for the privileges that they derive from internet
+
+access. A few students are highly motivated by this exercise and
+extend this work for their semester long research project. These
+students conduct an experiment in which they give up their cell
+phones on for a weekend and reflect on this experience as a
+means of experiencing life as a “have not”. Students consistently
+note extreme difficulty in coordinating schedules with friends,
+missing important phone calls from employers, the loss of social
+status that comes from cell phone ownership, and the loss of
+social connectedness that results from the inability to
+communicate with friends anytime / anywhere. One student
+recounted how he often provides technical support to his friends.
+During the weekend when he turned off his mobile phone, he
+missing a late night call from a frantic friend who experienced a
+computer problem while writing up a term paper that was due the
+following morning. As a result, the student was faced with the
+tough task of repairing his relationship with his friend.
+There are a number of procedures used for classwork and
+assignments. Peer teaching is used in nearly every class. Students
+sign up to deliver individual presentations that correspond to the
+topics that will be discussed during the semester. In these
+presentations, students find current news articles, interesting
+websites, YouTube videos or other media related to the topic that
+they chose. Each presentation ends with a class discussion in
+response to two probing questions developed by the presenter.
+Through this exercise, each student acts as a teacher for the group.
+Additional procedures include group writing using wikis,
+journaling using blogs, small research projects such as examining
+privacy and identity using Facebook profiles, deconstructing
+advertisements for technology-related products, and using
+discussion forums to generate insights about characteristics of
+members of online gaming communities. Team-based research
+projects are the main way for students to demonstrate in-depth
+learning experience with humans and ICTs. Through these
+procedures, students are engaged in critical questioning, problem
+posing, and research that enable them to utilize their strengths,
+experiences, and values to deepen understanding of social,
+political, cultural and ethical issues that exist in the information
+environment.
+
+4. IMPLICATIONS FOR EDUCATORS
+The social justice approach has several implications for educators.
+First, educators have to address two sources of power asymmetry
+in the classroom – (1) the educator’s institutional power, status
+and authority, and (2) the educator’s social status characteristics
+such as race, gender, age and nationality. As an African-American
+woman teaching undergraduate courses to a predominantly white
+male student population, there are clearly many ways in which the
+educator and students are not alike. The challenge is to foster a
+classroom environment in which the educator’s authority and
+expertise is clarified and made explicit because it bears on
+grading, evaluation, and classroom norms. Omolade [16] argues
+that “authority with, not authority over” is complicated by social
+status differences between the students and the educator. Female
+educators of color must maintain democratic structures to foster
+authority with students. Once this mutual respect is established,
+students will accept greater responsibility for establishing an
+active and engaged learning environment.
+Second, the instructor must create a safe environment that
+encourages discussion. Silence in the classroom can result from a
+number of factors including fear of being patronized, anger,
+
+anxiety, hostility, ignorance, or resistance to being forced to
+speak. For hooks [17] silence is not always about the failure to
+make an utterance. Sometimes, silence is the fear of being unable
+to make a speech that compels others to listen. Silence can be the
+fear of not being heard. Educators can use their classroom
+authority to create a safe classroom environment that compels
+students to value their own voice by establishing classroom norms
+to ensure respect and the amicable resolution of conflicts.
+Technologies such as message boards where students can post
+comments and pointers to relevant information provide another
+means by which students can participate in the course.
+Finally, educators must enable students to understand that the
+power relations that exist in society are not the natural order of
+things. The privileges that we enjoy in life are the result of
+historically constructed forces which can be changed. As future
+information technology professionals, students can use the
+political influence, resources and human agency to create and
+implement ICTs that are socially just, environmentally benign,
+and enable positive social change.
+
+5. CONCLUSION
+Social justice provides a useful approach for infusing ethics and
+multiculturalism in undergraduate informatics education. A social
+justice pedagogy for the study of ICT and its social implications
+would necessarily include teaching that pays attention to personal
+safety and classroom norms, begins from students’ worldview,
+and uses students experiences as a basis for course content and
+problem-posing. This student-centered approach is vastly
+different than the traditional lecture-discussion-testing mode of
+higher education that has existed for centuries, and requires a shift
+in the power relations between students and educators. Educators
+seeking to adopt a social justice approach may do so in
+incremental steps by experimenting with different assignments
+and classroom activities, and by fostering a classroom atmosphere
+that invites everyone to speak from their own voice of experience,
+take risks, and learn from their mistakes. Social justice education
+has the potential to prepare students who are (1) able to critically
+evaluate the intended and unintended consequences of ICT
+adoption and use, (2) sophisticated in their understanding of
+social institutions in shaping the meaning and intended uses of
+ICT, and (3) able to work with diverse others.
+
+6. REFERENCES
+[1] Adams, M., Bell, L.A., and Giffin, P. 1997. Teaching for
+diversity and social justice: A sourcebook. Routledge, NY.
+[2] Friere, P. 1970. Pedagogy of the oppressed. Seabury, NY.
+[3] Hoesle, V. 1992. The third world as a philosophical problem.
+Social Research, 59, 227-263.
+[4] Paterson, B. 2007. We cannot eat data: The need for
+computer ethics to address the cultural and ecological
+impacts of computing. In Information technology ethics:
+Cultural perspectives, Hongladadrom, S. and Ess, C. (eds.),
+Idea Group Reference, Hershey, PA, 153-168.
+[5] Mbarika, V., Payton, F., Kvasny, L. and Amadi, A. 2007. IT
+education and workforce participation: A new era for women
+in Kenya? The Information Society, 23, 1, 1-18.
+
+[6] Hacker, K. and Mason, S. 2003. Ethical gaps in studies of
+the digital divide. Ethics and Information Technology, 5, 2,
+99-115.
+
+[12] Johnson, D. 1997. Is the global information infrastructure a
+democratic technology? ACM Computers and Society, 27.
+20-26.
+
+[7] Kvasny, L. 2006. Let the sisters speak: Understanding
+information technology from the standpoint of the 'other'.
+The DATA BASE for Advances in Information Systems, 37,
+4, 13-25
+
+[13] Winner, L. 1997. Cyberlibertarian myths and the prospect for
+community. ACM Computers and Society 27, 14-19.
+
+[8] Tavani, H.T. 2004. Ethical reflection on the digital divide.
+Journal of Information, Communication and Ethics in
+Society, 1, 2, 99-108.
+
+[15] Wlodkowski, R. and Ginsberg, M. 1995. Diversity and
+Motivation: Culturally Responsive Teaching, Jossey-Bass
+Punlishers, San Francisco, CA.
+
+[9] Ess, C. 2005. Lost in Translation? Intercultural dialogues on
+privacy and information ethics. Ethics and Information
+Technology, 7, 1, 1-6.
+
+[16] Omolade, B. 1987. A black feminist pedagogy. Women’s
+Studies Quarterly, 15, 3 & 4, 32-39.
+
+[10] Westin, A. 2003. Social and political dimensions of privacy.
+Journal of Social Issues, 59, 2, 431-453.
+[11] Capuroor, R. 2005 Privacy: An intercultural perspective.
+Ethics and Information Technology, 7, 1, 37-47.
+
+[14] Giroux, H. 1992. Border Crossings: Cultural Workers and
+the Politics of Education. Routledge and Kegan Paul, NY.
+
+[17] hooks, b. 1994. Teaching to transgress: Education as the
+practice of freedom. Routlege, NY.
+
+

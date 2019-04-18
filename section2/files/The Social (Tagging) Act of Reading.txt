@@ -1,0 +1,589 @@
+The Social (Tagging) Act of Reading
+
+
+
+Cheryl Knott Malone
+
+UA SIRLS
+
+1515 East First Street
+
+Tucson, AZ 85719
+
+1-520-621-3565
+
+ckmalone@u.arizona.edu
+
+
+
+ABSTRACT
+
+On Flickr, a Web-based service for managing and sharing digital images,
+reading and tagging come together in ways that reveal how people -- as
+individuals organizing their own photographs as well as making them
+available for discovery by others -- think about reading when they
+attempt to depict it in images and in words. In this pilot study of the
+tags assigned to a sample of 100 photographs tagged with the terms book
+and reading, only 80 of the 561 total tags were used more than once. The
+broad range of unique tags suggests an idiosyncratic approach to
+labeling that makes it difficult to draw conclusions about images of
+reading. Consequently, additional searches were conducted on Flickr and
+the results are reported and interpreted. The paper concludes with a
+discussion of proposed follow-up research.
+
+Topics
+
+	Cultural information systems
+
+	Information organization
+
+	
+
+Keywords
+
+reading, books, social tagging, Flickr, photographs
+
+INTRODUCTION
+
+Mitchell Stephens in The Rise of the Image, the Fall of the Word 
+describes three places -- a physician's waiting room, a child's bedroom,
+and a passenger jet -- and asks "What's missing from these pictures?"
+His answer: "Reading is now missing from countless scenes it once
+dominated: at kitchen tables, on buses and trains, in beds at night, on
+couches, even in some classrooms."  
+
+, p. 8] Reading of literature in particular is less present in American
+lives, according to a National Endowment for the Arts survey, which in
+2004 identified "an overall decline of 10 percentage points in literary
+readers from 1982 to 2002, representing a loss of 20 million potential
+readers." [6] At the same time, scholars of print culture have produced
+quantities of studies 
+
+of reading, both current and historical. The work on current reading
+practices often uses ethnographic methods to observe and interview
+readers while the historical studies draw on the customary sources of
+historians, archival and published texts, to reconstruct readers and
+their experiences.  Their work documents the political, social,
+individual, and cultural functions, uses, and meanings of reading in
+diverse circumstances and locales.
+
+Reading would at first glance seem to have nothing to do with
+collaborative or distributed tagging of information resources,
+especially images. Both are of interest to researchers and teachers of
+library and information science (LIS), albeit to different and probably
+not overlapping communities of interest, despite the fact that neither
+reading nor tagging is considered core to LIS paradigms or to the LIS
+curriculum [4], [9]. Print culture theorists understand reading as both
+a solitary and a social act. Similarly, social tagging of information
+resources has both individual and social aspects. One place where
+reading and tagging come together is Flickr, a Web-based service for
+managing and sharing digital images. Images tagged "reading" constitute
+a new body of documentation for print culture scholars, who typically
+have relied on the word to study the word, but they also offer a body of
+data for LIS researchers interested in understanding the phenomenon of
+collaborative indexing and what it can tell us about amateur or what
+Beghtol [1] has called "naïve" information resource description and
+organization. Corinne Jorgensen [4] has pointed out that there are now
+three ways to provide intellectual access to images: human-assigned
+controlled vocabulary terms, computer-generated indexing, and social (or
+distributed or collaborative) tagging. She suggests that social tagging
+may help reduce the "semantic gap" between human indexing with its
+interest in contextual meaning and automated indexing with its focus on
+describing the content and characteristics of the object represented in
+an image.
+
+On Flickr, reading and tagging come together in ways that reveal how
+people -- as individuals organizing their own photographs as well as
+making them available for discovery by others -- think about reading
+when they attempt to depict it in images and in words. How people
+conceptualize and represent reading in the early 21st century matters to
+students of print culture interested in the continuing and changing
+activities and behaviors associated with literacy and to students of
+information interested in the continuing and changing activities and
+behaviors associated with resource description for organization and
+retrieval. Consequently, this paper marks the beginning of a research
+project designed to uncover and analyze modern-day graphic and textual
+representations of reading in everyday life. The preliminary work
+reported here focuses on identifying what is depicted images labeled
+with the tags books and reading. This work will serve as a foundation
+for further research into the relationship between reading and tagging
+as social acts but also as an intellectual interaction characteristic of
+life in the Information Age.  
+
+METHODS
+
+Approximately 55 million photographs are on Flickr. [3] The number
+fluctuates as new photos are uploaded and as existing ones are removed.
+A simple keyword search of the full text of Flickr for reading yields
+more than 700,000 results (after deleting those where the keywords
+pennsylvania, penn, and pa also occur in an attempt to eliminate
+photographs of the city of Reading). When the search is limited to tags
+only, the result is almost 109,000. This pilot study used two methods to
+reduce the number of results for the purposes of this report. The search
+query included the words reading and book limited to tags only, bringing
+the total results to 11,213. A random sample of 100 of these results was
+selected for the study. The 100 photographs depicted a range of
+compositions including individuals and groups handling books, still-life
+compositions involving books with other objects such as coffee mugs and
+eyeglasses, shots of individual books both open and closed, and stacks
+or piles or shelves of books. The researcher viewed each of the 100
+images and their tags and recorded and tabulated the tags. 
+
+To address Mitchell Stephens's assertion about where reading occurs,
+additional searches were conducted using keywords such as train, bus,
+and airplane combined with book and limited to tags only.  The point is
+not to prove that books still have a place in the Information Age as
+evidenced by their robust representation on a photo-sharing site, but to
+explore what constitutes "reading" to the collective mind of Flickr
+image taggers and to elicit questions for further investigation.
+
+FINDINGS AND ANALYSIS
+
+Although this study is limited to images tagged with both reading and
+book, many other keywords related to the topic are assigned as tags on
+Flickr. Table 1 lists some of them and the number of records with those
+tags (as of 01/24/08), ranked by most to least common. The singular form
+book is the most commonly used tag, but it is not clear that every image
+tagged with the term is using that keyword to mean the printed codex.
+What is clear is that some photographs tagged with the term book do not
+depict a book at all but merely evoke the idea of a book, such as the
+image of a  young man looking down [2] or of a solitary bookmark [5].
+Not surprisingly, more specific tags, such as novel and hardcover are
+used less frequently than broader tags. 
+
+ 
+
+Table   SEQ Table \* ARABIC  1 . Reading-related keywords as Flickr tags
+
+Keyword	Occurrences
+
+Book	199,416
+
+Books	137,162
+
+Reading	108,553
+
+Read	13,755
+
+Novel	5,842
+
+Reader	3,806
+
+Paperback	2,999
+
+Novels	1,713
+
+Readers	1,597
+
+Hardcover	814
+
+Mybook	747
+
+Reads	654
+
+Mybooks	644
+
+Hardback	479
+
+Softcover	406
+
+Chapbook	233
+
+Chapbooks	22
+
+
+
+Although the 100 photos included in this study are not necessarily
+tagged with the keywords shown in Table 1, they nevertheless are useful
+because they were tagged with two of the most popular ones: book and
+reading. The number of unique tags beyond book and reading assigned to
+these 100 photographs totaled 559. Of the 561 total tags assigned to the
+100 photographs, only 80 were used more than once, as shown in Table 2. 
+
+The terms have not been grouped into categories, but some ways to do
+that are obvious. For example, it would make sense to combine the terms
+me, self, and self-portrait (which is a already a combination of
+self-portrait and selfportrait) into a single group 
+
+Table 2. Additional tags for photos tagged book and reading
+
+Tag	Occurrences
+
+Read	9
+
+Books	7
+
+Me	7
+
+self-portrait	6
+
+Coffee	5
+
+Girl	5
+
+Library	5
+
+People	5
+
+Art	4
+
+Café	4
+
+Christmas	4
+
+Glasses	4
+
+portrait	4
+
+Woman	4
+
+2005	3
+
+American tour	3
+
+Author	3
+
+baby 	3
+
+beautiful	3
+
+Bed	3
+
+Blue	3
+
+bookstore 	3
+
+Bouchercon 2007	3
+
+Country	3
+
+crime writer	3
+
+France	3
+
+Glacier	3
+
+Home	3
+
+literature	3
+
+Michael Jecks	3
+
+novelist	3
+
+Paris	3
+
+Red	3
+
+San Francisco	3
+
+School	3
+
+Signing	3
+
+View	3
+
+Writing	3
+
+365 days	2
+
+365days	2
+
+Architecture	2
+
+Beach	2
+
+Black	2
+
+Bookmark	2
+
+Bw	2
+
+bwPingu	2
+
+California	2
+
+Cat	2
+
+Days	2
+
+Display	2
+
+Dog	2
+
+Doll	2
+
+Eslite	2
+
+Eslitebooks	2
+
+Explore	2
+
+Family	2
+
+Felt	2
+
+Holiday	2
+
+Illustration	2
+
+India	2
+
+lady 	2
+
+Lesson	2
+
+Librarian	2
+
+Libro	2
+
+Livro	2
+
+Man	2
+
+Mom	2
+
+Nikon	2
+
+Peets	2
+
+Reader	2
+
+Self	2
+
+Shoes	2
+
+Sitting	2
+
+Statue	2
+
+Story	2
+
+Street	2
+
+Student	2
+
+Studying	2
+
+Sunset	2
+
+Taipei	2
+
+totaling 15 occurrences in the 561 tags used in the 100 photos. But the
+tag me, tied for second place with 7 occurrences, is interesting in and
+of itself.   
+
+It’s commonplace for library and information science (LIS)
+practitioners and researchers to assert that tags are akin to subject
+headings and indexing terms, but the tag me arose out of social tagging
+and not out of formal, expert controlled-vocabulary construction. For
+those of us with an LIS background, the tag me seems superfluous at best
+and downright nonsensical given its ambiguity and its seeming lack of
+utility for information retrieval. And, yet, it has its uses, however
+unexpected.  One Flickr user has written: “The ‘me’ tag is easily
+my favourite tag on Flickr, it shows the wide variety of different folks
+who post to Flickr, a wide variety of ages and genders, appearances and
+attitudes.” [8] Tagging a photo me may serve as the photographer’s
+way to take credit for their work without having to reveal their real
+name or other personal information.
+
+Table 2 does not indicate what’s most striking about the ways in which
+images related to reading are tagged because it does not list the 479
+tags assigned to only one of the 100 photos in the sample set.  These
+unique tags range alphabetically from A train to zig. Many of them are
+the first names of the individuals captured in the photographs. Others
+are the titles and authors of the books depicted.  As with the tags in
+Table 2, such as library and studying, some of these single-use terms
+seem highly correlated to the reading of books.  For example, the terms
+include literary festival and author event.  Other terms, such as the
+active sailing and the passive sleeping, seem incompatible with the act
+of reading. 
+
+The tags for the sample of 100 images do not quite address Mitchell
+Stephens’s assertion that it is rare to find people reading in public
+or private spaces. The sample set is small relative to the total number
+of images on Flickr. And people do not tag in a systematic manner
+requiring them to make sure every object shown in a photograph has a
+corresponding tag. But a search in all of Flickr combining the tag book
+with other tags representing a variety of settings did turn up some
+results worth considering, as seen in Table 3. 
+
+Beach emerged as the most frequent setting of the setting-related tags
+searched. It may be that people take books to the beach in greater
+numbers than to Starbucks. Perhaps they take newspapers to Starbucks
+instead. It could also be that people take books and digital cameras on
+the relatively rare and relaxed days when they visit the beach more
+often than they take both to Starbucks when they stop in on their way to
+work. In other words, each row in the table can only suggest some of the
+contexts in which books can be found. The table as a whole, however,
+provides us with a sense that some books coincide with some people’s
+eating, drinking, loafing, and traveling. 
+
+And with their shooting and sharing of photographs. 
+
+Table 3. Photos with book tag and a contextual tag
+
+Tags	Occurrences
+
+beach	1,436
+
+table	1,096
+
+coffee	992
+
+bed	929
+
+park	788
+
+train	594
+
+ kitchen	502
+
+café	495
+
+lunch	494
+
+hotel	452
+
+couch	439
+
+bedroom	357
+
+office	338
+
+Starbucks	201
+
+dinner	200
+
+bus	176
+
+pool	173
+
+breakfast	170
+
+metro	160
+
+subway	159
+
+airplane	158
+
+waiting	117
+
+coffeeshop	66
+
+
+
+FURTHER RESEARCH
+
+This preliminary study cannot offer definitive conclusions, but it can
+serve as the foundation for further research, especially because it can
+suggest additional questions to ask and methods to use.
+
+Here are some research questions that have occurred to me and that I
+plan to pursue as a result of this early work.
+
+What demographics are represented in photos depicting people and books?
+What proportion show different age groups, genders, ethnicities, and
+nationalities? What are the methodological issues involved in trying to
+interpret demographics from images when the accompanying tags do not
+provide any demographic indications?
+
+Which books are shown in photographs tagged with terms related to books
+and reading? Which authors are represented, which specific book titles,
+and which categories of books are shown and in what proportion? What
+impact does a media event such as the release of a Harry Potter book
+have on the number and type of photos published?
+
+How do the titles and captions and comments supplement or subvert the
+tags assigned to photos? How does the photostream and/or themed set in
+which the photo appears alter the viewer’s understanding of the photo?
+
+
+To what extent are photos of reading staged versus candid? To what
+extent is the book a prop? What is the function of the book as
+prop—for creating a particular self-image or for product (or author or
+bookstore or library) promotion or to evoke the centuries-old symbol of
+literacy or revolution or erudition? 
+
+The last set of questions will require surveying and/or interviewing
+photographers.  The remaining questions can be answered largely through
+the use of good data gathering and analytic methods.
+
+Flickr is a popular and successful social networking site and its
+features serve its users well. But the researcher needs different kinds
+of features and functions. The large number of unique tags assigned to
+photos, the lack of a highly developed search engine with full Boolean
+operations and truncation devices, and the absence of a controlled
+vocabulary of indexing terms hamper the researcher’s ability to
+retrieve a reliable and accurate set of results depicting reading.
+Consequently, the data-gathering and analysis methods used in subsequent
+work on this topic should include researcher-generated indexing terms
+for each image being studied. This approach would introduce much-needed
+consistency; for example, a photo of someone reading in the aisles at
+Borders and another of a reader sitting in a chair at Barnes & Noble
+would both be assigned a controlled-vocabulary term such as
+“bookstore.” This approach would also allow not only for greater
+consistency but also for comprehensiveness, at least for the
+researcher’s interests. For instance, a photo of a person sitting on
+the grass in a city park would probably never be tagged “public” but
+the researcher interested in making a distinction between reading in
+public and reading in private would find such a tag useful. 
+
+Finally, the researcher’s work should be grounded not only in the
+literature of social tagging but in the theory of the social uses of
+photography and in work on the intersection of print and digital
+culture.
+
+CONCLUSION
+
+The practices of sharing digital images and providing collaborative
+tagging to describe images have created an intriguing body of work that
+can be mined for information related to many topics, not least of which
+is the topic of books and reading in the era of digital information. But
+neither images nor their labels offer unambiguous evidence for the
+persistence of the printed codex, its relative presence in people’s
+lives, or the uses to which it is put. A preliminary look at a selection
+of digital photos tagged book and reading suggests that, with carefully
+crafted research methods, both image and word can be studied together to
+help us understand individual and social uses of reading, or perhaps
+more accurately, individual and social uses of representations of
+reading.  
+
+  
+
+REFERENCES
+
+Beghtol, C. 2003. Classification for information retrieval and
+classification for knowledge discovery: Relationships between
+"professional" and "naïve" classifications. Knowl. Organ. 30, 64-73. 
+
+Finraz. 2007. DSC_8547.jpg. DOI=
+http://www.Flickr.com/photos/finraz/1815754754
+
+Flickr. Creative Commons. DOI=(http://www.Flickr.com/creativecommons/)
+
+Jörgensen, C. 2007. Image access, the semantic gap, and social tagging
+as a paradigm shift. In Lussky, Joan, Ed., Proceedings 18th Workshop of
+the American Society for Information Science and Technology Special
+Interest Group in Classification Research, Milwaukee, WI.
+DOI=http://dlist.sir.arizona.edu/2064/. 
+
+MoonlitBeadery. 2008. Cobalt & Cranberry Baking Bookmark.
+DOI=http://www.flickr.com/photos/moonlitbeadery/2209086765/.
+
+National Endowment for the Arts. 8 July 2004. Literary reading in
+dramatic decline, according to National Endowment for the Arts Survey.
+DOI=http://www.nea.gov/news/news04/ReadingAtRisk.html.
+
+Stephens, M. (1998). The Rise of the Image, the Fall of the Word. Oxford
+University Press.
+
+striatic. 2004. Tagography ~ case studies. FlickrCentral/Discuss. DOI=
+http://www.Flickr.com/groups/central/discuss/2730/ .
+
+Wiegand, W.A. 1997. Out of sight, out of mind: Why don't we have any
+schools of library and reading studies? J. Educ. Libr. Inf. Sci. 38,
+314-326.
+
+ PAGE   
+

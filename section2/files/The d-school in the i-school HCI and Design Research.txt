@@ -1,0 +1,174 @@
+The d-school in the i-school: HCI and Design Research
+
+J.M. Carroll, S.R. Haynes, F. E. Ritter, M.B. Rosson, X. L. Zhang
+
+College of Information Sciences and Technology
+
+The Pennsylvania State University
+
+In the context of a campus-wide strategic planning process, we have been
+asked to frame the special role of Penn State's Center for
+Human-Computer Interaction (CHCI) within the College of Information
+Sciences and Technology (IST). Our response is that HCI should fulfill
+an important role as a focus for design research within our i-school. As
+support for this response we explore the following propositions:
+
+1. Design research and design science are essential to i-schools.
+
+2. HCI is historically, currently, and inherently a design science of
+the just right sort to contribute to i-schools.
+
+3. Other constituencies/subunits of i-schools (CS, IS, LIS, STS) are not
+design sciences, but benefit from organizational proximity of HCI design
+research.
+
+In this brief paper, we sketch the argument entailed by these
+propopsitions. Our objective is to better understand and articulate the
+role of HCI and design research in i-schools.
+
+Design research is essential to i-schools
+
+I-schools span the information disciplines to comprehensively address
+issues ranging from image processing to social policy. In this vast
+spectrum, design—defined here as materializing information to support
+human activity—is a fulcrum. One cannot talk about information
+processing, storage and retrieval, information behavior, the use of
+information in groups, organizations, or in society, or information
+economics, policy, and regulation without making strong and substantive
+assumptions about the specific ways that information can be presented to
+and manipulated by people. Indeed, whenever there is evolution in user
+interfaces and application services, other concepts and relations
+throughout information science must be rethought.
+
+There are perfectly coherent and time-tested information disciplines
+that eschew a central concern with design as we define it. The core of
+Computer Science (CS) is focused on information processing, storage and
+retrieval; presentation and manipulation of information by people, and
+the design process itself, are peripheral topics in CS. Library
+Information Science (LIS) has traditionally focused on information
+retrieval and information seeking at the individual level, while
+Information Systems (IS) has focused on organizational processes and the
+impacts of information access and use. But neither has focused on
+framing and implementing specific design strategies to ameliorate or
+enhance observed circumstances through transforming human-computer
+interactions.
+
+The broad vision of i-schools requires coordination of understanding
+information structures, needs, and impacts with the design of new
+human-computer interactions. Design and the artifacts that result from
+design activity represent an important class of boundary objects for
+knowledge and technology transfer between disciplines and between
+academe and industry/government. Designs integrate and reify theory and
+empirical knowledge into technologies that can be exchanged,
+implemented, and their effects assessed within different contexts and
+from different perspectives. Similarly, designs and artifacts help
+demonstrate the potential utility of research products.
+
+HCI is the right kind of design science
+
+Until the emergence of HCI during the 1980s, the roles for social,
+cognitive and behavioral science within technology development were few
+and marginal. The discipline of human factors, institutionalized within
+Industrial Engineering or Applied Psychology, emerged a generation
+before HCI, but it was most concerned with human performance and
+experience with existing technology tools and systems, and focused on
+artifacts with limited information content (e.g., stairs, furniture,
+physical tools). This evaluation role was often positioned too late in
+the system development process to have more than minor effects on the
+design of the technology or on the core applications of technology. 
+
+Science and Technology Studies (STS), institutionalized variously in
+philosophy and sociology; LIS, typically a standalone academic unit,
+some of which have developed into i-schools; Communication Studies, and
+IS, institutionalized in business schools; all have provided
+descriptions of how technology is utilized across a broad range of
+significant organizational and utilitarian contexts. Particularly in the
+case of STS, these were often rich analyses of how new technology is
+shaped by use, and how it reciprocally shapes human practices,
+relationships, and institutions. Such efforts contribute much to
+understanding the context of information technology design problems and
+solutions, but they are even more distant from the activities of system
+design and development than human factors efforts. And unfortunately
+technologists were largely unaware that these fields of interest even
+existed.
+
+In this context, HCI is quite novel. It has been most often
+institutionalized as an adjunct to, sometimes even within, Computer
+Science. Its research methods integrate the creation of new techniques,
+technology, and applications with iterative and formative evaluation of
+their immediate and indirect impacts on collective and individual human
+activity and experience. The close coordination of creating innovative
+technology and assessing its consequences for human activity has proven
+very successful, and has led to transformative applications–desktop
+user interfaces, the mouse and carefully engineered pointing devices,
+hypermedia online information, a variety of information visualizations,
+high quality synthetic speech, and levels of user control of software
+systems that were unimaginable two decades ago. 
+
+Indeed, a paradigm of innovation and application of interactive
+technologies cyclically coupled to improvisation and assessment in human
+activity has been incorporated into academic programs in geo-science,
+IS, CS, LIS, and i-schools, and is generally called HCI. However, this
+paradigm is not itself a discipline, and when it is incorporated into
+specific information technology disciplines and projects it is typically
+narrowed to the scope of that discipline or project. For example, HCI in
+CS most typically means research on software architectures or tools that
+enable new user interface techniques. We propose that only in i-schools
+can HCI operate with the appropriate scope to be effective as a design
+science (see also Carroll et al., 2006). 
+
+Other i-school constituencies benefit
+
+Incorporating HCI into i-schools yields many benefits for other i-school
+constituencies, while at the same time broadening and enriching HCI
+design research. Already the combination of HCI and LIS in i-schools has
+led to richer conceptions of human-centered design that encompass both
+the measurement orientation of HCI and the integration of information,
+organization, technology, policy, and culture of LIS. The interaction of
+HCI with community informatics has promoted design research that
+addresses new sorts of public access information systems, and has
+produced a more finely articulated view of people as the central factor
+in the interactions between people, information, and technology at
+different levels of social aggregation. 
+
+Traditional CS research considers underlying technologies but rarely
+addresses design in the sense of envisioning new tools and activities
+for people. Instead CS design efforts are more likely to lead to
+self-consistent functionality with unknown implications for people and
+their activity (e.g., a programming language), or perhaps to a
+proof-of-concept prototype application that demonstrates a plausible use
+of a novel technology or technique. Incorporating HCI expertise in such
+work ensures that the design of effective applications is a first-order
+concern, and helps to coordinate the development of new technologies
+with new measurement techniques they necessitate. 
+
+IS has an inherent orientation toward action science and affecting
+change, but generally has accomplished this through organizational
+interventions of training, management, and technology acquisition. The
+ability to design and implement new forms of human-computer interactions
+as part of IS interventions is a powerful enhancement. Other
+constituencies, like STS, that have traditionally played even more
+peripheral roles with respect to technology (e.g., focusing on impacts
+or critically deconstructing meanings) can participate in a more
+directive fashion when supported by colleagues who do this as a central
+element of their technical work. 
+
+Our construal of the role of HCI in i-schools — as an anchor for
+design research — has more general implications for how we think of
+i-school faculty groups. For example, at Penn State, we have often
+identified faculty groupings concerned with "people and technology",
+"people and information", or "information and technology". Not
+surprisingly, such distinctions do little to energize engagement across
+groupings. Perhaps differentiating faculty groups based on how they
+pursue research questions in the i-space (which is a nexus of
+information, technology and people), and equally important, how their
+methods and approaches can complement others would be more productive. 
+
+Reference
+
+Carroll, J.M. Dourish, P., Friedman, B., Kurosu, M., Olson, G.M. &
+Sutcliffe, A.G. 2006. Institutionalizing HCI: What do i-schools offer?
+Extended Abstracts of ACM CHI 2006: Conference on Human Factors of
+Computing Systems (April 22-27, Montreal). New York: ACM Press, pgs
+17-20.
+

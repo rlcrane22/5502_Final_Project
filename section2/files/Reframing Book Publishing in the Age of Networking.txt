@@ -1,0 +1,1421 @@
+Reframing Book Publishing in the Age of NetworkingJana Bradley, PhD
+
+University of Arizona
+
+1515 E First St
+
+Tucson, AZ 85717 
+
++1 (520) 621-3565
+
+janabrad@email.arizona.edu
+
+Heather Vokac, MLS
+
+University of Arizona
+
+1515 E First St
+
+Tucson, AZ 85717 
+
++1 (520) 621-3565
+
+vokach@email.arizona.edu
+
+ABSTRACT
+
+This paper presents preliminary results of an on-going examination of
+book publishing practices emerging through the complex interaction of
+technological, economic, and socio-cultural factors in the networking
+environment of the Internet. The theoretical framework guiding the study
+is a diachronic definition of book publishing proposed by Thomas R.
+Adams and Nicolas Barker in “A New Model for the Study of the Book,”
+first published in A Potency of Life: Books in Society, by the British
+Library in 1993. The Adams/Barker definition of publishing focuses on
+“the initial decision to multiply a text or image for
+distribution,”. In this paper, we propose what we intend as a friendly
+amendment to their definition: for our purposes, a book publisher is an
+individual or a collective that makes the initial decisions and
+arrangements for multiple copies of books to be publicly available for
+distribution. The methodology for this work was to study a purposive
+sample of book publishers found on the Internet that fit our
+definitional framework. Our final sample, which we call emerging
+publishers, is just under 300 publishers.  This sample was divided into
+three categories: Category I: Book Publishing Entities; Category II
+Author as Publisher and Category III Channels to Market. Each category
+is sub-divided, defined and described. Tables are included which show
+the publishers in each category. The paper concludes with observations
+across categories about format, shifts in publishers’ roles, standards
+of publishing practice, costs, and discovery, reception and reading and
+survival.
+
+ 
+
+Topics
+
+Community technologies and networking
+
+Cultural information systems
+
+Information technology and services
+
+Keywords
+
+Electronic publishing
+
+Publishing in the 21st Century
+
+Emerging Publishers
+
+Copyright and Disclaimer Information
+
+The copyright of this document remains with the authors and/or their
+institutions. By submitting their papers to the iSchools Conference 2008
+web site, the authors hereby grant a non-exclusive license for the
+iSchools to post and disseminate their papers on its web site and any
+other electronic media. Contact the authors directly for any use outside
+of downloading and referencing this paper. Neither the iSchools nor any
+of its associated universities endorse this work. The authors are solely
+responsible for their paper’s content. Our thanks to the Association
+for Computing Machinery for permission to adapt and use their template
+for the iSchools 2008 Conference. 
+
+INTRODUCTION
+
+This paper presents preliminary results of an on-going examination of
+book publishing practices emerging through the complex interaction of
+technological, economic, and socio-cultural factors in the networking
+environment of the Internet. The theoretical framework guiding the study
+is a diachronic definition of book publishing proposed by Thomas R.
+Adams and Nicolas Barker in “A New Model for the Study of the Book,”
+first published in “A Potency of Life: Books in Society, by the
+British Library in 1993 and reissued in 2001 in paperback by the British
+Library and Oak Knoll Press. They were interested in developing a
+definition that would accommodate changes in publishing practices from
+the manuscript book period to the present day. They comment that while
+the most familiar form of publishing is commercial, models of publishing
+that are not driven by profit have existed from the rise of the western
+manuscript book trade forward. They give as examples the publishing
+activities of governments, religious institutions, and individuals
+supported by patronage.
+
+The Adams/Barker definition of publishing focuses on “the initial
+decision to multiply a text or image for distribution,” (Adams/Barker,
+2001, p. 15), and identifies four roles involved in this decision:
+author, financier, manufacturer and distributor, which in any given
+period of time might be performed by distinct parties or might be done
+in any combination. The Adams/Barker model also depicts five events in
+the life of a book: publication, manufacture, distribution, reception
+and survival. These events are conceptualized as occurring within the
+context of what they call the socio-economic conjecture, including
+commercial pressures, intellectual, legal and religious influences, and
+the realms of social behavior and taste.
+
+A diachronic definition of publishing, i.e. a definition that is generic
+enough to encompass the study of book publishing as it changes over
+time, is ideally suited to an examination of the changes that are
+occurring in the patterns and practices with which books today come into
+being as objects, are made publicly available, are discovered by
+potential audiences, read or not read, and survive or do not survive. In
+this paper, we propose what we intend as a friendly amendment to
+Adams/Barker: for our purposes, a book publisher is an individual or a
+collective that makes the initial decisions and arrangements for
+multiple copies of books to be publicly available for distribution.
+
+It is worth noting that this definition, while we believe it gets at the
+essential activity underlying the diachronic practice of book
+publishing, does not require features of the publishing practices we
+know best from the twentieth century, such as commercial mainstream
+publishing companies with large financial investment for manufacture,
+tight gate keeping of published material, a body of book writing and
+publishing expertise interpreted and enforced by editors and publishers,
+consolidated distribution, and above all, print format. All these
+features certainly still exist in publishing, and arguably, still
+dominate, but by using a definition that does not require these
+features, we can not only see continuity with publishing from the
+manuscript book forward, but we are more likely to see changes that are
+emerging in the technological, economic and socio-cultural world of
+networking as currently instantiated on the Internet. In addition to
+their diachronic definition of book publishing, the theoretical context
+of Adams and Barker’s work, including the identification of
+historically shifting roles and the socio-economic conjecture in which
+they situate the activities and technologies that comprise the events in
+the lives of books, shapes our thinking in this study.
+
+The focus of this study is book publishing, although the diachronic
+definition of publishing above can be applied to other types of content.
+For our purposes, we have defined a book loosely as any publication of
+monographic length with a sustained narrative or argument, either
+textual or visual or in combination, and some familial relationship to
+the genre we know as the printed book, including some combination
+author, chapters, tables of contents, ISBN number and other
+resemblances.
+
+METHODOLOGY
+
+The methodology for this work was to study a purposive sample of book
+publishers that fit our definitional framework, continuing to search
+until we were not retrieving examples that seemed new in significant
+ways. Our final sample, which we call emerging publishers, is just under
+300 publishers. Given the enormity and constantly changing nature of the
+Internet, this is obviously not a complete universe. We also chose not
+to examine print publishers who did not use themselves use the Internet
+for distribution and sales of books, although many of these
+publishers’ works are available through the distributors and
+aggregators that were included. The ways that digital technologies are
+changing traditional print publishing practices, excluding electronic
+books, have been documented thoroughly by John Thompson in Books in the
+Digital Age (2005). Those traditional publishers who are experimenting
+with the emerging publishing environment on the Internet are represented
+well in our sample.
+
+CATEGORICAL ANALYSIS
+
+Our goal was to organize our sample around categories whose
+characteristics call attention to key differences among our publishers
+and their activities. The categories were not intended to be mutually
+exclusive but to highlight both shared characteristics and some
+different patterns within categories. After much experimentation, we
+identified three types of publishing agent, two who make the initial
+decision and arrangements to publish, and a third category used by both
+types of primary publishers for publishing arrangements. The first
+category, book publishing entities, was defined as entities (or
+individuals functioning as entities) who make initial decisions to make
+books from multiple authors publicly available. The second category,
+authors as publishers, was defined as authors themselves making the
+initial decision to publish their own work. The third category was
+defined as groups that assist publishers of both types with a
+combination of publishing roles. This group was labeled “channels to
+market,” following increasingly common usage among sites studied.
+Categories were then subdivided, again along common characteristics. The
+intention is not to make a rigid classification scheme, but to highlight
+distinctions in a systematic way.
+
+ Table I: Categories of Emerging  Publishers
+
+Our descriptions of these categories in the text below follow roughly
+the same pattern: a label and definition that attempts to capture
+defining feature of each category; a description of common
+characteristics; and then a brief discussion of a handful of examples
+that illustrate either characteristic or distinctive features within a
+category. Tables accompanying each discussion show the publishers in
+each category. At the end of the descriptions of categories, we bring
+together some observations about shifts in book publication practices
+resulting from the analysis of the sample across categories.
+
+Category I: book publishing entities:
+
+This category comprises entities who make the initial decisions for
+making multiple copies of books from multiple authors publicly
+available. Most of these entities appear to be commercial, for-profit
+companies.
+
+It is useful to think of these publishers in two groups: (I.1) those
+whose primary production of books is print and who then may make
+decisions to distribute electronically; and (I-2) those whose primary
+production of books is electronic and who then may make decisions to
+distribute in print POD format; 
+
+Publishers of Born-Print E-Books: The key characteristic highlighted by
+this category is the electronic offering of books that first appeared in
+print. Our sample includes fifteen print publishers with substantial
+electronic distribution announced on their sites, by no means all that
+exist but enough of a variety to show some common characteristics and
+some different arrangements. As with born-print e-journals, born print
+e-books bring with them all the standard value-added services of a print
+publisher; they are simply distributed electronically. Format of
+distribution and availability, along with related changes in discovery
+mechanisms, are features distinguishing this category of electronic
+publisher. In other respects, they follow commercial print publishers
+publishing practices, including the acquisition and preparation of
+manuscripts and the compensation of authors. Having said that, it is
+highly likely that the pressures and competition of the emerging
+publishers discussed below will over time change more print publishing
+practices, as it is clearly influencing distribution and marketing now.
+
+Simon and Schuster E-Books serves as an example for this category:  
+HYPERLINK "http://www.simonsays.com/content/index.cfm?pid=523087&tab=6" 
+http://www.simonsays.com/content/index.cfm?pid=523087&tab=6 . It is a
+section of the Simon and Shuster website; it shows covers, blurbs, and
+publication information, and available formats. At present, Simon and
+Schuster e-books are downloadable in Adobe, Microsoft and Palm e-book
+formats. eHarlequin.com eBook Boutique,   HYPERLINK
+"http://ebooks.eharlequin.com"  http://ebooks.eharlequin.com , and
+ePenquin,   HYPERLINK "http://www.penguin.co.uk/" 
+http://www.penguin.co.uk/ , follow a similar pattern.
+
+Several other models can be seen within this group. Norton eBooks.com,
+http://www.nortonebooks.com/welcome.asp , offers two options for
+electronic books: reading for a year online, purchased through Norton,
+or downloading through   HYPERLINK "http://powells.com/" \t "_blank" 
+Powells.com , a vendor of e-books in Adobe, Microsoft and Palm as well
+as new and used traditional print books.  Cambridge University Press has
+a site, Cambridge eBookstore, which serves as a catalog of Cambridge
+University Press eBook offerings. Purchase and download of e-books is
+handled through a distributor, eBooks.com. Hachette Book Group USA,  for
+book publishers owned by Hachette,   HYPERLINK
+"http://www.hachettebookgroupusa.com/" 
+http://www.hachettebookgroupusa.com/ , serves as a “union catalog”
+for its publishers. A “Where to Buy” link has extensive lists of
+booksellers’ websites, audio book vendors and online retailers.
+
+Table II provides a list of publishers of born-print e-books from our
+sample.
+
+Table II:  Publishers of Born-Print E-Books
+
+Cambridge University Press eBookstore
+http://www.cambridge.org/ebookstore 
+
+Del Rey online http://www.randomhouse.com/delrey/ebooks 
+
+eHarlequin.com eBook Botique http://ebooks.eharlequin.com 
+
+ePenguin http://tinyurl.com/2h92o3 
+
+Franklin.com http://www.franklin.com/about/profile.asp 
+
+Hachette Book Group, USA http://www.hachettebookgroupusa.com
+
+The Hindu eBooks http://www.thehinduebooks.com 
+
+Imagine eBooks http://imagine-ebooks.com 
+
+MTB Europe http://www.mtbeurope.info/books/ebooks.htm
+
+Mythic Island Press   HYPERLINK "http://www.mythicisland.com" 
+http://www.mythicisland.com  
+
+NortonEbooks.com http://www.nortonebooks.com/welcome.asp 
+
+Simon & Schuster
+http://www.simonsays.com/content/index.cfm?pid=523087&tab=6 
+
+Tanner Ritchie Publishing http://www.tannerritchie.com 
+
+Taylor & Francis eBookstore   HYPERLINK
+"http://www.ebookstore.tandf.co.uk/html/index.asp" 
+http://www.ebookstore.tandf.co.uk/html/index.asp 
+
+White Wolf http://www.white-wolf.com
+
+
+
+Publishers of Born-Digital E-Books: This category features publishers of
+electronic books that have not been preceded by print books, in other
+words, born-digital e-books. We found over 90 examples of publishers
+that fit this definition. In general, many patterns and practices of
+these publishers resemble those of print publishers. These publishers
+make editorial decisions in determining which manuscripts to select,
+either from open submission or by invitation; they do not charge authors
+any fees for publishing; they have contracts specifying royalties and
+rights; they provide the typical value-added services of print
+publishers including arranging for the publishing infrastructure,
+financial underwriting, quality control editorial and design services,
+and marketing through their website, acting like an online bookstore or
+catalog. 
+
+Publishers in this category distributed multiple copies of original work
+made publicly available for the first time primarily through a variety
+of electronic means, in a variety of formats for viewing on the
+consumer’s computer or on a variety of viewing devices, with a variety
+of controls over use. A brief discussion of e-book formats, reading
+devices and digital rights management (DRM) is necessary here, but will
+inevitably be out of date quickly, since the volatile and rapidly
+changing market is conditioned by multiple business arrangements among
+publishers, channels to market, and device manufacturers. An industry
+standard has yet to emerge, and some argue that the difficulty of
+choosing formats and actually downloading to devices, rather than an
+aversion to reading on screens or a predilection for the print book as
+an object, has prevented an explosion of consumer preference for
+electronic over print. In December 2005, Michael Hyatt, CEO and
+publisher of Thomas Nelson Publishers, in a blog posting titled “The
+Death of the Traditional Book,” popularized the now oft-repeated
+phrase, “one device away” from a digital book revolution. Some have
+suggested that Amazon’s Kindle, discussed below, is, if not the one
+device that will revolutionize digital books, at least a harbinger of
+that device. 
+
+The overview of e-book formats and devices from Fictionwise (discussed
+below under the category of channels to market,
+http://www.fictionwise.com/help/help.htm), is reproduced below as an
+indicator of the variety of formats and devices now available:
+
+Sony Reader (Sony Reader PRS-500 and PRS-505 [.lrf]) 
+
+Kindle (Kindle [.mobi]) 
+
+Personal Computers (Microsoft Reader [.lit], Adobe Acrobat [.pdf],
+Mobipocket [.prc]) 
+
+Palm OS Handhelds (Palm Doc [.pdb], iSilo [-is.pdb], Mobipocket) 
+
+Pocket PC Handhelds (Microsoft Reader [.lit], Mobipocket [.prc]) 
+
+Win CE Handhelds (Palm Doc [.pdb], Mobipocket [.prc]) 
+
+Rocket/Reb1100 Devices (rocket files only [.rb]) 
+
+Franklin eBookMan (Mobipocket, eBookMan files [.fub]) 
+
+Hiebook (Hiebook [.kml]) 
+
+Symbian OS Organizers and Smartphones (Mobipocket [.prc]) 
+
+Other Devices (many can read Palm Doc)
+
+Fictionwise describes their electronic offerings as either multi-format
+or secure format The key difference here is encryption or digital rights
+management. The Fictionwise discussion of this difference ((  HYPERLINK
+"http://www.fictionwise.com/help/ebook-formats-FAQ.htm#difference)" 
+http://www.fictionwise.com/help/ebook-formats-FAQ.htm#difference) .) is
+an excellent introduction to devices, formats and digital rights
+management, and their FAQ offers some insight into the business
+decisions that shape the conditions of availability.
+
+Many of these publishers also offered POD print versions, either at
+their discretion depending on sales, or less frequently, at the
+author’s choice. It is common for these publishers to use third
+parties for both manufacture and simultaneous distribution of print
+copies. Most books have ISBN numbers. In general, most of these
+publishers do not pay advances but royalty percentages could be larger
+than print percentages, keeping in mind that costs per copy was often
+less than print.
+
+Although many publishing practices of these emerging publishers are
+similar to patterns from commercial print publishing, it is important to
+recognize ways in which these emerging publishers are pushing the
+traditional boundaries of publishing established in the print world.
+Content is one of the most obvious differences. Fiction, and
+particularly romance and other genre fiction, dominated our sample,
+although non-fiction was available. Imprints, or series with specific
+characteristics, are frequently used to direct niche audiences to their
+work. The categorical lists which comprise the primary subject finding
+tool for all categories of publishers show some categories that arguably
+have not been well represented across print publishing, such as erotica,
+dark fantasy, and others.
+
+Lower entry costs for these publishers, compared to traditional print
+publishing, may account for the flourishing of niche publishing,
+publishers and imprints within publishers that are targeted to specific,
+and frequently non-mainstream, audiences. 
+
+Double Dragon Publishing,   HYPERLINK
+"http://www.double-dragon-ebooks.com/index.php" 
+http://www.double-dragon-ebooks.com/index.php , is an example chosen for
+this category. Founded in 2001, it is primarily an e-book publisher,
+although it chooses some titles for POD print distribution through
+lulu.com, especially in large print versions. It provides 30% royalties
+paid on a 6-month cycle; it buys electronic rights and copyright is
+retained by author or institution. It does not charge fees to authors.
+According to their website, 90% of their sales come from Science
+Fiction, Fantasy, Horror and Speculative Fiction.” In 2004, they
+opened a romance line. Services provided to authors include editing
+services, cover and banner design, free copies for use in promotion, and
+an authors-only forum. In addition to a long list of genre fiction, they
+have more than 10 titles in the non-fiction category and also in the
+self-help category. They provide e-books in the following formats:
+Rocket-eBook, Hiebook, Adobe PDF, MS-Reader, Mobipocket, iSilo, Franklin
+eBookMan, and Palm Doc, and the website assures readers that they will
+keep up with new technologies.
+
+New Concepts Publishing,   HYPERLINK
+"http://www.newconceptspublishing.com/authorfaqs.htm" 
+http://www.newconceptspublishing.com/authorfaqs.htm , another example,
+was the first totally electronic romance publishing house. Like most
+other examples in this category, NCP assigns ISNB numbers, pays
+royalties (30%-40%), provides cover art, and buys exclusive electronic
+rights for a specified amount of time. NCP decides, based on interest
+and sales, whether a title will be printed as a POD or trade paperback.
+E-books are provided in RTF, HTML, MS Reader, MobiPocket, and PDF.
+
+Writer’s Exchange E-Publishing differs from the two examples above in
+that authors have the option of paying set-up print fees and having the
+book appear in print as well as electronically. Writer’s Exchange
+publishes e-books which they distribute through their online store,
+Reader’s Eden. They also distribute electronic books by other authors.
+
+Awe-Struck E-Books, http://www.awe-struck.net/, publishes genre fiction
+and provides an example of niche publishing with their Ennoble imprint,
+claiming to be unique in featuring heroes and heroines with
+disabilities.
+
+Table III provides an incomplete list of publishers of born-digital
+e-books in our sample. Please email authors for complete list.
+
+Table III: Publishers of Born-Digital E-Books
+
+Alt-X Ebooks http://www.altx.com/ebooks/altx_frame.html
+
+Amber Quill Press (Also Amber Heat and Amber Allure imprints)
+http://www.amberquill.com
+
+Amira Press http://www.amirapress.com 
+
+Aphrodite's Apples http://www.aphroditesapples.com 
+
+Arch eBooks http://www.archebooks.com 
+
+Artemis Press http://www.artemispress.com/html/e-bookstore.html
+
+Asylett Press http://www.asylett.com 
+
+Atlantic Bridge *includes nonfiction   HYPERLINK
+"http://www.atlanticbridge.net"  http://www.atlanticbridge.net 
+
+Awe-struck ebooks http://www.awe-struck.net 
+
+Baen Books http://www.baen.com
+
+BellaOnline http://www.bellaonline.com/ebooks 
+
+Belgrave House http://www.belgravehouse.com 
+
+Best Buy Ebooks (only two authors, Print through lulu)
+http://store.buy-best-ebooks.com 
+
+Books for a Buck http://www.booksforabuck.com 
+
+Books Unbound http://www.booksunbound.com
+
+BookShaker *nonfiction only http://www.bookshaker.com/index.php 
+
+Bosun Books http://www.cmonline.com/boson
+
+Bowbridge Publishing http://www.bowbridgepublishing.com 
+
+Carnal Desires Publishing http://www.carnaldesirespublishing.com 
+
+Champagne Books http://www.champagnebooks.com 
+
+Changeling Press Erotic Fiction http://www.changelingpress.com 
+
+Chippewa Publishing LLC http://www.chippewapublishing.com 
+
+Cobblestone Press http://www.cobblestone-press.com 
+
+Computer Classics http://www.computer-classics.com 
+
+Connexions *nonfiction   HYPERLINK "http://cnx.org/lenses/cnxorg/books"
+http://cnx.org/lenses/cnxorg/books  
+
+Creative Guy Publishing http://www.creativeguypublishing.com 
+
+Cybereditions *nonfiction   HYPERLINK "http://cybereditions.com/"
+http://cybereditions.com  
+
+Dark Eden Press http://www.darkedenpress.com 
+
+Derlinger's Publishers *includes nonfiction http://www.thebookden.com
+
+DiscoverABook.com http://www.discoverabook.com 
+
+DiskUs Publishing http://www.diskuspublishing.com
+
+DLSIJ Press *includes nonfiction http://dlsijpress.com
+
+Double Dragon Publishing http://www.double-dragon-ebooks.com
+
+Dpdotcom.com http://www.dpdotcom.com 
+
+Dragonfly Publishing http://www.dragonflypubs.com 
+
+Drollerie Press http://www.drolleriepress.com 
+
+Eastgate http://www.eastgate.com 
+
+Ebooksonthe.net http://www.ebooksonthe.net 
+
+Ebooks on Disk http://www.ebooksondisk.com/index.php 
+
+Ebooksonthe.net *also sells previously published  books
+http://www.ebooksonthe.net 
+
+Incomplete list. Please email authors for complete list.
+
+Category II: author as publisher:  
+
+The second category highlights the author acting as publisher:  the
+person who makes the initial decisions and arrangements to make multiple
+copies available for public distribution. Digital technologies have
+opened many new avenues for authors to create books and make them
+publicly available, and authors are using them in great numbers. To
+provide an overview of the burgeoning world of authors as publishers, we
+have organized these efforts in three sub-categories. These categories,
+even more than the ones introduced previously, are an oversimplification
+of the great variety that exists in these efforts, but they have the
+virtue of bringing some order to an examination of this phenomenon. The
+three categories examined here are authors using fee-based commercial
+services, authors using automated websites designed for uploading books,
+and authors providing their own web infrastructure for making their work
+available, and sometimes sharing their space with other authors.
+
+Authors using fee-based publishing services
+
+Adams and Barker point out that authors arranging for the publishing of
+their own work, often with the assistance of patronage, has a long
+history. In the twentieth century, author-financed publishing carried
+the pejorative title of vanity publishing, with the implied assumption
+that if authors were any good, they would not have to finance the
+publication of their own works. Authors who arranged for the manufacture
+of their own printed books faced major obstacles in distributing them.
+In the pre-Internet print book world, distribution of books was in the
+hands of a few wholesalers, who supplied retailers, libraries and
+schools. Amazon pioneered the “channel to market” approach on the
+Internet, providing for the discovery, distribution and sales of print
+titles, soon expanded to media and other commodities, and thus breaking
+up the distribution bottleneck. 
+
+In early January, 2008, the Associated Press distributed an article by
+Candace Choi, “Got a Manuscript? Publishing Now a Snap,”
+highlighting the skyrocketing use by authors of fee-based commercial
+publishing services. Our searching identified over fifty of these
+services, of which Lulu.com, Amazon’s CreateSpace, and Blurb.com were
+featured by Choi. The basic idea behind these services is that authors
+can purchase publishing infrastructure, manufacturing, distribution and
+marketing services previously provided for free by print publishers for
+their selected authors, shifting both the decision to publish and the
+financial burden to the author, but giving them opportunities to reach
+audiences previously dominated by commercial companies. While the main
+thrust of most services is to provide print books, many provide
+electronic distribution as well. Two examples of fee-based publishing
+services will be discussed: iUniverse and Amazon’s CreateSpace.
+
+ iUniverse is a useful example to describe briefly because they have
+organized their services into packages, ranging from under $400 to under
+$1400, with add-ons in all categories. The most inexpensive option is
+most like traditional vanity publishing of the past, providing the
+author with professionally manufactured POD print copies for family and
+friends, with the added limited distribution mechanism of availability
+through the iUniverse book store. Increasingly expensive options provide
+more professional quality and services, and increasingly wide retail
+availability through channels to market, such as Barnes and Noble.com,
+Amazon and many others. The high-end services provide the essentials of
+commercial print publishing, including marketing efforts such as the
+distribution of review copies. 
+
+Amazon’s CreateSpace calls itself “on demand” publishing. They
+manufacture and sell physical objects, including POD books, audio books,
+audio CDs, video CDs and other products one at a time, as ordered. The
+price is set by the author and royalties are paid to the author as they
+are generated by sales. The author or creator is entirely responsible
+for the content which is uploaded to CreateSpace for production.
+CreateSpace products are sold via Amazon.
+
+While theoretically the consumer can identify a self-published book by
+recognizing the publisher, the increasing number of these services, plus
+the increasing mix on channel to market sites of commercial publishers,
+traditionally printed books, and emerging publishers of POD books and
+electronic books of many varieties means that in practice, the
+distinction between commercial publication and author-subsidized
+publication is increasingly blurred. 
+
+Table IV provides a list of the fee-based publishing services in our
+sample.
+
+Table IV: Fee-Based Publishing Services
+
+Antony Rowe Ltd.   HYPERLINK "http://www.antonyrowe.co.uk/"
+http://www.antonyrowe.co.uk   
+
+AuthorHouse   HYPERLINK "http://www.authorhouse.com/"
+http://www.authorhouse.com  
+
+Authors Online   HYPERLINK "http://www.authorsonline.co.uk/"
+http://www.authorsonline.co.uk  
+
+Aventine Press   HYPERLINK "http://www.aventinepress.com/"
+http://www.aventinepress.com  
+
+Blitz Print   HYPERLINK
+"http://www.blitzprint.com/index.htm?aim=c01k002g"
+http://www.blitzprint.com/index.htm?aim=c01k002g  
+
+Booklocker http://www.booklocker.com 
+
+Bookstand Publishing   HYPERLINK "http://www.ebookstand.com/"
+http://www.ebookstand.com  
+
+Booksurge http://www.booksurge.com 
+
+CafePress http://www.cafepress.com/cp/info/sell/products/books 
+
+Cheap eBooks *eBook POD http://www.cheapebookshop.com 
+
+CreateSpace
+
+Dog Ear Publishing   HYPERLINK
+"http://www.dogearpublishing.net/getstarted.aspx"
+http://www.dogearpublishing.net/getstarted.aspx  
+
+Ebookomatic (operates more like a POD but produces ebooks only)
+http://www.ebookomatic.com
+
+EbooksLib *also multilingual, also distributor http://www.ebookslib.com 
+
+Equilibrium Books   HYPERLINK "http://www.equilibriumbooks.com/"
+http://www.equilibriumbooks.com  
+
+First Choice Books   HYPERLINK "http://www.firstchoicebooks.ca/"
+http://www.firstchoicebooks.ca  
+
+Foremost Press   HYPERLINK "http://www.foremostpress.com/authors"
+http://www.foremostpress.com/authors  
+
+Fultus Publishing   HYPERLINK "http://www.fultus.com/"
+http://www.fultus.com  
+
+GASLight Publishing (traditional and subsidy pub)
+http://gaslightpublishing.net 
+
+GLB Literary Corner *includes nonfiction http://www.glbpubs.com
+
+Golden Pillar Publishing   HYPERLINK
+"http://www.goldenpillarpublishing.com/"
+http://www.goldenpillarpublishing.com  
+
+Ilumina Press   HYPERLINK "http://www.llumina.com/"
+http://www.llumina.com  
+
+Infinity Publishing   HYPERLINK "http://www.infinitypublishing.com/"
+http://www.infinitypublishing.com  
+
+Inkwater Press   HYPERLINK "http://www.inkwaterpress.com/"
+http://www.inkwaterpress.com  
+
+Instabook Publisher   HYPERLINK
+"http://www.instabookpublisher.com/files/faq.htm"
+http://www.instabookpublisher.com/files/faq.htm  
+
+iUniverse http://www.iuniverse.com
+
+Ka-Blam   HYPERLINK "http://www.ka-blam.com/" http://www.ka-blam.com  
+
+Keystone Digital Press   HYPERLINK
+"http://www.greenepublicationsinc.com/"
+http://www.greenepublicationsinc.com  
+
+Lightning Source   HYPERLINK "https://www.lightningsource.com/"
+https://www.lightningsource.com  
+
+Lulu.com http://www.lulu.com
+
+Net Publications Inc.   HYPERLINK
+"http://www.netpub.net/newservices/pubserv.asp"
+http://www.netpub.net/newservices/pubserv.asp  
+
+Outskirts Press   HYPERLINK "http://www.outskirtspress.com/"
+http://www.outskirtspress.com  
+
+Page Free Publishing   HYPERLINK "http://www.pagefreepublishing.com/"
+http://www.pagefreepublishing.com  
+
+Pleasant World – Christian Print on Demand Self Publishing   HYPERLINK
+"http://www.pleasantword.com/Default.asp"
+http://www.pleasantword.com/Default.asp  
+
+Poseidon Books   HYPERLINK "http://www.poseidonbooks.com/"
+http://www.poseidonbooks.com  
+
+Private Ice Publications   HYPERLINK "http://www.skatefic.com" 
+http://www.skatefic.com  
+
+Publish America   HYPERLINK "http://publishamerica.com/"
+http://publishamerica.com  
+
+Publishers Row *fee based epub http://www.publishersrow.com 
+
+Star Publish, LLC http://starpublish.com 
+
+Tate Publishing   HYPERLINK "http://www.tatepublishing.com/"
+http://www.tatepublishing.com  
+
+Trafford Publishing   HYPERLINK "http://www.trafford.com/"
+http://www.trafford.com  
+
+U-Publish   HYPERLINK "http://www.u-publish.com/testbook.htm"
+http://www.u-publish.com/testbook.htm  
+
+Universal Publishers   HYPERLINK "http://www.universal-publishers.com/"
+http://www.universal-publishers.com  
+
+Unlimited Publishing   HYPERLINK "http://www.unlimitedpublishing.com/"
+http://www.unlimitedpublishing.com  
+
+Virtual Bookworm http://www.virtualbookworm.com 
+
+Wheatmark   HYPERLINK "http://www.wheatmark.com/"
+http://www.wheatmark.com  
+
+Wing Span Press   HYPERLINK "http://www.wingspanpress.com/"
+http://www.wingspanpress.com  
+
+Writers Print Shop   HYPERLINK
+"http://www.writersservices.com/wps/index.htm"
+http://www.writersservices.com/wps/index.htm  
+
+Writersworld   HYPERLINK "http://writersworld.co.uk/"
+http://writersworld.co.uk  
+
+Xargol *Hebrew and English   HYPERLINK
+"http://www.xargol.com/index.php?cat=2&name=o_fiction" 
+http://www.xargol.com/index.php?cat=2&name=o_fiction  
+
+xLibris   HYPERLINK "http://www2.xlibris.com/pubservices/index.asp"
+http://www2.xlibris.com/pubservices/index.asp 
+
+Xulon Press   HYPERLINK "http://www.xulonpress.com/"
+http://www.xulonpress.com  
+
+
+
+Authors using automated websites to upload books
+
+This category illustrates automated sites that exist solely to provide
+mechanics for authors to upload and share their work, free for the
+author and free for the reader. Our sample includes sixteen of these
+sites. Mechanics, conditions, registration, and membership all differ.
+Although sites vary, many have a high proportione of uncompleted or
+abandoned work. Four examples will be highlighted: FictionCentral.net,
+NaNoWriMo, Writing.com and Buried.com.
+
+FictionCentral.net,   HYPERLINK
+"http://www.fictioncentral.net/index.php" 
+http://www.fictioncentral.net/index.php , describes itself as a “place
+to write and read original fiction stories.” Authors need to register;
+readers are encouraged to register and are requested to leave a review
+of what they have read. Works can be posted chapter by chapter, and a
+notation indicates when it is completed. The site administrators have
+articulated rules for writing and reviewing, including a system of
+ratings and warnings, including the requirement to rate material as 12+
+for people over 12, and the notation of SLASH for material including
+single-sex pairings, and courtesy rules such as no rudeness or swearing.
+
+
+NaNoWriMo,   HYPERLINK "http://www.nanowrimo.org/" 
+http://www.nanowrimo.org/ , is an engagingly original attempt to
+encourage people to jump in and write a novel. In November, registrants
+have one month to complete a 50,000 word novel. The NaNoWriMo website
+says “It’s all about quantity not quality.” Unlike many other
+sites to upload work, the author’s work on NaNoWriMo work remains
+private unless the author posts excerpts or shares with others. At the
+end of the month, an author’s word count can be verified and if it
+exceeds 50,000, the author is listed as a winner.
+
+Writing.com, http://www.writing.com/, describes itself as “the online
+community for writers and readers of all interests and skill levels.”
+It requires registration, in which the registrant provides a username
+that will be used as his/her online identity, and required personal
+information for the site administrators. Many features include space for
+authors’ writing profiles and many interactive community venues.
+
+Buried.com is an example of a site containing content around a theme, in
+this case, “everything that is horror…,” and includes mechanisms
+for authors to upload their own writing, again in this case horror
+fiction.
+
+Table V lists the automated publishing websites in our sample.
+
+Table V: Automated Publishing Websites
+
+ABC Tales   HYPERLINK "http://www.abctales.com"  http://www.abctales.com
+ 
+
+Afterglare   HYPERLINK "http://afterglare.com/browse.php?type=titles" 
+http://afterglare.com/browse.php?type=titles   
+
+Badosa   HYPERLINK "http://www.badosa.com"  http://www.badosa.com  
+
+eStories *German, English, Spanish, Dutch, French, Italian, Portuguese  
+HYPERLINK "http://www.e-stories.de"  http://www.e-stories.de   
+
+Fanstory.com   HYPERLINK "http://www.fanstory.com" 
+http://www.fanstory.com    
+
+FictionCentral   HYPERLINK "http://www.fictioncentral.net" 
+http://www.fictioncentral.net   
+
+Fiction Press   HYPERLINK "http://www.fictionpress.com" 
+http://www.fictionpress.com  
+
+FicWad   HYPERLINK "http://www.ficwad.com"  http://www.ficwad.com  
+
+NaNoWriMo   HYPERLINK "http://www.nanowrimo.org/" 
+http://www.nanowrimo.org/  
+
+NoviceWriters   HYPERLINK "http://www.novicewriters.net/index.html" 
+http://www.novicewriters.net/index.html   
+
+Shur’tugal   HYPERLINK
+"http://fanfiction.shurtugal.com/categories.php?catid=12" 
+http://fanfiction.shurtugal.com/categories.php?catid=12    
+
+Slash Cotillion   HYPERLINK "http://cotillion.slashcity.org" 
+http://cotillion.slashcity.org    
+
+UseNet (Google Groups)   HYPERLINK "http://groups.google.com" 
+http://groups.google.com     
+
+Writing.com   HYPERLINK "http://www.writing.com"  http://www.writing.com
+   
+
+Buried.com   HYPERLINK "http://www.buried.com/features/novels.shtml" 
+http://www.buried.com/features/novels.shtml  
+
+Cosmos Magazine Fiction Serials   HYPERLINK
+"http://www.cosmosmagazine.com/fiction/online/serials"
+http://www.cosmosmagazine.com/fiction/online/serials 
+
+Authors creating their own infrastructure to publish their work
+
+The relative ease of website construction has enabled numerous authors
+to create sites as venues for their own work. Some sites exist solely
+for the author’s content, with some or all items free to consumers,
+and some sites exist primarily for the author’s work but accept works
+from other writers, again with variation in fee or free. Since a great
+deal of variety exists here, those interested should explore the lists
+of sites created and controlled by authors in Table VI.
+
+Table VI: Websites Created and Controlled by Authors
+
+Single-author only
+
+Anisky’s Abode   HYPERLINK
+"http://www.geocities.com/melsstories/index.html" 
+http://www.geocities.com/melsstories/index.html    
+
+Back in School: A Love Story   HYPERLINK
+"http://www.alovestory.net/92.html"  http://www.alovestory.net/92.html  
+
+
+Backpacking on Little Money 	  HYPERLINK
+"http://backpackingonlittlemoney.wordpress.com" 
+http://backpackingonlittlemoney.wordpress.com    
+
+Caring for God’s Laptop   HYPERLINK
+"http://www.important.ca/godslaptop"  http://www.important.ca/godslaptop
+  
+
+Cheek.org   HYPERLINK "http://www.cheek.org/fiction/index.htm" 
+http://www.cheek.org/fiction/index.htm    
+
+The Circle of Ceridwen   HYPERLINK
+"http://octavia.net/books/booklist.html" 
+http://octavia.net/books/booklist.html  
+
+Coyote   HYPERLINK "http://www.hauntedhousedressing.com/coyote.htm" 
+http://www.hauntedhousedressing.com/coyote.htm  
+
+Dark Icon   HYPERLINK "http://www.darkicon.com/Library" 
+http://www.darkicon.com/Library   
+
+Darkfin    HYPERLINK "http://www.darkfin.com/main.html" 
+http://www.darkfin.com/main.html 
+
+Diary of a Heretic   HYPERLINK "http://www.diaryofaheretic.blogs.com" 
+http://www.diaryofaheretic.blogs.com   
+
+D. S. Bauden Original Fiction 	  HYPERLINK
+"http://www.dsbauden.com/original_fiction.shtml" 
+http://www.dsbauden.com/original_fiction.shtml   
+
+Fiction by Junkfood Monkey 	  HYPERLINK
+"http://www.junkfoodmonkey.pwp.blueyonder.co.uk/Fics/ficindex.html" 
+http://www.junkfoodmonkey.pwp.blueyonder.co.uk/Fics/ficindex.html   
+
+Fields of Night   HYPERLINK "http://users.california.com/~sarapeyton" 
+http://users.california.com/~sarapeyton  
+
+From in the Shadows   HYPERLINK "http://fromintheshadows.blogspot.com" 
+http://fromintheshadows.blogspot.com    
+
+Furry Magic   HYPERLINK "http://www.furrymagic.org/disclaimer.htm" 
+http://www.furrymagic.org/disclaimer.htm    
+
+Hopcott ebooks http:// hopcott.net
+
+If He Should Lose His Own Soul   HYPERLINK
+"http://www.fables.co.uk/grownups.htm" 
+http://www.fables.co.uk/grownups.htm  
+
+Jackee’s Corner   HYPERLINK "http://fiction.jackeescorner.com" 
+http://fiction.jackeescorner.com    
+
+Kuroiyusei Original Fiction   HYPERLINK
+"http://www.kuroiyousei.net/Ofiction.htm" 
+http://www.kuroiyousei.net/Ofiction.htm  l  
+
+Lady Jaida original fiction   HYPERLINK
+"http://ladyjaida.livejournal.com/tag/original+fiction" 
+http://ladyjaida.livejournal.com/tag/original+fiction    
+
+Maximillian Lückenhaus *German   HYPERLINK
+"http://www.wahre-kunst.de/Lueckenhaus/m_sfi.html" 
+http://www.wahre-kunst.de/Lueckenhaus/m_sfi.html    
+
+Metropoppyfield   HYPERLINK "http://www.metropoppyfield.com/buy.html" 
+http://www.metropoppyfield.com/buy.html   
+
+Moments of Existence   HYPERLINK
+"http://www.freewebs.com/moments_of_existence/home.html" 
+http://www.freewebs.com/moments_of_existence/home.html  
+
+Mortal Ghost   HYPERLINK "http://mortalghost.blogspot.com" 
+http://mortalghost.blogspot.com    
+
+Nate Simpson   HYPERLINK "http://www.natesimpson.com/writing/#Novels" 
+http://www.natesimpson.com/writing/#Novels    
+
+Nicole West Original Fiction   HYPERLINK "http://www.nicolewest.net" 
+http://www.nicolewest.net    
+
+Paddy – Original Fiction   HYPERLINK
+"http://www.originalpain.com/paddy/fiction_paddy.html" 
+http://www.originalpain.com/paddy/fiction_paddy.html    
+
+Prose Dreams   HYPERLINK "http://www.prosedreams.net" 
+http://www.prosedreams.net   
+
+The Relic Triangle   HYPERLINK "http://www.relictriangle.com" 
+http://www.relictriangle.com    
+
+Richard A. Bartle Original Fiction   HYPERLINK
+"http://www.mud.co.uk/richard/fiction.htm" 
+http://www.mud.co.uk/richard/fiction.htm  
+
+Salamanders   HYPERLINK "http://home.earthlink.net/~salamanders/" 
+http://home.earthlink.net/~salamanders/   
+
+ScribeScribbles   HYPERLINK
+"http://www.angelfire.com/grrl/scribescribbles/mainmenu.htm" 
+http://www.angelfire.com/grrl/scribescribbles/mainmenu.htm    
+
+Setisia   HYPERLINK "http://www.freeonlinereading.com" 
+http://www.freeonlinereading.com    
+
+Starving Writer   HYPERLINK "http://www.starvingwriter.com" 
+http://www.starvingwriter.com    
+
+The Talespinner   HYPERLINK "http://www.angelfire.com/home/talespinner" 
+http://www.angelfire.com/home/talespinner   
+
+The Wonderful World of Bradley Stoke   HYPERLINK
+"http://bradleystoke.0catch.com"  http://bradleystoke.0catch.com  
+
+Xenacast Original Fiction   HYPERLINK
+"http://www.xenacast.com/xc/originalfiction.htm" 
+http://www.xenacast.com/xc/originalfiction.htm   
+
+Zvi’s Palm Jewish Fiction Page   HYPERLINK
+"http://home.att.net/~fiddlerzvi/PalmLit.html" 
+http://home.att.net/~fiddlerzvi/PalmLit.html   
+
+Single Authors and Sharing: 
+
+B.L. Miller’s Site   HYPERLINK "http://blmiller.net" 
+http://blmiller.net   
+
+Free Novels Online   HYPERLINK "http://starry.com/novel/authors.htm" 
+http://starry.com/novel/authors.htm  
+
+Shoujo-Ai Canada   HYPERLINK
+"http://www.katandnekomanga.ca/writing/shoujo-ai.htm" 
+http://www.katandnekomanga.ca/writing/shoujo-ai.htm    
+
+A Room of Her Own: A Dynamic Anthology of Lesbian Fiction   HYPERLINK
+"http://blmiller.net/room/index.html" 
+http://blmiller.net/room/index.html  
+
+Aphelion Webzine   HYPERLINK "http://www.aphelion-webzine.com" 
+http://www.aphelion-webzine.com   
+
+The Cobweb’s Short Stories   HYPERLINK
+"http://www.angelfire.com/ego/thecobwebs/stories.htm" 
+http://www.angelfire.com/ego/thecobwebs/stories.htm  
+
+Dark Lethe   HYPERLINK "http://reactivewriting.com/dark-lethe" 
+http://reactivewriting.com/dark-lethe   
+
+Elfwood   HYPERLINK "http://www.elfwood.com/libr/entrance.html" 
+http://www.elfwood.com/libr/entrance.html   
+
+Free the Writer   HYPERLINK "http://www.freethewriter.com/Archives.html"
+ http://www.freethewriter.com/Archives.html   
+
+Ideaomancer   HYPERLINK "http://www.ideomancer.com/main/ideoMain.htm" 
+http://www.ideomancer.com/main/ideoMain.htm   
+
+Iyinka’s Original Fiction
+
+
+
+
+
+Category III: channels to market: third parties who acquire rights to
+manufacture, distribute and sell print or electronic books 
+
+Channels to market, as mentioned in the definition of categories, is the
+term increasingly used to represent the combination of manufacture,
+distribution, discovery and sales mechanisms that is flourishing on the
+Internet. In the pre-Internet print book world, distribution of print
+was tightly controlled by a few book wholesalers, who supplied titles
+from multiple publishers to sellers and institutions, such as schools
+and libraries. Discovery of titles was accomplished primarily through
+publishers advertising and marketing, reviews, compendia such as Books
+in Print, library catalogs and browsing bookstore shelves. Amazon
+pioneered the “channels to market” concept of providing a mechanism
+for consumers to find and order print titles from multiple publishers,
+extending to used as well as new books and into other media, including
+electronic books. “Channels to market sites,” contract with
+publishers and sometimes publishing services to sell print and
+electronic books on their sites in specific formats, readable on
+specific devices.
+
+Initially, we had classified channels to market as a secondary type of
+commercial publishing entity, along with primary born-print and
+born-digital publishers of electronic books. However, toward the end of
+our analysis, we put them in their own category because of the
+increasing tendency of both commercial publishers and authors who use
+publishing services to be combined in channels to market. Not all
+channel to market sites include books from publishing services, but
+Amazon as one of the largest channels to market companies does, and for
+numerous other publishing services, it is a fee-based alternative
+authors can choose. As a result, channels to market are increasingly
+including titles from a mix of publishing sources. In other words,
+authors who publish their own work can be included in some of the most
+used channels to market.
+
+Twenty-seven “channel to market” sites were identified in our
+sample. Several examples have been chosen for short descriptions:
+eBooks, Fictionwise, NetLibrary and Overdrive, and Mobipocket and Kindle
+Store (both Amazon companies), and LightningSource. 
+
+eBook.com calls itself “the digital bookstore.” It sells electronic
+copies of print titles and also born-digital titles. It contracts with
+publishers to buy a non-exclusive Internet right to digitally store,
+reproduce and transmit titles; royalties are paid to the author through
+the publisher. e-Books distributes books in Adobe PDF and encrypts books
+using Adobe Content Server. 
+
+Fictionwise, an e-book and audio-book publisher   HYPERLINK
+"http://www.fictionwise.com/AuthorInfo.htm" 
+http://www.fictionwise.com/AuthorInfo.htm  mentioned earlier, is
+interesting because in addition to contracting with publishers, it will
+contract directly with authors who have more than 10 published print
+books. It offers books in unencrypted formats and in Adobe, Microsoft
+and Mobipocket Secure (i.e. encrypted) formats. 
+
+NetLibrary and Overdrive are examples of companies that do not sell
+primarily to consumers but to third parties. NetLibrary is the eContent
+division of OCLC. When accessing NetLibrary from a member library
+system, the NetLibrary site shows the titles owned by the member.
+Overdrive targets multiple third parties, including libraries, schools,
+retailers, and enterprises and tailors the product it sells to each
+market. Overdrive also hosts the Digital Media Locator,   HYPERLINK
+"http://www.ebooklocator.com/"  http://www.ebooklocator.com/ , which
+locates libraries that have contracted with Overdrive to provide patrons
+with free downloads of specific titles. The Locator is a strategic
+alliance with OCLC,  utilizing Worldcat.
+
+Mobi-Pocket (since 2005 an Amazon company) and Amazon are examples of
+channel to market sites that have their own branded devices but also act
+as channels for content for other devices. Amazon has recently
+introduced the Kindle, which has many of the features Hyatt mentioned as
+necessary for the “one device” that would spark consumer interest in
+digital books. Kindle downloads digital content, including books,
+newspapers, magazines, and blogs, from the Kindle Store,   HYPERLINK
+"http://www.amazon.com/b?ie=UTF8&node=133141011" 
+http://www.amazon.com/b?ie=UTF8&node=133141011 , either directly from
+your Kindle or from the Amazon site to your Kindle via wireless. The
+device itself is the size of a paperback book. Experts and consumers
+alike have varying opinions of reading quality. The Fictionwise Kindle
+FAQ offers insights into Amazon’s business decisions with regard to
+channels other than Amazon for distributing to the Kindle and
+illustrates the jockeying for position that now characterizes the e-book
+market. At this writing in late January, 2008, the Amazon site lists the
+Kindle as temporarily out of stock, but is taking orders.
+
+LightningSource, https://www.lightningsource.com/, describes itself as
+“demand-driven book manufacturing and distribution” services. They
+provide rapid print-on-demand electronic book fulfillment services for
+publishers to retailers and libraries. LightningSource is illustrative
+of the emergence of a stream of print POD books from either print or
+electronic files supplied by the publisher, as well as electronic books
+from digital files provided by the publisher. Interestingly but perhaps
+not surprisingly, LightningSource is a subsidiary of Ingram Industries,
+owners of Ingram Book Group, one of the largest wholesalers of books in
+the United States.  LightningSource does not reveal their criteria for
+what and who constitutes a publisher, but it is highly probably that
+small niche publishers, even individuals acting as publishers, can enter
+the publishing arena through LightningSource. According to the
+LightningSource website, they print a million books a month and the
+average print run is 1.8 books.
+
+Table VII: Channel to Market Sites
+
+Fictionwise
+
+ACLS Humanities E-Book   HYPERLINK
+"http://www.humanitiesebook.org/intro.html" 
+http://www.humanitiesebook.org/intro.html   
+
+Adobe Digital Media Store
+http://www.adobe.com/products/digitaleditions/library 
+
+Amazon.com (also distributes born digital ebooks)
+http://tinyurl.com/33xrm2
+
+Aneas eBookStore http://www.aneas.net/ebookstore 
+
+Audible.com *audio books http://www.audible.com 
+
+Books on Board http://www.booksonboard.com 
+
+Bookshare.org *ebooks for the visually impaired   HYPERLINK
+"http://www.bookshare.org/" http://www.bookshare.org  
+
+Campus eBookstore   HYPERLINK "http://www.campusebookstore.com" 
+http://www.campusebookstore.com 
+
+Cartoon eBooks http://www.cartoonebooks.com 
+
+Cyberread http://www.cyberread.com 
+
+Diesel Ebooks http://www.diesel-ebooks.com 
+
+eBook Mall http://www.ebookmall.com  
+
+ebooks.com http://www.ebooks.com 
+
+eBooks from Tess http://www.tessebooks.com/index.php?cPath=25_10 
+
+EbooksLib *also multilingual, also POD   HYPERLINK
+"http://www.ebookslib.com"  http://www.ebookslib.com 
+
+eFollett.com http://ebooks.efollett.com 
+
+eLibrary http://e-library.net 
+
+eReadable.com http://www.ereadable.com 
+
+eReader.com http://www.ereader.com 
+
+MemoWare PDA Bookstore http://www.pdabookstore.com 
+
+Mobipocket   HYPERLINK "http://www.mobipocket.com" 
+http://www.mobipocket.com 
+
+NetLibrary http://company.netlibrary.com/AboutUs.aspx
+
+Numilog eBooks http://www.numilogebooks.com 
+
+Powell's Books http://www.powells.com/ebookstore/ebooks.html 
+
+TecKnoQuest   HYPERLINK "http://www.tecknoquest.com" 
+http://www.tecknoquest.com 
+
+OverDrive   HYPERLINK "http://www.overdrive.com/" 
+http://www.overdrive.com/  
+
+
+
+
+
+OBSERVATIONS ABOUT SHIFTS IN BOOK PUBLISHING PRACTICES IN THE AGE OF
+NETWORKING
+
+A number of observations can be made about emerging shifts in publishing
+practices by looking across the categories analyzed above. Many of these
+observations are not new to this paper, but they have arisen here from
+empirical examination of a large number of instances, and therefore they
+provide some evidence toward validation of these shifts.
+
+Formats
+
+While it is startlingly clear that the appearance of books in electronic
+format, either born-print or born-digital, and indeed the burgeoning
+number of new born-digital publishers, is a major phenomenon occurring
+on the Internet, focusing only on electronic books masks the reality
+that re-formatting goes in numerous directions, certainly from print to
+various electronic forms, but also to audio books, and from digital to
+print, enabled by POD. 
+
+The growing quality and popularity of POD, and its growing transparent
+use by publishers, either directly or through services like
+LightningSource, and channels to market like Amazon, is increasing the
+number of print titles available and diluting at least the traditional
+notion of the technological origins of a printed book and arguably the
+traditional print-publisher based notion of the book itself. The
+popularity of POD print copies for authors publishing their work through
+publishing services also illustrates that the flow of formats is
+complex. Some channels to market offer format as a consumer choice, and
+one may speculate that that trend may continue. Commercial channels now
+exist for the direct ordering of POD books by libraries, schools and
+retailers, although the extent of their use is not clear. The impact of
+POD on book publishing is, we believe, in its infancy and will have
+possibly as dramatic a change on publishing patterns and practices as
+electronic books are having now.
+
+Shifts in publishing roles
+
+Our theoretical model arose out of notion that component roles of
+publishing have shifted over historical time from the rise of the
+western book and has directed our attention to dimensions of these
+shifts now occurring in the technological, economic and socio-cultural
+environment of the Internet. A central result of using the amended
+Adams/Barker definition of a publisher was a clearer understanding of
+the extent to which authors can act, and are acting, as their own
+publishers, and making available a wide variety of books, from products
+that can not be distinguished from the products of traditional
+publishers in appearance, and arguably in quality, to incomplete,
+informal, and unfinished explorations in writing books. 
+
+Another central recognition for us was the extent to which traditional
+publishers’ patterns and roles in manufacturer, distribution and sales
+are changing. The rise of channel to market services which offer
+remanufacture, reformatting, multiple-format distribution directly to
+customers or through third parties, and new marketing approaches through
+interaction with authors and readers, while not eliminating
+publisher’s decision-making certainly tends toward uncoupling or
+expanding functions that were once directly controlled by publishers.
+
+Standards of publishing practice
+
+Andrew Keen (2007), author of Cult of the Amateur: How the Internet Is
+Killing Our Culture, is just one of many voices who are concerned about
+the loosening of standards in publication and public discourse.
+Increasingly, the fact of publication is not a promise to the reader
+that the book has been vetted by the writing and editing professional
+elite who have dominated print publication, although many publishing
+services either offer or recommend the services of fee-based publishing
+professionals. The emergence of niche publishing, especially in areas
+that have not been well represented in mainstream publishing, either
+because of small market size or some form of stigmatization in
+mainstream society, can also be seen as a loosening of the gate keeping
+role of mainstream publishing in determining the body of book content
+available to the public. Not everyone decries this increasing inclusion
+of previously excluded content, both in substance and style, but the
+effects on society are certainly being vigorously debated. 
+
+Costs
+
+Many changes are occurring in the cost structure of book publishing,
+which this study only hints at. It seems highly likely that arguably
+lower entry costs for publication of electronic books foster the
+expansion of electronic publishers that seems to be occurring. We have
+heard some evidence that the number of new print book publishers is
+growing, due in large part to lower entry costs through POD services,
+but that needs confirming. Certainly the cost of distribution and
+reaching markets is being redistributed, not only in electronic
+publication but in traditional print publishing, as marketing support of
+publishers of all kinds shifts. 
+
+We have not seen a definitive study of the costs to the consumer of
+electronic books; the received wisdom is that costs of electronic books
+are lower, but that needs systematic documentation. Although this study
+uncovered numerous examples of authors who are distributing their work
+for free, the motivations are not clearly understood; surely readership
+and recognition is in the mix, but the extent to which authors see
+subsidized publication and free distribution as a path to recognition by
+a traditional print publisher is uncertain. Certainly well publicized
+examples exist, but how frequently they occur and how they affect the
+motivation for an author to self publish is, in our minds, still
+unclear.
+
+Discovery, readership and reception and survival
+
+In this arena, there are even more unanswered questions than in the
+areas above. In The Long Tail, Chris Anderson has extensively documented
+the shift from scarce resources in all media to abundance and the
+presence of many niche products and markets, and he has suggested that
+in an environment of abundance and small niche markets, the reader’s
+ability to discover titles of potential interest to them is crucial
+(Anderson, 2006).
+
+Channels to market play an important role in discovery, primarily
+through the creation of genre lists and search strategies. Increasingly,
+commercial publishers, authors, channel sites and niche interest sites
+of many varieties are experimenting with social forms of book discovery:
+reviews, recommendations, blogs, tagging, and other ways of sharing with
+like-minded people. In the romance arena, for example, reviews on
+popular sites like Coffee Time Romance or Romance Junkies cover print
+and electronic books in niche markets as well as mainstream ones.
+
+An obvious question to ask in view of the increasingly abundant supply
+of books is whether they are finding readers. Anderson’s argument, in
+terms of economics, is that a large number of small purchases, in the
+long tail, can be economically viable. Perhaps implied in that assertion
+is some restructuring or shifting of economic models of publishers and
+channels to market. Another question begging for hard data is how much
+electronic books, from whatever publishing source, are being purchased
+or borrowed, and read.
+
+Survival of electronic, and indeed POD books, is also a issue that
+raises more questions than answers, as in all areas of digital
+preservation. John B. Thompson (2004) documents the struggles of
+publishers to shift from the mindset that their chief asset is a
+published book in a warehouse to understanding their assets as
+electronic files saved and available in reformatable condition. And the
+debates around the preservation of e-journals in an environment where
+access has shifted from ownership to licensing under restricted
+conditions can be extended to electronic books, as can the on-going
+conversations of the long-term viability of today’s electronic
+formats.
+
+FUTURE DIRECTIONS
+
+This study is our initial look at shifts in publishing practices in the
+age of the Internet and raises many more questions than it answers. Each
+of the observations above, and others, needs to be probed in greater
+detail. Data-driven studies of all sorts will be useful in documenting
+the emerging dimensions of shifts in book publishing in the 21st
+century.
+
+REFERENCES
+
+Adams, T. R., & Barker, N. (2001). A new model for the study of the
+book. In N. Barker (Ed.). A Potencie of Life: Books in society (pp.
+5-43). London: British Library and Oak Knoll Press. First published in
+1993 by the British Library.
+
+Anderson, C. (2006). The Long Tail. Hyperion.
+
+Choi, C. (2007). Got a manuscript? Publishing now a snap. Associated
+Press. Jan 2.
+
+Hyatt, M. (2005) The Death of the traditional book. Working Smart.  
+HYPERLINK "http://www.michaelhyatt.com/workingsmart" 
+http://www.michaelhyatt.com/workingsmart . Dec 11.
+
+Keen, A. Cult of the Amateur: How the Internet is Killing Culture. 2006.
+Doubleday.
+
+Thompson, J.B., (2005). Books in the Digital Age. Cambridge UK, Polity
+Press.
+
+
+
+ PAGE   
+
+Category I: Book Publishing Entities:  Entities (or individuals
+functioning as entities) who arrange to make books from multiple authors
+available electronically
+
+I.1  Publishers of born-print books providing electronic distribution 
+(print to digital)
+
+I.2 Publishers of born-electronic books, some providing POD print
+distribution (digital to print)
+
+Category II: Author as Publisher: authors themselves making the initial
+decision to publish their own work
+
+II.1 Using publishing services
+
+II.2 Using automated publishing websites
+
+II.3 Using author-created and controlled website infrastructure
+
+Category III: Channels to Market: Third-parties assisting publishers of
+both types with a variety of publishing functions.
+

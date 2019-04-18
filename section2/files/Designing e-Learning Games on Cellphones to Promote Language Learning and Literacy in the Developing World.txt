@@ -1,0 +1,187 @@
+PAPER ABSTRACT – iConference 2008
+
+Designing E-Learning Games on Cellphones to
+Promote Language Learning and Literacy in the Developing World
+Literacy is one of the great challenges in the developing world. Even more challenging is the
+tension between regional and “world” languages – that economic opportunities are often closed
+to those who are literate only in a regional language. India for instance is a country with 22
+regional and two “national languages” Hindi and English. But for most practical purposes,
+English is the language of economic opportunity. It is the language of instruction in private
+schools and all universities, a large fraction of business and government, and the language which
+is driving India’s service economy – the fastest growing in the world. Fluency in English can
+almost be equated with membership in the middle and upper classes [6]. The value of English is
+widely recognized by ordinary Indians [15], and it is the poorest citizens who are lobbying most
+strongly to expand English teaching. A recent article states that mastery of English is the “single
+most influential factor that determines access to elite educational institutions, and hence to
+important avenues of economic and social advancement” [9].
+More broadly, the literature [e.g. 6], our conversations with development professionals in Africa,
+Latin America, and Asia, and further experiences in the field indicate that a large proportion of
+low-income people want to improve their command of an appropriate “world language.” English
+is certainly one of these, as is Mandarin Chinese and Spanish. But even in countries where such a
+language is an official “national language,” many speakers (inevitably the least empowered)
+have a different native language, and many regional languages (let alone dialects) are often
+spoken. In India, Hindi and English are official “national languages,” but Hindi is native to only
+20% of the population. “World language” fluency opens the door to further education, a larger
+regional (or world) marketplace, to “new economy” outsourced jobs, and often improves access
+to government, health and legal services.
+Our current work concentrates on ESL (English as a Second Language), but we believe many of
+the lessons will transfer to other “WSL” (World language) learning challenges. Unfortunately,
+formal English teaching in public schools is not succeeding, and it is far out of reach to the large
+numbers of children who are not able to attend school regularly. From the literature [e.g. 1] and
+our fieldwork in the poorest state of India, two significant factors stand out: irregular school
+attendance owing to the need for students to work in fields, homes, etc., and the preparation of
+local teachers, who themselves have very poor training in English. Regional schools typically
+have no “English teacher,” rather a handful of teachers who cover everything. In our 3 years of
+fieldwork, we have usually been unable to communicate with local teachers in English and have
+relied on interpreters.
+At the same time, high technology – in the form of cellphones – are being used by Indians at all
+economic levels. India is the largest market for cellphones worldwide, and the majority are now
+being bought by illiterate and semi-literate users. And a growing percentage of these phones
+feature advanced multimedia capabilities for photos and gaming. We argue that these devices are
+a perfect vehicle for new kinds of informal (out-of-school) language learning. All these factors
+create an extraordinary opportunity: to dramatically expand English skills in young Indians,
+which is the fastest way to open the doors for employment and further education. While our
+
+PAPER ABSTRACT – iConference 2008
+
+work can be integrated with, and can complement the school English curriculum, the greatest
+opportunity is in out-of-school learning. The Indian children we studied, even those with work
+commitments for the family, spent an hour or so daily playing with friends, and several hours
+watching television.
+We believe that ESL learning games on cellphones can address the above challenges. Games
+have well-known “immersive” properties – that is, the learner experiences themselves as being
+“inside” the game. Games continually challenge players to develop new skills, and reward their
+acquisition. Players often spend long hours in games which allows them to develop advanced
+skills. Games can be social experiences which encourage communication with other players. And
+finally, games can be designed to mirror the real-world games that children play, providing them
+with tools and encouragement to use English recreationally outside the electronic game.
+Leveraging e-learning games for education in developing regions is not far-fetched. At least two
+non-government organizations, Pratham and the Azim Premji Foundation, have used computer
+games in their initiatives for children in the urban slums and rural areas of India respectively.
+Most importantly, a large-scale evaluation by Pratham1 showed significant gains on mathematics
+test scores from playing computer games that target math learning [2]. It is plausible that similar
+learning outcomes can be replicated using mobile games for ESL.
+In this paper, I introduce my dissertation work, which is now in its 4th year. It is informed by six
+rounds of fieldwork over three years with children living in the urban slums and rural areas of
+India. Our total time actually in the field is over six months. A goal of these field studies was to
+learn first-hand about the everyday learning contexts of the above children as part of a broader
+needs assessment. Another objective was to examine the feasibility of our ideas for technologyassisted learning, by piloting off-the-shelf software and early designs of our mobile applications
+on a very small scale with children from the urban slums and villages. Building on the systems
+requirements that we have learned iteratively from these studies, we are completing a final round
+of design and prototyping in Fall 2007 in preparation for a year-long deployment in 2008.
+
+Rural children displaying “You win!” screens from two cellphone games that we have designed. Success in these
+games, and mastery of the technology, was a considerable incentive and source of pride for these children. These
+kinds of behaviors were repeated over and over.
+
+1
+
+A longitudinal randomized experiment over more than two years with over 10,000 urban slums students.
+
+PAPER ABSTRACT – iConference 2008
+
+Since our previous findings are already published, I will only review those games that we have
+designed so far and their learning outcomes. Instead, in this paper, I want to focus on meta-issues
+related to the project’s design methodology and its interdisciplinary nature. In particular, I want
+to draw attention to the challenges of doing information systems research in this highly difficult
+domain and offer strategies based on how I would undertake a project in this domain differently
+if I had to do it a second time.
+The rest of this paper addresses the following issues:
+•
+
+What is an effective model for multidisciplinary collaboration? While the most conventional
+approach is to assemble a specialist from each domain to form a team, we have learned that
+specialists in their respective areas are not always able to relate to the unique problem that
+lies at the intersection of these multiple areas of expertise. I have often found myself acting
+as the “interpreter” between computer programmers and curriculum developer in my team.
+More importantly, I will describe the theoretical frameworks that I drew upon from second
+language acquisition [3, 4, 6, 10, 11, 12, 16] and game studies [8, 13, 14, 17], and how my
+knowledge of both areas (to a certain degree) in addition to human-centered design made it
+possible for me to perform the essential “conceptual footwork” for integrating them in our elearning game designs, even as I relied on our curriculum developer for her practical
+experience in teaching English in India.
+
+•
+
+How can we develop competencies across disciplinary boundaries that make interdisciplinary
+work possible? Here, I will trace my intellectual development from my initial schooling in
+computer science and human-computer interaction to my realization that the problem I am
+confronting in my dissertation actually belongs to the education domain, and my subsequent
+socialization in the School of Education to learn their “trade.”
+
+•
+
+What are some appropriate approaches for conducting cross-cultural research in information
+systems? While ethnographic methods are critical for understanding the practices and beliefs
+of a community, culture is a dynamic phenomenon that changes quickly especially in the face
+of rapid technology uptake (e.g. cellphones) in emerging regions. I will cite my experiences
+from an international development project in Africa involving handheld technology to argue
+that conducting feasibility studies with multiple user communities is necessary for revealing
+our cultural assumptions. In particular, I will support this claim by describing the differences
+in how children in North and South India play our games differently.
+
+•
+
+What data collection challenges are there with users in developing regions who lack the
+exposure to technology and literacy levels for them to articulate their thoughts meaningfully
+so as to be directly useful for technology design? We have found that while it is difficult to
+obtain useful data from child users other than by observing them use the technology, we have
+obtained useful feedback by showing our designs to highly educated, local informants who
+know these children well as caregivers or educators. Similarly, the mundane obstacles in
+conducting fieldwork with local communities with the help of interpreters offer clues to
+ingrained beliefs and deeper patterns of behavior that affect technology use. I will describe a
+few of these behaviors that we have observed.
+
+PAPER ABSTRACT – iConference 2008
+
+REFERENCES
+1.
+
+Azim Premji Foundation. The Social Context of Elementary Education in Rural India, 2004.
+http://www.azimpremjifoundation.org/downloads/TheSocialContextofElementaryEductaioninRuralIndia.pdf.
+
+2.
+
+Banerjee, A., Cole, S., Duflo, E., and Lindon, L. Remedying Education: Evidence from Two Randomized
+Experiments in India. NBER Working Paper No. 11904, December 2005.
+
+3.
+
+Bialystok, E., and Hakuta, K. In Other Words: The Science and Psychology of Second-Language Acquisition.
+Basic Books, 1994.
+
+4.
+5.
+
+Cameron, L. Teaching Languages to Young Children. Cambridge University Press, 2001.
+Clegg, J., Ogange, B., and Rodseth, V. Evaluating Digital Learning Material for English Language
+Development in African Primary Classrooms. IMFUNDO KnowledgeBank Paper, April 2003.
+Ellis, R. Second Language Acquisition. Oxford University Press, 1997.
+
+6.
+7.
+
+Faust, D., and Nagar, R. Politics of Development in Postcolonial India: English-Medium Education and Social
+Fracturing. Economic and Political Weekly, India, July 28, 2001.
+
+8.
+
+Gee, J.P. What Video Games Have to Teach Us About Learning and Literacy. Palgrave Macmillan, New York,
+USA. 2003.
+Kishwar, M.P. Deprivations’s Real Language., 2005.
+http://www.indianexpress.com/printerFriendly/12662.html.
+
+9.
+
+10. Larsen-Freeman, D. Techniques and Principles in Language Teaching, 2nd Edition. Oxford University Press,
+Oxford, UK, 2000.
+11. Lightbown, P., and Spada, N. How Languages Are Learned. Oxford University Press, 2006.
+12. Nunan, D. Task-Based Language Teaching. Cambridge University Press, 2004.
+13. Rouse, R. Game Design: Theory and Practice. Wordware Publishing, 2001.
+14. Salen, K., and Zimmerman, E. Rules of Play: Game Design Fundamentals. The MIT Press, 2004.
+15. Shukla, S. From Pre-colonial to Post-Colonial: Educational Transitions in Southern Asia. Economic Political
+Weekly, 1996. 31(22), 1344-49.
+16. Snowling, M.J., and Hulme, C. (Eds.) The Science of Reading: A Handbook. Blackwell Publishers, 2005.
+17. Sweetser, P., and Wyeth, P. GameFlow: A Model for Evaluating Player Enjoyment in Games. ACM Computers
+in Entertainment, 3(3), July 2005.
+
+

@@ -1,0 +1,198 @@
+Information Practices to Sustain Knowledge Building:
+The Case of the Virtual Math Teams Online Community
+Paper submitted for the Third Annual iConference 2008
+
+The sustained knowledge building of virtual groups and online communities requires that coparticipants overcome a wide range of gaps in their interactions, especially in the context of
+long-term activity across multiple episodes and collectivities. Here we present an analysis of
+the collective information practices of virtual teams engaged in collaborative problem-solving as
+part of the Virtual Math Teams (VMT) online community. Our analysis aimed at understanding
+the information practices that teams employed to bridged the apparent discontinuity of their
+collaborative interactions (e.g. multiple collaborative sessions, teams, and problem tasks) and
+exploring the role that such bridging activity plays in their knowledge building over time.
+
+Knowledge Building and Collective Information Practices
+Knowledge Building has been defined as the creation, testing, and improvement of
+conceptual artifacts (Scardamalia & Bereiter, 2006). In this sense, knowledge building is
+primarily information activity (individual and collective) carried out through a set of
+practices aimed at developing and advancing a person or a group’s understanding of a
+question, a problem, a decision, or any other knowledge gap. Knowledge building is at
+the core of many human contexts including, for example, educational settings
+(Scardamalia, 2002; Stahl, 2006a) digital libraries (e.g., Bearman, 2007; Fox & Urs,
+2002) and virtual communities (e.g., Barab, Kling, & Gray, 2004; Ellis, Oldridge, &
+Vasconcelos, 2004; Renninger & Shumar, 2002). Online contexts, in particular, make
+knowledge-building more visible and, as such, represent very unique opportunities to
+advance our understanding of how individuals, small groups and the larger community
+build, evolve, and expand knowledge.
+Naturally, knowledge building is a complex and challenging enterprise. Divergent
+perspectives often lead to problems of understanding; different work styles can result in
+interactional breakdowns, while the distributed nature of joint action over time usually
+leads to gaps of awareness and problems of coordination. Discontinuities emerging from
+long-term knowledge building have been studied from a number of different perspectives.
+The gaps that arise among events, perspectives, and participants have been an area of
+investigation in the study of individual and group creativity (e.g. Amabile, 1983; Sawyer,
+2003) as well as in fields such as Small-group Research (Arrow et al., 2000; Bluedorn &
+Standifer, 2004), Computer-supported Cooperative Work (CSCW) and Knowledge
+Management (Greenberg & Roseman, 2003; Ishii et al., 1993). Despite their interest in
+this crucial topic, most studies have concentrated solely on characterizing the outcomes
+of groups and communities who successfully overcome discontinuities but few
+descriptions have been offered of the information practices that lead to such outcomes.
+Among these outcomes we can list the existence of “information bridgers” in group-togroup collaboration (Mark, Abrams, & Nassif, 2003), the use of boundary objects in
+interdisciplinary collaboration (Star, 1989), the emergence of “shifting epistemologies”
+(Bielaczyc & Blake, 2006), and the growing orientation to collective knowledge
+advancement in communities (Scardamalia, 2002). Our interest lies in characterizing how
+
+specific information practices are used to overcome relevant gaps in collective
+knowledge building.
+Case Study: The Math Forum and the Virtual Math Teams (VMT) online communities
+The Math Forum (http://mathforum.org) is an online community, active since 1992. It
+promotes technology-mediated interactions among teachers of mathematics, students,
+mathematicians, staff members and others interested in learning, teaching and doing
+mathematics. As the Math Forum continues to evolve, the development of new
+interaction supports becomes essential for sustaining and enriching the mechanisms of
+community participation. As an example, the Virtual Math Teams (VMT) project
+investigates the innovative use of online collaborative environments to support effective
+mathematical work by small groups. In the VMT project, small groups of students come
+together to work through a special online environment that provides them with an array
+of tools to conduct their collaborative problem-solving activity, sustain it over time, and
+interact with other interested individuals and groups (Wessner et al., 2006).
+During the spring of 2005 and 2006 we conducted two case studies of VMT activity to
+explore issues of continuity and sustainability of collaborative knowledge building. In
+each case, five virtual teams were formed with about four non-collocated secondaryschool students selected by volunteer teachers at different schools across the United
+States. The teams engaged in online math discussions for four hour-long sessions over a
+two-week period. They used the VMT virtual room environment (Wessner et al., 2006)
+which combines a persistent chat tool with a shared whiteboard in addition to some other
+interactional supports. At the start, the teams were given a brief description of an openended mathematical situation and were encouraged to generate and pursue their own
+questions about it. Later on, the teams were given feedback on their prior work and the
+work of other teams and were encouraged to continue their work.
+The goals of our analysis were to understand how teams of participants in the VMT
+online community managed the apparent discontinuity of their interactions (e.g. multiple
+collaborative sessions, teams and tasks), and to explore the relationship between such
+activity and the teams’ knowledge building over time. We employed the approach of
+ethnomethodology (Garfinkel, 1967) to examine the sequences of events by using
+recordings and artifacts from each team sessions. As part of the phenomenological
+perspective, ethnomethodology is based on naturalistic inquiry to inductively and
+holistically understand human experience in context-specific settings (Patton, 1990). For
+our purposes, we examined each of the 37 sessions recorded, paying special attention to
+the sequential unfolding of the problem-solving episodes in which each team participated.
+Constant comparison through the entire dataset led to our refinement of the structural
+elements that define the information practices presented below.
+Information Practices: Local, Longitudinal and Expansive Continuity
+Our study of bridging practices revealed a series of information practices which allowed
+the teams to cross over the boundaries of time and link together different episodes of
+
+collective action. The three most significant practices documented in our analysis are:
+Framing Narratives of past activity as resources for new tasks, Collective remembering,
+and Projective Memory.
+By framing narratives of past activity as resources for new tasks, teams were able to
+construct and use “reportables” such as rules, procedures, or results that had been
+discovered in prior activities and construct new tasks for their current activity. In doing
+this, participants seemed to contribute to the creation of a team history constructed out of
+episodes of interaction and the relevant team members’ biographies. Projective Memory,
+the least common of the three practices documented, involved the planning and
+configuration of future work out of incomplete work (e.g. missing explanations), further
+challenges (e.g. more complex problems), or possible new tasks. Finally, through
+Collective Remembering, participants and non-participants of prior activities engaged in
+reconstructing past results by juxtaposing past and present resources and, in many cases,
+advancing the frontiers of prior results.
+These information practices seemed to have one interesting structural feature in common.
+They were deployed by interweaving three central aspects of the groups’ interactions:
+time and sequences of activity, participation frameworks, and knowledge artifacts. The
+temporal or sequential organization of experience (i.e. what was done in a different
+episode of activity or at a different time, how does one action relates to something done
+before, etc.) provided the underlying structure for the teams to construct a sense of
+continuity that was “local” within an episode of interaction, “longitudinal” as it related to
+the history of the team, and “expansive” as it projected towards the past and future
+activities of other groups in the online community. By enacting specific participation
+frameworks (e.g. positioning participants as being or not involved in a specific past
+present or future activity, as those who can or should speak about a particular matter, etc.)
+teams managed their ongoing dynamic interactions and the creation and management of
+knowledge artifacts such as tasks and other problem-solving resources. These three
+elements were central to the information practices related to continuity.
+In summary, bridging activity allowed the teams to cross over the boundaries of time,
+activities, collectivities, or perspectives. Bridging then seems to define a set of
+information practices through which participants deal with the discontinuities relevant to
+their joint activity. Another way to describe bridging might be to say that they are
+concerned with what Roschelle and Teasley (1995) described as the construction and
+maintenance of a "joint problem space." Originally this space was theorized as a "shared
+knowledge structure" that integrated goals, descriptions of the current problem state, and
+the awareness of available problem solving actions. In our case, we have seen that this
+joint problem space is significantly distributed over time, across participants and artifacts,
+and also that specific information practices are related to its construction, maintenance
+and use.
+The successful construction and maintenance of a joint problem space constitutes a
+central challenge of effective collaborative knowledge building (Roschelle & Teasley,
+1995; Stahl, 2006b; Suthers, 2005). Several studies in the field of computer-supported
+
+collaborative learning have shown that the interactional manner in which this
+intersubjective problem space is created and used determines the success of the
+collaborative experience (e.g., Barron, 2003; Chi, 2000; Dillenbourg et al., 1995;
+Hausmann, Chi, & Roy, 2004; Koschmann et al., 2005; Wegerif, 2006). Our present
+analysis has shown that this challenge escalates in contexts characterized by longitudinal
+activity across multiple collectivities but that specific information practices can be
+deployed for teams to manage this complexity. To establish continuity and sustainability,
+virtual teams and online communities “bridge” multiple elements of their interactions
+continuously a very consequential undertaking that lies at the core of effective collective
+knowledge building.
+
+References
+
+Barab, S. A., Kling, R., & Gray, J. H. (Eds.). (2004). Designing for virtual communities
+in the service of learning. Cambridge, UK: Cambridge University Press.
+Barron, B. (2003). When smart groups fail. Journal Of The Learning Sciences, 12 (3),
+307-359. Retrieved from <Go to ISI>://000183896600001
+Bearman, D. (2007). Digital libraries. In B. Cronin (Ed.), Annual review of information
+science and technology (pp. 223-272): American Society of Information Science
+and Technology (ASIS&T).
+Chi, M. (2000). Self-explaining expository texts: The dual processes of generating
+inferences and repairing mental models. In R. Glaser (Ed.), Advances in
+instructional psychology (pp. 161-238). Hillsdale, NJ: Lawrence Erlbaum
+Associates.
+Dillenbourg, P., Baker, M., Blaye, A., & O'Malley, C. (1995). The evolution of research
+on collaborative learning. In P. Reimann & H. Spada (Eds.), Learning in humans
+and machines: Towards an interdisciplinary learning science (pp. 189-211).
+Oxford, UK: Elsevier.
+Ellis, D., Oldridge, R., & Vasconcelos, A. (2004). Community and virtual community. In
+B. Cronin (Ed.), Annual review of information science and technology (pp. 145186): American Society of Information Science and Technology (ASIS&T).
+Fox, E. A., & Urs, S. R. (2002). Digital libraries. In B. Cronin (Ed.), Annual review of
+information science and technology (pp. 503-589): American Society of
+Information Science and Technology (ASIS&T).
+Garfinkel, H. (1967). Studies in ethnomethodology. Englewood Cliffs, NJ: Prentice-Hall.
+Hausmann, R., Chi, M., & Roy, M. (2004). Learning from collaborative problem solving:
+An analysis of three hypothesized mechanisms. Paper presented at the 26nd annual
+conference of the Cognitive Science society Proceedings pp. 547-552.
+Koschmann, T., Zemel, A., Conlee-Stevens, M., Young, N., Robbs, J., & Barnhart, A.
+(2005). How do people learn? In F. H. R. Bromme & H. Spada (Eds.), Barriers
+and biases in computer-mediated knowledge communication. Amsterdam: Kluwer
+Academic Press.
+
+Mark, G., Abrams, S., & Nassif, N. (2003). Group-to-group distance collaboration:
+Examining the 'space between'. In K. Kuutti, E. H. Karsten, G. Fitzpatrick, P.
+Dourish & K. Schmidt (Eds.), Proceedings of the 8th european conference of
+computer-supported cooperative work (ecscw 2003) (pp. 99 - 118). Helsinki,
+Finland.
+Renninger, K. A., & Shumar, W. (2002). Building virtual communities. Cambridge, UK:
+Cambridge University Press.
+Roschelle, J., & Teasley, S. (1995). The construction of shared knowledge in
+collaborative problem solving. In C. O'Malley (Ed.), Computer-supported
+collaborative learning (pp. 69-197). Berlin, Germany: Springer Verlag.
+Scardamalia, M. (2002). Collective cognitive responsibility for the advancement of
+knowledge. In B. Smith (Ed.), Liberal education in a knowledge society (pp. 6798). Chicago: Open Court.
+Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and
+technology. In R. K. Sawyer (Ed.), Cambridge handbook of the learning sciences.
+Cambridge, UK: Cambridge University Press.
+Stahl, G. (2006a). Group cognition: Computer support for collaborative knowledge
+building. . Cambridge, MA: MIT Press.
+Stahl, G. (2006b). Sustaining group cognition in a math chat environment. Research and
+Practice in Technology Enhanced Learning, 1 (2), 85-113.
+Suthers, D. (2005). Technology affordances for intersubjective learning: A thematic
+agenda for cscl. Paper presented at the international conference of Computer
+Support for Collaborative Learning (CSCL 2005), Taipei, Taiwan.
+Wegerif, R. (2006). A dialogic understanding of the relationship between cscl and
+teaching thinking skills. International Journal of Computer-Supported
+Collaborative Learning (ijCSCL), 1 (1), 143-157.
+Wessner, M., Shumar, W., Stahl, G., Sarmiento, J., Muhlpfordt, M., & Weimar, S.
+(2006). Designing an online service for a math community. Paper presented at the
+International Conference of the Learning Sciences (ICLS 2006), Bloomington,
+Indiana.
+
+

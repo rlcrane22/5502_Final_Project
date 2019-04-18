@@ -1,0 +1,859 @@
+The Role of the Arts in an iSchool Education
+Robert Heckman
+
+Jaime Snyder
+
+School of Information Studies
+Syracuse University
+320 Hinds Hall
+Syracuse, NY 13244
+315-443-1892
+
+School of Information Studies
+Syracuse University
+337 Hinds Hall
+Syracuse, NY 13244
+315-751-3977
+
+rheckman@syr.edu
+
+jasnyd01@syr.edu
+
+ABSTRACT
+Professional education in Information Schools is predominantly
+technical and based on a rational, scientific way of thinking about
+the world. In this essay we make the argument that experience and
+interaction with the arts – aesthetic experience – should play an
+important role in the education of information professionals. Our
+discussion of the role of the arts in an iSchool education is
+structured around three basic ideas. First, we argue that the arts
+offer a pathway into complementary mode of thinking and
+knowing that is not only highly beneficial for the technical
+professions, but may also be important for the development of a
+competitive future work force. We refer to this as an artistic mode
+of knowing, and we discuss both terminology and the
+characteristics in this section. Second, we build on the ideas of
+Grant and others that focus on the organizational and societal
+importance of collaboration among individuals with diverse
+specialized knowledge. We describe how the skills needed for
+successful interdisciplinary collaboration are increasingly drawing
+on both ways of knowing. Third, we argue that much of the work
+done by information professionals has more in common than
+would first appear with the work done by design professionals and
+creative and performing artists, and thus is amenable to the
+pedagogical techniques employed in those fields. We conclude
+by offering specific iSchool examples of arts-based pedagogy and
+include suggestions for incorporating these ideas into an existing
+curriculum.
+
+Topics
+Nature and scope of iSchools and iResearch
+
+Keywords
+arts, aesthetics, studio learning, information professionals,
+iSchools
+
+1. INTRODUCTION
+In this essay we make the argument that experience and
+interaction with the arts – aesthetic experience – should play an
+important role in the education of information professionals. We
+argue that this interaction will provide a useful and necessary
+complement to the more familiar rational, scientific model that
+currently informs iSchool professional education, and discuss the
+principles inherent in an arts-based approach to learning in
+iSchools.
+Professional education in Information Schools is predominantly
+technical and based on a rational, scientific way of thinking about
+the world. Our students learn the skills required for effective
+librarianship, information systems development, and network
+administration, among others, and it is entirely appropriate that
+the primary focus of a professional education be on the technical
+knowledge and skill that professionals must master. But beyond
+technical competence, successful professionals also require the
+ability to interpret complex and ambiguous situations, interact
+with those expert in other forms of specialized knowledge, and
+constructively evaluate their own work and the work of others.
+These abilities call for an approach to knowing the world that
+complements the knowledge provided by a rational, scientific
+approach. This approach to knowing is characterized by intuitive
+understanding, emotional sensitivity, catharsis, metaphor and
+analogy. Bruner [1] proposes that the experience of art promotes
+an integrated, holistic view of phenomena that is a useful
+complement to analytic knowing.
+We structure our discussion of the role of the arts in an iSchool
+education around three basic ideas. First, we argue that the arts
+offer a pathway into complementary mode of thinking and
+knowing that is not only highly beneficial for the technical
+professions, but may also be important for the development of a
+competitive future work force. We refer to this as an artistic mode
+of knowing, and we discuss terminology and describe this mode
+here. Second, we build on the ideas of Grant [2] and others that
+focus on the organizational and societal importance of
+collaboration among individuals with diverse specialized
+knowledge. We describe how the skills needed for successful
+interdisciplinary collaboration are increasingly drawn from
+diverse ways of knowing. Third, we argue that much of the work
+done by information professionals has more in common than
+would first appear with the work done by design professionals and
+creative and performing artists, and thus is amenable to the
+pedagogical techniques employed in those fields.
+
+We explore these three assertions in detail in Sections 2, 3 and 4
+of this paper. In Section 5 we offer a specific iSchool example of
+arts-based pedagogy and include suggestions for incorporating
+these ideas into an existing curriculum.
+
+2. SCIENTIFIC AND ARTISTIC MODES
+OF KNOWING
+For the past two centuries, specialized technical workers have
+relied on an approach to thinking and knowing derived from the
+scientific method of acquiring knowledge.
+This scientific
+approach has resulted in valuable technology that has allowed us
+to produce complex and sophisticated tools. It has created
+improvements in health, prosperity and standard of living that are
+unprecedented in human history. However, the unintended side
+effects of our technological revolution (e.g. potential for mass
+destruction, climate change, etc.) make it clear that the ability to
+use technology effectively does not necessarily evolve directly
+from the scientific approach to knowing that allows us to make
+technology. In this section, we briefly sketch the outlines of an
+approach to thinking, knowing, and understanding that we believe
+can serve as a highly useful complement to the scientific approach
+to gaining knowledge.
+We label this approach the artistic mode of knowing in order to
+emphasize its distinctness from the scientific approach, but we
+recognize that the label has the potential to mislead. The two ways
+of knowing we consider do not represent a pure dichotomy, but
+rather lie on a continuum, with most thinking and knowing taking
+place somewhere in the middle, and employing both modes in
+varying degrees. Our objective is to promote a mode of thinking
+and knowing that operates in terms of a “both-and” opportunity
+rather than an “either-or” choice. Art historian James Elkins is
+promoting a similarly holistic approach in his book entitled The
+Domain of Images where he makes an argument for an inclusive
+study of images, both those deemed as art and those seen as more
+utilitarian (such as images used in science). In fact, he devotes
+several pages to discussing the inadequacy of many if not all
+art/non-art monikers, examining (and ultimately finding fault
+with) a range of terms for non-art images including: scientific,
+nonreligious, inexpressive, non- or extra-aesthetic, utilitarian,
+informational, nonrepresentational, schematic and notational [3].
+Ultimately he finds a distinction based on practice to be the most
+useful for his purposes: art images are those generally studied by
+art historians. Non-art images are not. We have followed a
+similarly pragmatic approach to clarifying our distinction between
+artistic and scientific ways of knowing and thinking about
+problems. While we continue to search for the perfect terms for
+these two modes, we will let these terms stand for the moment and
+move on to describe in more detail what each represent in terms
+of this research.
+We begin by presenting in bullet form a series of distinctions
+between the two modes of knowing and thinking:
+ Scientific thinking discriminates between and analyzes
+details. Artistic thinking synthesizes details into a single
+holistic pattern.
+ Scientific knowing focuses on category; artistic knowing
+focuses on relationship.
+ Scientific knowing relies on analysis; artistic knowing relies
+on synthesis
+ Scientific knowing segregates; artistic knowing integrates.
+
+ Scientific knowing is sequential, literal, functional, textual,
+and analytic.
+ Artistic knowing is simultaneous, metaphorical, aesthetic,
+contextual, and synthetic [4].
+There is a persistent but disconnected stream of research and
+argument that supports the need for a mode of thinking and
+knowing to complement the scientific model that dominates
+professional higher education. For example, there is growing
+collection of literature that recognizes the importance of arming
+management students with a broader range of skills in order to
+ensure success in a competitive market [5-8]. Business school
+educators are looking to the liberal arts in order to bridge the gaps
+in Information System education related to people-skills [9-13].
+The American Assembly of Collegiate Schools of Business
+(AACSB), has specifically advocated the integration of liberal arts
+education into the business curriculum [14].
+Researchers have also begun to explore the aesthetic dimension of
+information systems design. For example, Tractinsky [15] writes
+of the aesthetics of the information system design object (by
+aesthetics he means the common every day meeting of the term:
+"an artistically beautiful or pleasing appearance”). He notes that
+research in information systems has almost completely ignored
+this notion of aesthetics in order to focus on robustness and
+functionality, and speculates that this might be because the origins
+of the computing disciplines emphasize the rational model of hard
+science, efficiency, and utility. As information systems become
+more interactive and place more emphasis on visual displays, he
+argues that visual aesthetics should receive more research and
+pedagogical attention for several reasons. First, as science and
+technology provide products that dramatically exceed the
+functional needs of most humans, the aesthetic dimension
+becomes more important. Second, aesthetic interpretations and
+evaluations are often hard to overcome because they precede and
+influence reflective and cognitive interpretations. Finally, he
+argues that while some aesthetic responses are innate and
+relatively invariant, most are learned and depend on culture,
+education, and other experiences. Because they are acquired, we
+should focus on their education.
+Bennett et al. [16], writing from a business management
+perspective, note the research from cognitive psychology and
+organizational cognition that describes human limitations in the
+ability to understand and represent ambiguous concepts and
+situations. This focus on the bounded rationality of human
+problem solvers [17, 18] reminds us of the importance of being
+able to interpretand evaluate complex, ambiguous situations
+holistically, by using tools other then those that are rational, and
+analytical. Because human rationality is bounded or limited, an
+aesthetic way of approaching complex, ambiguous situations may
+provide a number of benefits, including the ability to usefully
+integrate information that at first appears to be fragmented,
+unrelated and thus ambiguous. Aesthetic understanding can help
+information professionals coherently interpret ambiguous
+situations by illuminating the correspondences and relationships
+within them.
+In other discussions on how to prepare college graduates for
+future professional jobs, the argument has often been made that
+today's market requires graduates to possess "cross functional"
+skills beyond those related to a specific professional expertise
+
+(e.g. Business-Higher Education Forum (BHEF), 1997). Such
+skills transcend professional job categories, and are often missing
+in college graduates.
+The cross-functional competencies
+frequently identified are: leadership, teamwork, problem solving,
+critical thinking, global consciousness, tolerance for ambiguity,
+and basic communication skills (listening, speaking, reading, and
+writing). The need for these skills is exacerbated by the fact that
+the US Department of Education is forecasting a shortage of
+college-educated workers in United States of more than 12 million
+by the year 2020. The nation is on the verge of a critical shortage
+of workers with college-level skills. The report calls for the
+United States to create "a nation of learners'.
+
+innovative initiatives. Many of these opportunities involve
+working with colleagues in disciplines closely aligned with the
+information field, such as computer science and business.
+However, many are bringing us in contact with partners from the
+humanities. Additionally, we have observed that many of the
+work environments our students are entering upon leaving our
+school are increasingly driven by diverse teams that include
+members from a range of technology, design and marketing fields.
+The longevity of this trend is supported by Grant’s [2] argument
+that organizations exist to provide integrating routines that allow
+individuals with diverse specialized knowledge to collaborate
+effectively.
+
+The report argues that the United States’ competitive position in
+the world depends on its ability to educate a sufficient number of
+workers who are able to interpret complex and ambiguous
+situations, solve problems, communicate, and lead.
+To
+accomplish this, the nation needs major investments and major
+changes in the models of higher education that are used to prepare
+students for the job market.
+
+Learning to participate in successful collaborations involves
+gaining so-called “people skills,” including developing methods
+for resolving conflict and acquiring the ability to articulate and
+defend one’s own ideas to people not necessarily sharing the same
+background or vocabulary. Exposure to the arts, as a complement
+to technical training, can give our students great advantage in
+these areas. Education in the arts, including literature, fine art and
+music, often focuses on 1) developing tools of empathy, 2)
+increasing awareness of the diversity of the human experience, 3)
+honing methods for reading subtext and nuanced meaning, and 4)
+cultivating an ability to interpret ambiguity from a number of
+vantage points.
+
+We propose that an arts based approach to professional education
+can provide one such alternative model. Engagement with the arts
+as a method for gaining understanding can help to address this
+gap. Bruner [1] identifies four aspects of the experience of art
+that hint at the potential benefits of this approach:
+ Connectedness – interaction with the arts can generate a
+synthetic response that helps one bridge the gaps between
+seemingly disconnected experiences in order to discover a
+cohesive view of the world.
+ Effort – interaction with the arts requires work, work that
+often demands departing from habitual and literal ways of
+looking at things.
+ Conversion of impulse –art can provide boundaries and
+forums for the experience of seemingly uncontrollable
+instincts or impulses, thus allowing for their exploration and
+understanding in ways that would be otherwise proscribed or
+inhibited.
+ Generality – interaction with the arts often creates a shock of
+recognition that provides an expanded view of the known
+These forms of understanding involve comprehending at a deep
+level, in ways that lie outside the linear, analytic mode of
+scientific method. By providing opportunities to students that will
+allow them to experience these dimensions of knowledge, we can
+enable them to more successfully tackle socially complex and
+ambiguous problems. These are precisely the types of problems
+that they will likely encounter in the real world of organizational
+life.
+
+3. THE ARTS AND INTERDISCIPLINARY
+COLLABORATION
+Our second argument stems directly from increasingly frequent
+opportunities we see at the iSchool at Syracuse University.
+Occasions for interdisciplinary collaborations within the school,
+within the university and across the wider academic community,
+as well as potential partnerships with industry, are springing up
+with great regularity. These opportunities cast a spotlight on the
+need to provide our students with a diverse set of problem-solving
+tools to help them build a strong and flexible set of critical
+thinking skills that will enable them to take part in these
+
+All of these skills are desirable, if not in fact necessary, in
+collaborative work groups. Specifically, as we will discuss
+further, exposure to a studio art working and learning
+environment provides students with the opportunity to explore
+diverse expressions and creative solutions in a group setting.
+When these situations bear the most fruitful results, students
+struggle through their own attempt to express themselves while
+simultaneously interpreting and evaluating the work of their peers.
+The interdependence of studio cohort members can become one of
+the most generative aspects of the studio art experience. Rich
+stimuli in the form of artistic content can provoke discussions
+engineered to teach intellectual skills and studio-based learning
+can provide an opportunity to try out these new intellectual tools
+in a hands-on communal environment. The marriage of theory and
+practice that marks much arts-based learning has the potential to
+enhance the ability our students to work successfully in
+collaborative situations.
+We reinforce this argument by presenting two concrete examples
+of opportunities for collaboration that would be greatly enhanced
+by providing participating students with exposure to the types of
+skills gained through experiences with the arts.
+Colleagues at the iSchool at Syracure have been advocating the
+creation of a profession devoted specifically to the support role
+that information professionals play in enabling people to make the
+most of new technologies. Referred to as a “cyberinfrastructure
+facilitator,” one of the main responsibilities of this position is to
+advocate for and enable the use of cyber-based systems, tools, and
+services within any context, be it financial services, education, the
+arts or sciences. Obviously a large part of this vision is ensuring
+that the information professional has adequate communication
+skills and a full understanding of the needs and culture of the
+community that he or she is serving. We believe that arts-based
+experiences in the classroom can provide students with a forum to
+hone these skills and learn how to process diverse perspectives.
+
+Another good example of the type of multidisciplinary project that
+would benefit from students well-versed in arts-informed learning
+is an initiative led by Michael McAllister, Director of Innovation
+and Design at the School of Art and Design within the College of
+Visual and Performing Arts (VPA) at Syracuse. He is advocating
+for the creation of a multimedia design center on campus that will
+enable students to get hands-on experience solving real design
+problems within the Syracuse community. In response to specific
+needs within the local community, such as education, outreach to
+underrepresented groups within the city, and small
+business/entrepreneurial startup programs, students will propose,
+develop and, importantly, implement large-scale multimedia
+projects. The program intends to bring together VPA students
+with those from the iSchool, as well as business, media and public
+policy areas. By partnering with VPA, we would provide our
+students with the chance to propose, facilitate and implement
+technology-driven solutions to an array of real world information
+problems.
+The contributions that our information students could make to
+these projects are significant, not to mention the value that they
+would get from participating. But in order to make the most of
+these experiences, we need to make sure that we are teaching
+them the skills necessary to communicate and function within
+these diverse teams. We should not neglect our responsibility to
+make sure our students are properly prepared to fully participate
+in innovative programs like this, both while they are here at the
+iSchool and after they graduate.
+In fact, we argue that many of the skills that are needed to take
+full advantage of opportunities like these are very successfully
+taught by utilizing the studio-based approach (described below)
+that advocates peer interactions, critical thinking, thoughtful and
+thought-provoking experimentation and openness to alternative
+solutions. These are also the same skills that many of our students
+will need when they enter the work force and find themselves
+working in multidisciplinary teams tackling similar problems.
+
+4. THE CYCLE OF
+PROFESSIONAL WORK
+Our third argument is that the work processes of technical
+professionals have much in common with those of design
+professionals and creative and performing artists. As a result,
+pedagogical approaches that have been found effective in
+education for the arts can also have a role in the education of
+iProfessionals. And just as the arts are becoming increasingly
+experimental and digital, so also are the information professions.
+For example, the iProfessional of the future may have to do much
+more than write a memo, a report, or make a standup presentation
+in order to communicate effectively.
+As professional
+communication increasingly gravitates to "new media," skills for
+professionals may come to rely increasingly on what we refer to
+here as the artistic mode of knowing and thinking.
+While organizations strive for a controlled and predictive state of
+operation, they also demand innovation and invention as a means
+to increase resources and ultimately gain advantage.
+By
+recognizing that iProfessionals require the ability to use both
+creative thinking and scientific rigor when confronting challenges,
+a technical education informed by arts-based practice can benefit
+both individuals and organizations.
+
+Generalizing across many technical professions (e.g. librarianship,
+information systems design, software engineering, medicine
+accounting, engineering, etc.) Figure 1 illustrates four generic
+dimensions of professional work: production, performance,
+interpretation, and critique. Technical professionals may cycle
+iteratively through all fours stages in projects where they have
+heavy involvement, or may participate in one or two stages where
+their collaborative contribution is more peripheral.
+
+Production
+
+Critique
+
+Performance
+
+Interpretation
+Figure 1. Cycle of professional work
+Production includes creation of professional artifacts. Software
+engineers write programs. Systems analysts and engineers create
+designs and specifications.
+Accountants create financial
+statements.
+And professional workers of all types create
+professional correspondence, proposals, requests for proposals,
+reports, and many other graphical and textual artifacts.
+Performance in the iProfessions includes explicit role-based
+activities (e.g. interviewing to elicit requirements by reference
+librarians and system analysts) and also ubiquitous performances
+common to all professional work,(e.g. attending/conducting
+meetings, interviews, presentations, etc.).
+Interpretation occurs whenever professionals are called upon to
+make sense of ambiguous situations, and to understand what is
+going on in times of uncertainty. Each technical profession has its
+own set of analytical tools, based on the rational, scientific model
+to assist in this task. (e.g decision trees to aid physicians in
+diagnosis, representational tools used by systems analysts to
+understand and model systems) But we argue that the rational,
+scientific ways of knowing that each profession brings to its field
+of focus are necessary, but not sufficient when interpretation
+involves complex human and organizational contexts.
+Critique involves the ongoing professional responsibility to
+evaluate the production and performance of self and others, and to
+make judgments about the professional value of such work. Each
+profession has developed rational tools to assist in this process of
+evaluation (e.g cost-benefit analysis, scoring models).
+Nevertheless we hear again and again that such evaluation tools
+are not always sufficient to fully evaluate products and
+performances in situations of high ambiguity and uncertainty, and
+where costs and benefits are strategic or less tangible.
+It is perhaps easier to see the commonalities between professional
+and artistic production and performance due to the ubiquity of
+
+professional artifacts and presentations. But the less obvious
+similarities in the areas of interpretation and critique may prove to
+be the more important because they involve skills central to
+professional judgment, skills that are more elusive and difficult to
+teach.
+
+5. APPLYING AN ARTS-BASED
+APPROACH TO LEARNING IN
+I-SCHOOLS
+At this point we introduce a practical example of how arts-related
+practices can be integrated into an existing iSchool curriculum.
+We divide methods for incorporating the arts into iSchool
+pedagogy into two categories: content approaches and process
+approaches. In future work we will discuss how to incorporate
+arts related content such as novels, poems, paintings or music as
+stimuli for discussion into professional courses. Examples of this
+type of augmentation to standard business school curricula can be
+found in the literature [10, 11, 13]. For this paper, however, we
+have selected a process-oriented strategy that introduces
+principles of studio art learning into a technical education
+classroom.
+Teaching practices commonly used in studio and performancebased pedagogy can unlock a broader spectrum of experiences for
+iSchool students, without compromising other aspects of their
+education. In fact, educators in a range of professional and
+technical fields have sought to make use of studio-based
+techniques in the classroom [19-21]. By tapping into these
+practices, iSchool educators can discover new methods for
+improving people skills and creating more flexible thinkers.
+Studio learning environments focus on idea generation,
+production and critique. It is common for problems assigned to
+students to be ambiguous and equivocal. A student is expected to
+create, present and defend their work in front of the class. The
+class is then expected to provide thoughtful and constructive
+criticism to help improve the idea. During discussion and
+evaluations, there is often there no “right” answer. Students take
+turns presenting what they have created and offering critique of
+the work of others. Much of the learning is done “out in the
+open,” within a setting that provides a shared environment for
+mistakes, inventions and questions. This setting provides students
+with opportunities to see multiple solutions, within a concentrated
+timeframe. Potential solutions can be evaluated in real time.
+Returning to the cycle of professional work, at each stage, the
+specific art-based principles can be introduced via a studio
+approach:
+Production
+Exploit communal discoveries
+Be aware of iterative and incremental progress
+Utilize visibility
+Performance
+Establish ownership
+Exercise repetition
+Observe results
+
+Interpretation
+Consider group and individual perspectives
+Encourage tolerance for ambiguity
+Explore multiplicity of meanings
+Critique
+Dialogue
+Compare and contrast interpretations
+Determine goodness of fit
+Enable change and adaptation
+As an example of how a studio-based approach can be applied to
+an iSchool curriculum, we present an adaptation of a current
+undergraduate course regularly offered by our school: IST444
+Information Reporting and Presentation. An informal survey of
+the curricula of other iSchools shows that many include a similar
+course, designed to introduce students to basic concepts related to
+successfully presenting information within a business context, in
+both oral and printed form [22]. Recognizing the sheer volume of
+information that the average professional handles in a typical
+work environment, this course provides students with tools,
+strategies and experience in making presentations with skill and
+competence. The course is designed to cover basic graphic design
+skills and software, and to provide regular opportunities for 3 to 5
+minute oral presentations. Students delivery speeches, create
+information graphics, evaluate and discuss examples of printed
+and digital information.
+With the permission of the IST444 professor of record, Susan
+Bonzi, we have reviewed the course syllabus and identified
+opportunities to align this class with the four stage cycle of
+professional work presented above. A studio-based iteration of
+the course, as described below, will be piloted in the fall of 2008
+by the second author.
+A typical instantiation of IST444 might follow a schedule similar
+to the one shown below (see Table 1), with individual and group
+presentations occurring throughout the semester. Notably the
+course is designed to introduce specific key concepts and provide
+introductory exposure to common graphics software. As such, the
+course takes a linear approaching, tackling each topic in sequence.
+The cumulative effect for students is exposure to all of the
+objective skills and techniques related to information presentation
+and reporting.
+The IST444 course is well suited to incorporating a studio-based
+approach. Currently, students work in small groups to create
+profiles for fictional businesses and each group is expected to
+generate materials for their company during the course of the
+semester. Instruction in public speaking is an important aspect of
+the course and these mock businesses provide content for a series
+of oral presentations that emulate real-world business situations.
+Concurrently, graphic design issues related to creating business
+documents such as resumes, letterhead and business cards are
+discussed. The class is structured to allow significant time for
+individual and group oral presentations while concurrently
+introducing information presentation guidelines and basic
+instruction in software such as Adobe Creative Suite and
+Macromedia Flash.
+
+Table 1.Typical class structure for IST444 Information
+Presentation and Reporting
+Weekly topics
+
+Phase of professional
+work cycle addressed
+
+Individual and Group Presentations
+(take place throughout the semester)
+
+Performance, Critique
+
+Graphic Basics
+Type
+Logos
+Types of speeches
+Constructing a speech
+Presenting a speech
+Photoshop Basics
+Advanced Photoshop
+Basic Page design
+In Design basics
+Advanced inDesign
+Letter head, business cards
+Brochures
+Newsletters
+Color, Paper
+Resumes
+Charts and graphs
+Info graphics
+Concept mapping
+Web Page design
+Flash
+
+Production
+Production
+Production
+Performance
+Performance
+Performance
+Production
+Production
+Production
+Production
+Production
+Production
+Production
+Production
+Production
+Production
+Production
+Production
+Production
+Production
+Production
+
+Our goal in redesigning the course offerings is to generate a more
+cyclical plan that iteratively guides students through the four
+stages of professional work:
+1. Production– Students generate ideas and objects.
+2. Performance Students present those ideas to their peers in a
+variety of formats
+3. Interpretation– Students analyze peer presentations in a
+formal setting
+4. Critique– Students evaluate the success of the presentations
+based on collective analysis and on their own experiences
+and opinions
+Because the course already includes a degree of Production,
+Performance and Critique (see designations, Table 1), our focus is
+on introducing elements related to Interpretation, as well as
+restructuring course content to reinforce the creative cycle that
+underlies much studio-based course work.
+Our alternate plan for the course, based on a studio approach,
+covers the same material over the course of the same amount of
+time, and exploits the power of repetition and iteration that is
+common to studio courses. Instead of the linear format shown
+above, the course could be organized as a series of iterative
+cycles, stepping students through the work cycle multiple times
+and while increasing exposure to skills of interpretation. Such a
+course might look something like this (Table 2):
+
+Table 2. Example of IST444 Information Presentation and
+Reporting based on a studio approach
+Topic
+Present yourself
+Create a profile for yourself
+Present a resume
+Alter your resume for different jobs or
+situations
+Evaluate peer resumes
+Create a company profile
+Come up with an idea for a company
+Pitch your company to the group
+Evaluate the strengths and weakness of
+your company
+Group discussion
+
+Phase of professional
+work cycle
+Production
+Performance
+Interpretation
+Critique
+
+Production
+Performance
+Interpretation
+Critique
+
+Create a brand identity for your company
+Branding and logo
+Production
+Run a focus group
+Performance
+Participate in a focus group
+Interpretation
+Group discussion
+Critique
+Present a product offered by your company
+Create an advertisement for a product
+Production
+Present the product to the group
+Performance
+Compare your product to competitors
+Interpretation
+Group discussion
+Critique
+While the specific skills and exposure to software are virtually the
+same as the more traditional linear approach, the iterative cycle
+allows students to become more familiar with the cycle itself and
+this integrated view of the process “in-action” will itself be a
+valuable tool.
+We have heard from instructors who have tried this type of
+approach that the last two steps merge together and, in the worst
+cases, result in dead-end statements from students such as, “I like
+it.” One of the challenges of adopting this approach is to maintain
+a distinct separation between the analysis of a presentation, be it a
+speech or a resume, and the ultimate evaluation of its worth
+within a given context. For example, a group analysis of a
+specific logo may reveal that half the class deems it “childish”
+while the other half sees it as “whimsical.” Arriving at that
+conclusion would be achieved during the Interpretation phase of
+the cycle. However, when we move onto critique and we look at
+the company for which the logo was created, say a company that
+makes computer game consoles designed for adult users, we can
+then start to make value judgments. That is when we may
+conclude that a whimsical logo may be better suited than a
+childish one for specific reasons related to the target audience
+profile that was part of the initial company profile, and a
+discussion of how to optimize the graphic could follow.
+
+It is also important to stress that this approach does not need to
+assume that students are or will be graphic designers. While
+students’ mechanical skills with software and visual design
+abilities may be limited, the stress here is on process and problem
+solving. Many of these students will at some point in their
+professional careers be interacting with experts in marketing and
+design. One of our goals is to provide them with the vocabulary
+and communication skills necessary to successfully collaborate
+with these other professionals, in order to make the most of the
+expertise around them. Additionally, and just as importantly, by
+providing information students with insight into a creative
+process, we will potentially enable them to participate more fully
+in these partnerships, making a wider impact by bringing their
+knowledge of information technology into new areas.
+
+6.
+7.
+
+8.
+9.
+10.
+
+6. CONCLUSION
+11.
+In this paper we have argued that experience and interaction with
+the arts should play an important role in the education of
+information professionals, and that this interaction will provide a
+useful and necessary complement to the more familiar rational,
+scientific model that currently informs iSchool professional
+education. We discussed the principles inherent in an arts-based
+approach to learning in iSchools. We showed how the work done
+by information professionals is similar to the work done by
+creative and performing artists, and those in the design
+professions. Finally, we offered an example of how an iSchool
+course is being redesigned using these ideas.
+We hope this brief account serves as a stimulus for others to
+consider, debate, and modify these ideas. If an arts-based
+approach to technical and professional education is to bear fruit,
+much research and development must be done. In future work we
+will propose research and practical agendas to carry these ideas
+forward. The arts are moving in new directions, and information
+professions are moving into unknown territory as well. As the
+experimental arts evolve to include digital media, computer
+animation, computer music, sound art, and many novel
+combinations [23], so also are the information professions
+evolving to include unexpected collaborations with colleagues
+from other fields and opportunities to make contributions across
+many social and organizational contexts. We believe that the
+educational approach we have outlined will prepare our students
+to meet these challenges.
+
+References
+1. Bruner, J., On Knowing: Essays for the left hand. 1962,
+Cambridge, UK: Beklnap Press of Harvard University Press.
+2. Grant, R.M., Toward a knowledge-based theory of the firm.
+Strategic Management Journal, 1996. 17(10): p. 109-22.
+3. Elkins, J., The domain of images. 1999: Cornell University
+Press London.
+4. Pink, D.H., A Whole New Mind. Riverhead, New York, NY,
+2005.
+5. Adler, N.J., The Arts & Leadership: Now That We Can Do
+Anything, What Will We do? Academy of Management
+Learning & Education, 2006. 5(4): p. 486-499.
+
+12.
+13.
+14.
+
+15.
+
+16.
+
+17.
+18.
+19.
+
+20.
+21.
+
+22.
+23.
+
+Bartunek, J.M. and I. Carboni, A Time for Hope: A
+Response to Nancy Adler. Academy of Management
+Learning & Education, 2006. 5(4): p. 500-504.
+Tung, R.L., Of Arts, Leadership, Management Education,
+adn Management Research: A Commentary on Nancy
+Adler's "The Arts & Leadership: Now That We Can Do
+Anything, What Will We Do?" Academy of Management
+Learning & Education, 2006. 5(4): p. 505-511.
+Denning, P.J. and R. Dunham, The Core of the Third-Wave
+Professional. Communications of the ACM, 2001. 44(11):
+p. 21-25.
+Weick, C.W., Out of Context: Using Metaphor to
+Encourage Creative Thinking. Journal of Management
+Education, 2003. 27(3): p. 323-343.
+Morris, J.A., J. Urbanski, and J. Fuller, Using Poetry and
+the Visual Arts to Develop Emotional Intelligence. Journal
+of Management Education, 2005. 29(6): p. 888-904.
+Short, J.C. and J. David J. Ketchen, Teaching Timeless
+Truths Through Classic Literature: Aesop's Fables and
+Strategic Management. Journal of Management Education,
+2005. 29(6): p. 816-832.
+Dunne, D. and R. Martin, Design Thinking and How It Will
+Change Management Education. Academy of Management
+Learning & Education, 2006. 5(4): p. 512-523.
+Weinrauch, J.D., An Exploratory Use of Musical Metaphors
+to Enhance Student Learning. Journal of Marketing
+Education, 2005. 27(2): p. 109-121.
+Harrison, J.K. and H. Akinc, Lessons in Leadership from
+the Arts and Literature: A Liberal Arts Approach to
+Management Education through Fifth Discipline Learning.
+Journal of Management Education, 2000. 24(3): p. 391-413.
+Tractinsky, N., Toward the study of aesthetics in
+information technology. Proceedings Twenty-Fifth
+International Conference on Information Systems, 2004: p.
+771–780.
+Bennett, R.H., The Mind’s Eye and the Practice of
+Management Envisioning the Ambiguous Robert H.
+Bennett, Walter J. Wheatley, E. Nick Maddox, William P.
+Anthony The Authors. Management Decision, 1994. 32(2):
+p. 21-29.
+March, J.G. and H.A. Simon, Organizations. 1958: John
+Wiley & Sons Inc.
+Simon, H.A. and J.R. Hayes, Understanding complex task
+instructions. Cognition and instruction, 1976: p. 269-285.
+Lister, B.C. Interactive Distance Learning: The Virtual
+Studio Classroom. in Proceedings of the Third
+International IEEE Conference on Multimedia, Engineering
+and Education. 1998. Hong Kong.
+Lister, B.C., Next Generation Studio: A New Model for
+Interactive Learning. Syllabus Northeast, 2001.
+Wilson, J.M. and W.C. Jennings, Studio Courses: How
+Information Technology Is Changing the Way We Teach,
+On Campus and Off. Proceedings of the IEEE, 2000. 88(1):
+p. 72-80.
+Bonzi, S., Coure syllabus for IST-444 Information
+Reporting and Presentation. 2007, School of Information
+Studies, Syracuse University.
+Monaghan, P., Where High Tech Meets High Concept.
+Chronicle of Higher Education, 2007. 53(25): p. 1.
+
+

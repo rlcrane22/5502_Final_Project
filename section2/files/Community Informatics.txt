@@ -1,0 +1,71 @@
+Community Informatics
+
+Williams, Kate (1); Durrance, Joan (2); Rosenbaum, Howard (3) 
+
+1: U of Illinois, United States of America; 2: U of Michigan, United
+States of America; 3: Indiana U
+
+This proposal is for three papers which would form all or part of a
+panel presentation reporting current work in community informatics at
+three ischools. It complements the wildcard proposal submitted on
+community technology/information/informatics, which we are each also
+part of. If there are 1-2 other paper proposals in this area we would be
+glad to be combined in one session with them.
+
+As per the request for anonymity, the paper numbers correspond to the
+authors index in the webform.
+
+All three of us will present.
+
+1 Paper: TOP Data Archive: Repurposing data to advance the emerging
+field of community informatics
+
+When a federal program which funded 600 community informatics projects
+over 11 years was shut down, researchers and staff worked to repurpose
+their files into a research dataset. Organizing the
+physical-plus-digital archive into a distributed collection proved to be
+effective teaching and research at two i-schools and one library school.
+A number of scholars across several disciplines are now using the
+dataset for their investigations. To our knowledge, there is no other
+shared community informatics dataset.
+
+Analysis of the TOP data is deepening our understanding of several
+questions, among them how social capital and social networks interact
+with technology in local communities, and allowing us to inform
+policymakers interested in TOP 2.0. The presentation will report the
+methods used and the results thus far.
+
+2 Paper: Identifying Community-Centered Outcomes
+
+Nonprofits still struggle as they attempt to effectively identify
+specific outcomes of their services that accrue to individuals, their
+families, community groups, and the larger community. These skills are
+essential both to community-focused ICTs, libraries and other nonprofit
+staff and to students who seek to build their careers in these
+institutions. Faculty at iSchools that have embraced community
+informatics are now beginning to give students the knowledge and
+experience needed to help community organizations more effectively meet
+community needs and tell their story. This presentation will provide a
+contextual framework for identifying and presenting outcomes. More
+importantly it will provide examples of outcomes identified by graduate
+students who have conducted field-based outcome studies of a variety of
+community organizations. Outcome categories include increasing knowledge
+and skill levels, personal efficacy gains, fostering social capital,
+etc.
+
+3 Paper: Theorizing community informatics: Memory practices in online
+communities
+
+Based in the insight that digital archiving is a fundamental process in
+the sciences, Bowker (2005) has proposed the concept of memory practices
+as a way to understand a new regime of information and communication
+technologies for recording and storing memory. He argues that these
+practices are technical and social and include shared standards,
+meanings and protocols; they allow data and information to be stored and
+forgotten and then retrieved and remembered. In his view, they are
+routine components of of work practices, imposing order on things,
+holding and shaping experience. This paper explores the utility of
+memory practices, seen here as technologies of remembering and
+forgetting, for understanding the infrastructures on which online
+communities depend.
+

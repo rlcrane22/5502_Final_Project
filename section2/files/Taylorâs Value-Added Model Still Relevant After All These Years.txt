@@ -1,0 +1,705 @@
+Eisenberg/Dirks 2008 p. 1
+
+Taylor’s Value-Added Model: Still Relevant After All These Years
+Mike Eisenberg, University of Washington
+Lee Dirks, Microsoft Corporation
+iConference
+February 27-March 1, 2008
+UCLA, Los Angeles, CA.
+
+Introduction
+This paper is an effort to reacquaint the information field with the work of one of its pioneers:
+Robert S. Taylor and his Value-Added Model. Taylor’s Value-Added model (1986) was a broad
+and ambitious effort to provide a unified framework for focusing on user needs and preferences
+in evaluating and designing information systems. Although developed in the early 1980s—
+before the wide-spread adoption of the microcomputer, and well-before the Internet and web–
+based technologies that have so changed our lives—the model holds up remarkably well in terms
+of explaining why various systems and systems attributes are useful and desirable or not. *
+The Value-Added Model seeks to explain what users want, why they want them, and how
+systems are able to meet (or not meet) those needs? “What do users want from information
+systems that would enable them to perform better, however “better performance” is defined in
+their context?” (Taylor p. 55) This paper updates Taylor’s work in light of dramatic
+developments over the past 20 years and demonstrates how the model remains highly applicable
+and valuable in both research and practical contexts across the interests of ischools.
+Robert “Bob” Taylor is well-known for his contributions to library and information science. His
+1968 paper, “Question Negotiation and the Reference Process,” (Taylor 1968) was one of the
+first works to emphasize a user and information perspective. It remains one of the most cited
+works in the history of library and information science. † Taylor was also a visionary and pioneer
+in the movement that led to the formation of information schools. In the mid-1970s, he assumed
+the deanship at Syracuse, changed the name to the School of Information Studies and launched
+their doctoral program and later the Master’s in Information Resources Management. Taylor
+finished his career with his work on the Value-Added Model.
+The goals of this paper are:
+(1) To reintroduce the field to Taylor’s model.
+(2) To suggest revisions to the model based on our experience and our interactions with
+information professionals and graduate students.
+(3) To demonstrate the widespread applicability of the modified model in current contexts to
+better understanding users, information, systems, as well as the scope of the information
+field.
+(4) To offer recommendations for further work to develop and use the modified model.
+
+*
+
+We state this from personal experience in using Taylor’s model in formal presentations and graduate courses.
+For example, a quick “Cited Reference Search in the ISI Web of Knowledge notes 255 citations for the 1968
+College & Research Libraries paper.
+
+†
+
+Eisenberg/Dirks 2008 p. 2
+
+The Taylor model (both the original and our proposed modified model) helps explain the
+motivation of users, why certain systems and systems features perform so well in meeting user’s
+needs or not (e.g., electronic spreadsheets, email, Google, Amazon, GUI, the Web, social
+networks). Indeed, we posit that Taylor’s model can (and should) help to guide systems design,
+user studies, marketing, and entrepreneurship in information management. This last area may be
+its most compelling use. Entrepreneurs seeking to determine new products and services can
+utilize this updated Taylor model as a check-list for improving, enhancing or developing new
+and more compelling information products and services. In this paper, we offer the modified
+Taylor value-added model as a means to better understand and explain successful
+entrepreneurship and innovation.
+The paper closes with an outline for further development, application, and research of the Taylor
+model. The ischool community continues to seek ways of explaining to wider audiences what it
+is that we do and why it is important. We believe that in re-acquainting the field with an
+evolved/updated view of Taylor’s seminal work, a functional model will greatly facilitate this
+important effort.
+Taylor’s Value-Added Model
+As noted above, the purpose of the Value-Added Model was to provide a framework for
+considering information and systems from a user perspective. Underlying the model are the
+three foundation elements of the information field—people, information, and technology:
+1. People: The main focus is on the user. Systems exist to meet the information needs of
+users. Additionally, people can be viewed as part of the system.
+2. Information: There is a hierarchy of information - the “information spectrum.” As value
+is added, we move up the spectrum from data to information to knowledge to action.
+3. Systems: The purpose of an information system is to add value to better meet user needs.
+Various systems’ processes add value in order to meet user needs.
+Taylor emphasized that information systems are all about meeting the needs of users. Systems
+and the underlying system processes, algorithms, and features exist to add value in order to meet
+those needs. The Value-Added Model provides an organized framework for considering system
+processes that add value in order to meet user needs. Taylor’s original Value Added framework
+is presented in Figure 1 (Figure 4.2 from his book (Taylor, 1986 p. 50).
+
+Eisenberg/Dirks 2008 p. 3
+
+Figure 1: Taylor's Value‐Added Model. From Taylor 1986, Table 4.2. p. 50.
+USER CRITERIA
+OF CHOICE
+
+INTERFACE (Values Added)
+
+SYSTEM (Value-added Processes)
+
+Ease of Use
+
+Browsing
+Formatting
+Interfacing I (Mediation)
+Interfacing II (Orientation)
+Ordering
+Physical Accessibility
+
+Alphabetizing
+Highlighting important terms
+
+Noise Reduction
+
+Access I (Item identification)
+Access II (Subject description)
+Access III (Subject summary)
+Linkage
+Precision
+Selectivity
+
+Indexing
+Vocabulary control
+Filtering
+
+Quality
+
+Accuracy
+Comprehensiveness
+Currency
+Reliability
+Validity
+
+Quality control
+Editing
+Updating
+Analyzing and comparing data
+
+Adaptability
+
+Closeness to problem
+Flexibility
+Simplicity
+Stimulatory
+
+Provision of data manipulation capabilities
+Ranking output for relevance
+
+Time-Saving
+
+Response Speed
+
+Reduction of processing time
+
+Cost-Saving
+
+Cost-saving
+
+Lower connect-time price
+
+The first column on the left, “USER CRITERIA OF CHOICE” includes the broad categories of
+criteria that are important to users in choosing a system or in evaluating how well a system
+performs. These criteria are not absolute or fixed. Consider the different situations of a senior
+NASA scientist and a 4th grade student. If both were using information systems to seek
+information about climate change in the Arctic, the scientist might rate quality (with the
+associated values of currency, accuracy, and reliability) as the top priority. For the 4th grader,
+ease of use (with the value accessibility) or cost-saving might be as if not more important. The
+relative priority of one or another criteria will depend on the person, situation, needs, setting,
+and other user-centered aspects.
+The second column, labeled “INTERFACE (Values Added)” includes the more specific values
+that are added in order to best meet the USER CRITERIA OF CHOICE. For example, accuracy,
+comprehensiveness, currency, reliability, and validity all can contribute to meeting the user
+
+Eisenberg/Dirks 2008 p. 4
+
+criterion “Quality.” The user criteria “Noise Reduction” relates to values of access, linkages,
+precision, and selectivity.
+Taylor’s last column is labeled, SYSTEM (Value-added processes). These are the processes,
+features, and elements of the system that add to the related values identified in column 2 (which
+in turn meet the user criteria of column 1). For example, the processes of quality control,
+editing, updating, and analyzing may contribute to the values added of accuracy,
+comprehensiveness, currency, reliability, and validity which then combine to address the user
+criterion of Quality.
+As pointed out in the introduction, this model was developed well before many of the
+technological changes that have fundamentally altered human society, e.g., the personal
+computer, cell phones, the Internet, the World Wide Web. However, the model is robust and
+highly useful in explaining why these and other technological innovations are adopted and
+valued by individuals and organizations.
+Taylor explains the intricacies of the model and defines various terms in Chapter 4 of his 1986
+book. He also provides a table of definitions of his identified Values-Added. Rather than
+replicate Taylor’s elaboration here, this paper first presents suggested modifications that clarify
+and expand the original Value-Added Model. This is followed by an abbreviated discussion of
+user criteria, values added, and system processes within the context of a suggested modified
+Value-Added Model.
+Eisenberg-Dirks Modifications to Taylor’s Value-Added Model
+The core of Taylor’s model is represented in Figure 4.2 from his 1986 book, reproduced above as
+Figure 1. Our suggested modifications relate to this figure and are presented below in Figure 2.
+While we have shared these modifications previously with various audiences through
+presentations, this is the first recorded paper outlining our thoughts. Therefore, we see these as
+formative or proposed modifications, and we expect that feedback from readers as well as from
+our field-based investigations will help us to fashion a more complete and conclusive Modified
+Value Added Model. In addition, we recognize the desirability of identifying, analyzing, and
+comparing frameworks and models of fundamental concepts of information, systems, services,
+and behaviors (e.g., relevance, credibility, use). We expect that this too will lead to adjustments
+in specific elements included in the modified model. For example, we anticipate that advances
+in the application of semantic technology could have major implications in the User Criteria of
+“Ease of Use” and “Noise Reduction.”
+
+Eisenberg/Dirks 2008 p. 5
+
+Eisenberg/Dirks Modified Taylor's Value‐Added Model, Feb 2008
+Based on Table 4.2. Taylor 1986, p. 50.
+USER CRITERIA
+
+VALUES ADDED
+
+SYSTEM PROCESSES
+
+Ease of Use
+
+Browsing
+Simplicity
+Mediation
+Orientation
+Ordering
+Accessibility
+
+Alphabetizing
+Highlighting
+Formatting
+Simplifying
+
+Noise Reduction
+
+Item identification
+Classification
+Summarization
+Order
+Referral
+Precision
+Selectivity
+Novelty
+
+Indexing
+Controlled vocabulary
+Filtering
+Selection
+Hyperlinking
+Semantic connecting
+Search
+
+Quality
+
+Accuracy
+Comprehensiveness
+Currency
+Reliability
+Validity
+Authority
+
+Quality control
+Editing
+Updating
+Analyzing
+Selecting
+
+Adaptability
+
+Contextuality
+Flexibility
+Simplicity
+Privacy
+
+Data manipulation capabilities
+Sorting
+Customizing
+User profiling
+Informed consent
+Choice
+
+Performance
+
+Time saving
+Cost saving
+Security
+Safety
+
+Bandwidth
+Parallel processing
+Server size
+Processor speed
+Resource allocation/sharing
+Multi‐tasking
+Common protocols, business
+practices
+Encryption
+Password protection
+
+Pleasing
+
+Aesthetics
+Entertaining
+Rewarding
+Engaging
+Stimulating
+
+Design
+Interactive
+Gaming
+Reinforcing
+
+Eisenberg/Dirks 2008 p. 6
+
+Our first recommended changes to Taylor’s original model relate to the overarching terminology
+used. Taylor presents a three part view as the basis for the model: user, interface, and system.
+The “User” part focus on the problems which establish the criteria of choice. The “Interface” is
+a negotiating space between the user and the system and, according to Taylor, displays the values
+added by the system to assist the user in making choices. The “System” includes the specific
+processes that add specific values. (Taylor 1986, p. 49)
+These labels can be difficult in explaining and applying the model, partially because of using the
+word “values” and term “value-added” in slightly different ways in the same table. We therefore
+offer a simplified labeling of the three part view:
+•
+•
+•
+
+User Criteria
+Values-Added
+System Process
+
+Instead of “user criteria of choice” it’s more direct to simply state, “User Criteria.” For column
+two, “Values-Added” encompasses much more than just the interface. The term “Values-Added
+is still consistent with Taylor’s description of these being the “values added by the system which
+aid customers in matching their needs.” (Taylor 1986, p. 51). Lastly, in his text, Taylor refers to
+value-added processes and system processes interchangeably. “System processes” is preferred
+here as it avoids confusion with the “Values-Added” from column two. The use these terms
+helps to emphasize the relationships across the columns of the model. That is, various system
+processes.
+Our second group of modifications involves the more specific elements of the model in each of
+the three columns. Again, while the original Value-Added Model is still useful for describing
+and analyzing current user and system interactions, developments over the past twenty years
+point to additional criteria and related values added. Taylor himself notes that his criteria are
+broken into six categories for convenience sake and are not graven in stone. (Taylor 1986 p. 51)
+We agree with his statement that they are a useful way of organizing the values that are added,
+but we offer a reformulation of the last two criteria (Time-saving and Cost-saving) under the
+broader heading of Performance. We also propose an additional criterion, Pleasing, which
+relates to the values of aesthetics, entertaining, reward, and engaging.
+Taylor sought to derive his criteria and values added from the literature, but found it equally
+important to learn from professional experience. He found few studies concerned directly with
+values and user benefits, so he drew on various formal and informal sources. At this point in
+time, our suggested modifications in criteria, values added, and system processes derive from
+personal reflection and field-based experience. We recognize the importance of comparing and
+testing the modified model in relation to the literature as well as through systematic
+investigations.
+Turning to column two, now labeled simply “Values Added,” Taylor’s original list is both
+consolidated and expanded. Here are some examples:
+• For user criterion, “Ease of Use,” Taylor offers mediation and orientation as two different
+ways of “interfacing.” The modified model focuses on each more separately with the
+value of “Mediation” referring to assistance/help and “Orientation” for user familiarity or
+navigation with the system. The modified model also recognizes that the value of
+“Accessibility” is not just limited to physical, but virtual as well.
+
+Eisenberg/Dirks 2008 p. 7
+
+•
+
+For “Noise Reduction,” the revised model seeks to break out three values added nested
+within the term “access.” The modified model emphasizes item identification,
+classification, and summarization as separate values added while also offering “Referral”
+and “Novelty” as other values added to include.
+
+• “Cost saving” and “time saving” were criteria only minimally developed in Taylor’s
+original conceptualization. Cost saving was also listed as both a criterion and a value. In
+the modified model, both of these are now considered as Values related to the broader
+criterion of Performance. We expect further development of this important criterion in
+terms of associated values and system processes.
+•
+
+“Security,” “Privacy,” and “Safety” are three identified values added that are
+increasingly important. Security and Safety were determined to best relate to the newly
+combined user criterion of “Performance” while Privacy seemed increasingly associated
+with user-driven desires and therefore best associated to “Adaptability.”
+
+• As noted above, “Pleasing” is a totally new user criterion, with associated values added
+of “Aesthetics,” “Entertaining,” “Rewarding,” and “Engaging.”
+In certain instances, the values identified in “Values Added” can be applied to different “User
+Criteria.” For example, the value “Simplicity” relates to both Ease of Use and Adaptability. In
+addition, the terms “relevance,” and “usefulness,” are broad, multidimensional concepts of
+information and relate to many of the User Criteria. Relevance and usefulness may be viewed as
+infused across the entire Modified Value-Added Model. In the 1986 book, Taylor included a
+table of “Definitions of Values Added (see page 69) for all of the values included in the middle
+column. We hope to be able to do the same in a subsequent paper.
+The third column, “System Processes,” provides examples of the capabilities, approaches, and
+features of systems that might be used to add the values (noted in column 2) to meet the criteria
+of users (column 1). Systems processes are numerous and continually being developed.
+Taylor’s original model only includes a small number of system processes. We attempted to
+identify more, however even these are only representative of abundant options.
+For example, although likely inferred in Taylor’s original work, the concept of navigating
+connections via electronic links (labeled as the system process “Hyperlinking” in the Modified
+Model is now obvious and a critical concept for nearly all information systems. Hyperlinking
+was conceived by computer scientist Ted Nelson in the 1960s, but it didn’t gain widespread use
+until the development of the World Wide Web by Tim Berners-Lee decades later. Still, it is not
+an exaggeration to say that this relatively recently-implemented system process—hyperlinking—
+is one of the most significant of all system processes because it is the foundation of the World
+Wide Web, our most pervasive and now essential information system.
+The Modified Value-Added Model helps to explain why this is so. Hyperlinking is a System
+Process that relates to the values added of “Item Identification,” “Referral,” “Precision,” and
+“Selectivity.” These values, in turn, help to meet the User Criteria of Noise Reduction. This may
+seem strange at first because the World Wide Web is often criticized as noisy and contributing to
+information overload. However, that’s not due to hyperlinking. In fact, hyperlinking helps users
+
+Eisenberg/Dirks 2008 p. 8
+
+to sift through the noise by identifying items of interest, by referral to precise websites or
+sections of websites, or by allowing creation of selected links by website or content creators.
+The usefulness of other information systems are similarly explained by the model by making the
+connection to related Values Added in order to meet identified User Criteria. Consider cell
+phones as an information system. For some people when choosing a phone, it’s the “Pleasing”
+criteria that are most important. For these users it’s important to emphasize the values added of
+aesthetics, entertaining or stimulating. These values are added by the systems processes of
+design and interactivity. For other users, it’s “Ease of Use” that’s crucial, and they are looking
+for a cell phone that is simple, accessible, and easy to navigate through functions (i.e.,
+orientation). System processes of highlighting, formatting, and simplifying help to address these
+values and criteria.
+For a final example, we return to the situation and needs of the senior NASA scientist and a 4th
+grade student noted earlier in this paper. Both were seeking information about climate change in
+the Arctic. For the scientist, it is likely to be all about “Quality” of information and the values
+that meet the quality criterion are accuracy, currency, comprehensiveness, authority, and
+reliability. System processed that address these values include quality control in research
+studies, editing and updating of papers and reports, analyzing data sets, and selecting valid and
+reliable information from authoritative sources. But, the 4th grade student has different needs that
+might relate to “Ease of Use,” and also “Pleasing.” System processes of formatting,
+highlighting, and simplifying may add values of simplicity, accessibility, and simplicity for ease
+of use. For pleasing, there are processes that provide interactivity and reinforcement.
+Finally, although we anticipate the Modified Value-Added Model to evolve in time, we feel that
+there are varying degrees to which each column may or may not change. For example, the “User
+Criteria” column seems sufficient and complete and unlikely to change substantively. We made
+only minor modifications to the original concepts established by Taylor—combining Cost
+Effective and Time Saving into Performance and adding the new criterion, “Pleasing.” The
+“Value-Added” column is somewhat definitive, but certainly not comprehensive. We expect this
+column will require some adjustment and expansion. The most frequent changes will take place
+in the “System Processes” column. As with Taylor, this column is intended to be representative
+and to change as new system processes and capabilities emerge.
+Applying the Modified Value-Added Model
+The sections above presented Taylor’s original model and explained our proposed modifications.
+We also attempted to demonstrate how the model can be used to explain how different
+information systems can add value in order to meet user needs. In our view, the sustained
+relevance of Taylor’s Value-Added work is impressive. His concepts and framework are as
+applicable and useful as they were twenty years ago. This section offers thoughts as to how the
+Modified Value-Added Model is applicable and valuable in practical and educational contexts.
+Practical Applications
+The role of information professionals has evolved dramatically over the past 20 plus years. In
+the ever-quickening transition from the information field’s past (e.g., punch and catalog cards) to
+the future (e.g., XML and metadata), the information manager is now thrust into the forefront of
+a multi-billion dollar information technology industry. Librarians and other traditional
+information professionals are now competing with major corporations and an entire industry of
+
+Eisenberg/Dirks 2008 p. 9
+
+information service and system providers facilitating access to information. This explosion of
+the information role has evolved and will continue to change, and in this process information
+professionals can continue status-quo, or can take charge and proactively adapt to address the
+growing information needs of end-users. In this new environment – this global, connected
+information marketplace with a new level of attention and scrutiny, it is critical for the
+information profession to take a new approach.
+The development of information systems and the provision of information services in industry
+are fast-paced and ever-changing. It is an extremely aggressive marketplace, where competitive
+differentiation and viable substitutes are apparent daily. In this setting, the availability of a
+simple framework that can be used to brainstorm and assess potential ideas is an extremely
+valuable resource. Using the Modified Value-Added Model to evaluate and re-evaluate
+information systems allows the information professional a way to test and improve services and
+resources in terms of meeting users’ needs. The consistent, focused application of this model
+will result in improved offerings, more successful systems and tools resulting in higher
+productivity. These types of benefits can have impact on all sectors, not just private industry.
+Shifting from the private sector, it is crucial that information professionals in the public sector
+utilize this framework as a tool as well. Whatever setting one is in, the new concept of
+“infopreneurship” is taking on greater significance.
+For example, assume an aerospace engineer is working on a new project. For her, the most
+important User Criteria is Quality. An information professional seeking to assist this user could
+consider the values options noted in the middle column (e.g., Accuracy; Comprehensiveness;
+Currency; Reliability; etc.) and begin to think about how to add these values given the
+information set or the systems available. If the available systems are not able to meet the desired
+values, other systems or services can be brought into play. In this way, each of the first two
+columns of the Modified Value-Added Model serve as useful pivots that provide information
+professionals or managers a framework for considering possible products, services, or systems to
+use.
+From an industry perspective, the Modified Value-Added Model can be applied in at least three
+ways:
+1. Developing New Systems & Tools: If charged with developing a whole new information
+product or information service from scratch, the Modified Value-Added Model can provide a
+thorough, defined way of vetting potential ideas on top of whatever information source you
+are working with.
+•
+
+Scenario: Two business partners are considering the creation of a brand new online
+travel guide. They can consider the User Criteria of “Quality” and then analyze at the
+different Value Added options. It is important to keep in mind that each Value Added
+can be considered to have a broad range of choices:
+Value Added:
+QUALITY
+Accuracy
+
+Comprehensiveness
+
+High‐End
+
+Low‐End
+
+of the Quality range
+
+of the Quality range
+
+Editors vetting or fact‐checking
+data prior to publishing;
+established human quality‐
+control process.
+Content is sourced from
+
+Automatically re‐directing
+information feed from
+another source without
+review.
+Content only acquired from a
+
+Eisenberg/Dirks 2008 p. 10
+
+Currency
+
+Reliability
+
+multiple definitive sources, on a
+global basis.
+Website content is updated real‐
+time, as changes occur, updates
+are automatic.
+Links on the site are
+automatically checked nightly,
+and are deleted if not
+resolvable.
+
+single source (from the US).
+Web‐site content is updated
+manually, twice a week
+System doesn’t permit
+automatic link checking, so
+this is a manual process.
+
+Etc.
+Note: In the above example, automatic vs. manual is an important distinction between the two (fictitious)
+product offerings: if some cases, automatic is high‐quality because it is instantaneous, whereas in other
+cases it can be low‐quality since it has no human/editorial review. In this way, you can see the due‐diligence
+that needs to go into the value‐added assessment process.
+
+2. Refining / Improving Existing Tools: Likewise, if the goal is to assess and improve and
+existing offering, this Model can help to develop scenarios to generate and test such
+enhancements. Following the scenario above, once the small firm’s online travel website
+was doing well and the partners need to innovate to attract new customers or lure customer
+away from a competitor, they can look at possible ways to enhance your existing services.
+•
+
+Scenario: Focusing on the “Adaptability,” here are some possible ideas on how to
+brainstorm new ideas for the existing version of the travel website:
+Value‐Added:
+“ADAPTABILITY”
+Contextuality
+Flexibility
+Simplicity
+Privacy
+
+Potential Service Enhancement
+Website knows if users are accessing the site from a non‐US
+domain, and is able to high‐light local/regional travel tips
+depending on your location.
+Website knows if users are accessing via a PC or a mobile device,
+and automatically adjusts content to the appropriate screen‐size.
+If users repeat the same trip on a regular basis, website allows
+you to replicate the itinerary automatically to facilitate future
+travel.
+Users are able to login to a private section where they can save
+trip itineraries or bookmark favorite travel recommendations, etc.
+
+Etc.
+
+Studying Competitive Offerings: Even if the immediate goal isn’t to produce an offering, but
+instead to better understand and assess what directions other products and services might be
+taking, one could utilize this same approach with the intent of exhaustively listing out future
+developments by other players in the space. The key is to use the Modified Value-Added Model
+to systematically identify user needs and preferences, the values that will meet those preferences,
+and the system process that will add the desired values. The model facilitates prioritization by
+providing a framework linking user needs, values, and system processes as well as specific items
+within each.
+
+Eisenberg/Dirks 2008 p. 11
+
+For businesses and organizations, the Modified Value-Added Model can systematically assist in
+assessing and understanding:
+• The landscape of environment/market-space.
+• Varying user/customer needs and potential product/service requirements.
+• Other competitors and/or substitutes that are present.
+• Existing offering(s), to help define new functionality and why it should be successful.
+Educational Applications
+Information school graduates need to be prepared to enter a marketplace of ever-increasing
+complexity. Either as employees in a private sector business or a public sector organization
+(including libraries), all areas are now competing against new forces in our traditional realm–
+namely corporate entities such as Google or Microsoft –who are facilitating access to an evergrowing volume of information. It is critical that we prepare students to learn to vie for the time
+and attention of information-seekers, to evolve our approach. How that approach is manifest
+itself has changed dramatically in the past 10-15 years and will need to continue to evolve to
+keep pace with the developments in the marketplace as well as the needs of end users seeking
+information for their daily tasks.
+Students benefit from a more systematic approach that includes an enhanced service-orientation
+and an overall greater entrepreneurial tact. Taylor’s Modified Value-Added Model is a prime
+example of the sorts of tools and resources that need to be developed, tested, utilized and
+evangelized across our profession. Only in this way can we hope to ensure our students are wellpositioned for success in the job market.
+Over the past three years at the University of Washington, both authors have successfully used
+the Modified Taylor Model in both undergraduate and graduate-level classes including
+Foundations of Informatics, Human Aspects of Information Systems, and the Life Cycle of
+Information. We find that the model helps students to move from theoretical understandings of
+the “user perspective” to a something more tangible. Students are able to apply the model to a
+range of user, use, and systems situations including:
+• Persons selecting a cell phone or mobile device.
+• The merits and limitations of car dashboard layouts.
+• Comparison of search engines.
+• Students in distance learning courses.
+• Sports information systems.
+A typical class exercise, lab, or assignment related to the Value-Added Model requires students
+to be able to complete the following:
+1.
+2.
+3.
+4.
+
+Identify an information situation involving users, needs, and information systems.
+Describe the situation and use from a systems (input-process-output) perspective.
+Describe the situation from a user perspective.
+Analyze the situation in terms of:
+• User Criteria
+• Values Added
+• System Processes.
+
+Eisenberg/Dirks 2008 p. 12
+
+In every instance, using the Modified Value-Added model to analyze of users, situations, needs
+and systems result in rich discussion and brainstorming with students. Applying the model also
+seems to engage them to think in a more systematic and entrepreneurial manner.
+Future Work
+As noted at the outset, this paper seeks to reintroduce Taylor’s Value-Added model because of
+its usefulness as a framework for focusing on user needs and preferences in evaluating and
+designing information systems. Through analysis, reflection, and explanation, we attempted to
+demonstrate how a Modified Value-Added Model remains highly applicable and valuable in
+practical and educational contexts.
+In terms of research, there is considerable work to be done in terms of (1) further developing and
+refining the Modified Value-Added Model; (2) applying and testing the model across situations;
+and (3) using the model in research studies to better understand users, needs, and systems. In
+addition, we are particularly interested in (4) studying innovation and entrepreneurship from a
+value-added perspective. Lastly, we hope to (5) more systematically determining the usefulness
+and impact of the model in information school educational programs
+Further development and refinement of the Modified Value-Added Model involves delving
+deeper in to the literature to make connections between the Value-Added Model and other
+conceptualizations of key concepts and understandings in information science (e.g., Saracevic
+(2007) and Schamber (1994) on relevance; Metzger (2007) on credibility). There is also
+literature to consult related to information behavior and information management. We also
+encourage others to share insights on this paper. We are considering setting up a Wikipedia
+entry on Taylor’s Value-Added Model in order to facilitate interaction and discussion and to
+publicly and collectively further develop the model. We also encourage others to engage in
+follow-up studies and share results with us and through various forms of publication.
+Our preference for applying and testing the model across situations involves field-based research
+in businesses, particularly information oriented start-up companies. We envision both qualitative
+(case study) approaches as well as qualitative data gathering related to users and situations in
+terms of User Criteria, Values Added, and System Processes. Here too, we hope that other
+researchers will consider using the model in user behavior and systems studies.
+Development and research related to educational programs will involve working with faculty and
+students across information schools, programs, and courses. This paper is a first effort to share
+our thoughts and experiences with the broader information field and education community. Our
+hope is that this paper will serve to raise interest in using the model in courses and programs. If
+there is interest, we would be interested in forming an online community interested in sharing
+ideas, materials, and approaches. This might be followed by a systematic study of the usefulness
+and impact of the model in information education programs.
+
+Eisenberg/Dirks 2008 p. 13
+
+References
+Metzger, Miriam M. (2007) “Making sense of credibility on the Web: Models for evaluating
+online information and recommendations for future research,” Journal of the American Society
+for Information Science and Technology. Hoboken: Nov 2007. Vol. 58, Iss. 13; p. 2078
+Saracevic, Tefko. (2007) “Relevance: A review of the literature and a framework for thinking on
+the notion in information science. Part II: nature and manifestations of relevance,” Journal of the
+American Society for Information Science and Technology. Hoboken: Nov 2007. Vol. 58, Iss. 13;
+p. 1915
+Schamber, Linda. (1994) “Relevance and information behavior,” In: Annual review of
+information science and technology, v29, 1994. Learned Information, 1994
+Taylor, Robert S. (1968) “Question Negotiation and the Reference Process,” College & Research
+Libraries, 29 (3): 178-194 1968.
+Taylor, Robert S. (1986) Value Added Processes in Information Systems, Norwood, NJ: Ablex.
+
+Authors:
+Michael B. Eisenberg
+Dean Emeritus and Professor
+The Information School of the University of
+Washington
+Box 352840, Seattle, WA 98195-2840
+Phone: (206) 616-1152
+mbe@u.washington.edu
+http://www.ischool.washington.edu/mbe
+
+Lee Dirks
+Director, Scholarly Communication
+Technical Computing / External Research
+Microsoft Corporation
+Redmond, WA 98052
+(425) 703-6866 - office
+ldirks@microsoft.com
+http://www.microsoft.com/science
+
+
