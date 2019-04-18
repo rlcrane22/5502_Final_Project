@@ -7,7 +7,7 @@ Items you might need to install for this script to work
 To build the index you need to run the below command once you are in the project folder.
 bash 5502_program.sh
 
-Once the index is build in section 6 here is how you can search a for a word.
+Once the index is built in section 6 here is how you can search a for a word.
 awk -v val='whereas' '$1 == val' index.txt
 
 
